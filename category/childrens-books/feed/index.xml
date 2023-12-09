@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Children&#8217;s books &#8211; Samee Ur Rehman</title>
+	<atom:link href="/category/childrens-books/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Jun 2021 02:18:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>The Universe and you!</title>
+		<link>/2021/06/the-universe-and-you/</link>
+		
+		<dc:creator><![CDATA[samee99]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2021 03:49:45 +0000</pubDate>
+				<category><![CDATA[Children's books]]></category>
+		<guid isPermaLink="false">/?p=129</guid>
+
+					<description><![CDATA[I recently wrote a short children&#8217;s book for my kids. It&#8217;s a basic primer on the universe. Have fun reading!]]></description>
+										<content:encoded><![CDATA[
+<p>I recently wrote a short children&#8217;s book for my kids. It&#8217;s a basic primer on the universe.  </p>
+
+
+
+<div class="wp-block-file"><a href="/wp-content/uploads/2021/06/2f_book.pdf"><strong>The Universe and you!</strong></a><a href="/wp-content/uploads/2021/06/2f_book.pdf" class="wp-block-file__button" download>Download</a></div>
+
+
+
+<p>Have fun reading!</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

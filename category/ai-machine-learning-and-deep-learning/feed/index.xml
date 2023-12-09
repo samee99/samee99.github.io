@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>AI, Machine Learning and Deep Learning &#8211; Samee Ur Rehman</title>
+	<atom:link href="/category/ai-machine-learning-and-deep-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 15 Jul 2021 07:32:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>Why the fuss about deep learning?</title>
+		<link>/2021/07/why-the-fuss-about-deep-learning/</link>
+		
+		<dc:creator><![CDATA[samee99]]></dc:creator>
+		<pubDate>Wed, 07 Jul 2021 19:04:45 +0000</pubDate>
+				<category><![CDATA[AI, Machine Learning and Deep Learning]]></category>
+		<guid isPermaLink="false">/?p=206</guid>
+
+					<description><![CDATA[Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning and Deep Learning over the past decade. Companies like Google, Facebook and Tesla have leveraged AI to their advantage: You might ask, computers have been around for a very long time, what&#8217;s &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p id="block-2f33eefc-da3e-491c-9108-ff5884425ee9">Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning and Deep Learning over the past decade. Companies like <a href="https://ai.google/" data-type="URL" data-id="https://ai.google/">Google</a>, <a href="https://ai.facebook.com/" data-type="URL" data-id="https://ai.facebook.com/">Facebook </a>and Tesla have leveraged AI to their advantage: </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter is-resized"><img decoding="async" fetchpriority="high" src="https://media3.giphy.com/media/H7rpSYHRyYgamxQNqw/giphy.gif" alt="" width="480" height="270"/><figcaption>Tesla autopilot uses Deep Learning to successfully navigate roads</figcaption></figure></div>
+
+
+
+<p id="block-2f33eefc-da3e-491c-9108-ff5884425ee9">You might ask, computers have been around for a very long time, what&#8217;s up with the all the fuss about artificial intelligence and in particular machine learning and deep learning in the recent past? So much so, that the media has started to paint doomsday scenarios that AI may one day take over from humans as the dominant form of intelligence on Earth!</p>
+
+
+
+<figure class="wp-block-image" id="block-20ce10af-dbaa-4a68-8b7d-673cf54f52c9"><img decoding="async" src="/wp-content/uploads/2021/06/image-15.png" alt="This image has an empty alt attribute; its file name is image-15.png"/><figcaption>Some of the headlines in the past decade related to AI takeover</figcaption></figure>
+
+
+
+<p id="block-baab06b4-5807-4d28-99f3-77677ea4d312">In reality we are a fair way away from such a scenario. A statement by Andrew Ng with respect to the above, provides a more realistic picture:</p>
+
+
+
+<blockquote class="wp-block-quote"><p>Fearing a rise of killer robots is like worrying about overpopulation on Mars. </p><cite>Andrew Ng &#8211; CEO Landing AI, Adjust Professor at Stanford University</cite></blockquote>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media0.giphy.com/media/oyhJTC7Cp50Zz1Gqbj/giphy.gif" alt="This gif has an empty alt attribute"/><figcaption>Unfortunately, you won&#8217;t be able to get to order any goodies online on the Red Planet anytime soon!</figcaption></figure></div>
+
+
+
+<p id="block-0a40c380-26b4-43da-9bcb-7136f31e8f79">In other words, we haven&#8217;t even solved some of the fundamental problems in AI and that&#8217;s why focusing on a potential AI takeover is the wrong problem to focus on.</p>
+
+
+
+<p id="block-101bff11-f562-4293-a671-760b7c5dc238">It does still beg the question, why the fuss about deep learning. After all, a quick search on <a rel="noreferrer noopener" href="https://trends.google.com/" target="_blank">Google Trends</a>, for the term &#8220;deep learning&#8221; shows an exponential increase in interest in the past decade:</p>
+
+
+
+<figure class="wp-block-image" id="block-710b77a6-6ec8-4cc3-ab8f-5949909834c4"><img decoding="async" src="/wp-content/uploads/2021/06/image-16.png" alt="This image has an empty alt attribute; its file name is image-16.png"/></figure>
+
+
+
+<p id="block-f450f136-b0cc-4812-9b5f-1fa4aab636b5">To answer why, we have to first understand some of the historical limitations of machine learning. The TLDR for why deep learning is so hot right now is that <em>Machine Learning requires Feature Engineering while Deep Learning does not.</em></p>
+
+
+
+<blockquote class="wp-block-quote"><p><em>Machine Learning requires Feature Engineering while Deep Learning does not.</em></p><cite>TLDR</cite></blockquote>
+
+
+
+<p id="block-0150416f-7b99-46ce-bf76-a2a4efa70e43">Let&#8217;s dig deeper to understand what we mean by that statement. Let&#8217;s assume you have heard all the hype about artificial intelligence and you decide that it&#8217;s time you start your own company that sells self-driving cars. As the founder, you get started with figuring out how to build an effective algorithm for safely navigating the car on the road. Such a learning algorithm should at least be able to identify when there is another car on the road. How would we do that? </p>
+
+
+
+<p id="block-0150416f-7b99-46ce-bf76-a2a4efa70e43">Let&#8217;s say you installed a camera on the front bumper and use it to capture a 1 minute video, similar to the one from your competitor Tesla. Because you are a thoughtful engineer, you chop the video into 10ms segments each of which you can now treat as an image. You now have 600 images from the 1 minute video and your task is to make the computer output whether there is a car in the image or not. The task seems simple enough: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="236" height="117" src="/wp-content/uploads/2021/07/image.png" alt="" class="wp-image-221"/><figcaption>Imagine, you are the founder of a startup building a learning algorithm for a self-driving car. An important task would be to identify other cars in the environment. <em>Given an image identify if it contains a car or not. </em></figcaption></figure></div>
+
+
+
+<p id="block-0150416f-7b99-46ce-bf76-a2a4efa70e43">Assume you know nothing about learning algorithms but you can do a bit of coding, after all you are a founder of a tech startup. You visually inspect your 600 images and manually label each as &#8220;1&#8221; if it contains a car and &#8220;0&#8221; if it does not contain a car. Now you decide to write a program to output car/no car depending on the input. So you write a simple program: </p>
+
+
+
+<pre class="wp-block-code"><code>If Data == 1
+     print('Car')
+else
+     print('No car')
+end</code></pre>
+
+
+
+<p>You show the above piece of code to your co-founder, Bob, who recently read a blog about <a href="/2021/06/what-is-machine-learning/" data-type="post" data-id="110">what machine learning is</a>. Bob shakes his head.</p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter is-resized"><img decoding="async" src="https://media0.giphy.com/media/10M4DR4P6i1XRC/giphy.gif" alt="" width="310" height="173"/><figcaption>Bob is not convinced</figcaption></figure></div>
+
+
+
+<p>Bob points out that what you wrote looks like a traditional program, i.e. it&#8217;s a hard-coded set of instructions. The data you gave to the computer consisted of 1s and 0s and you <em>instructed the computer </em>to print the correct answer and that, he argues, looks a lot like the traditional programming described in the <a href="/2021/06/what-is-machine-learning/" data-type="post" data-id="110">blog</a>:  </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="718" height="158" src="/wp-content/uploads/2021/07/image-2.png" alt="" class="wp-image-223" srcset="/wp-content/uploads/2021/07/image-2.png 718w, /wp-content/uploads/2021/07/image-2-300x66.png 300w" sizes="(max-width: 718px) 100vw, 718px" /></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img decoding="async" src="https://media4.giphy.com/media/3rgXBETfAu65Gw6jwA/giphy.gif" alt="This gif has an empty alt attribute" width="-482" height="-385"/><figcaption>If the input data took the form of a binary switch, 1 when there is a car and 0 when there isn&#8217;t, then we wouldn&#8217;t even need a machine learning algorithm. A hard-coded set of instructions would do just fine.</figcaption></figure></div>
+
+
+
+<p>Secondly, Bob argues that since you did the job of labeling images as car or no car and simply provided the labels (0 or 1) to the computer without the raw image data, you didn&#8217;t give the computer the chance to learn anything. You agree with Bob and ask him for help. Based on his <a href="/2021/06/what-is-machine-learning/" data-type="post" data-id="110">knowledge</a>, he draws the following: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-4-1024x230.png" alt="" class="wp-image-226" width="680" height="152" srcset="/wp-content/uploads/2021/07/image-4-1024x230.png 1024w, /wp-content/uploads/2021/07/image-4-300x67.png 300w, /wp-content/uploads/2021/07/image-4-768x173.png 768w, /wp-content/uploads/2021/07/image-4.png 1325w" sizes="(max-width: 680px) 100vw, 680px" /></figure></div>
+
+
+
+<p>You note that Bob has inverted the relationship between output and program and is now supplying the raw image data as input to the computer. Bob says that if the machine can learn such a program then this program can be deployed in a self-driving car to <em>predict </em>cars in new images that the camera collects! That&#8217;s true, you say&#8230; </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter is-resized"><img decoding="async" loading="lazy" src="https://media1.giphy.com/media/ap6wcjRyi8HoA/giphy.gif" alt="" width="311" height="230"/><figcaption>Bob&#8217;s right!</figcaption></figure></div>
+
+
+
+<p>But you point out to Bob that that the raw data takes the form of an RGB image with many different pixels. Some of the pixels have something to do with a car, while others do not. Any single pixel, on it&#8217;s own, doesn&#8217;t tell me anything about a car anyway, you argue. How would I teach the computer to find a car in the image by looking at a bunch of pixels? </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter is-resized"><img decoding="async" loading="lazy" src="https://media4.giphy.com/media/gzQ1X1Fk25UwE/giphy.gif" alt="" width="302" height="167"/><figcaption>Bob is as clueless as you are.</figcaption></figure></div>
+
+
+
+<p>All cars should have tires, windows and number plates, Bob says. What if we, the engineers, extract these main <em>features </em>of a car and ask the machine (computer) to perform <em>classification</em>, i.e. predict whether a car is present in the image or not using these features instead of the raw data: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-20.png" alt="" class="wp-image-253" width="597" height="191" srcset="/wp-content/uploads/2021/07/image-20.png 975w, /wp-content/uploads/2021/07/image-20-300x96.png 300w, /wp-content/uploads/2021/07/image-20-768x247.png 768w" sizes="(max-width: 597px) 100vw, 597px" /></figure></div>
+
+
+
+<p>You nod and realize that by providing the computer information about the <em>high level representation</em> of a car (i.e. tires, windows) instead of raw pixels, you make the learning algorithm&#8217;s job easier. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>Mapping the raw data to the output has historically been a difficult task for machine learning algorithms. ML algorithms have therefore often depended on mapping manually extracted features to the output instead.</p></blockquote>
+
+
+
+<p>In the simplest case, you can see how this might work. You, as the engineer, would identify a part of an image containing a tire. You would provide this tire <em>feature </em>to the computer and ask the computer to check if a tire similar to this is present in another image. Presumably if a tire is present, the likelihood of a car being present is high. Now the computer&#8217;s job is basically that of a detective, it needs to look at each patch of a new image and check if it contains the tire patch: </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter is-resized"><img decoding="async" loading="lazy" src="https://media3.giphy.com/media/8K2zqekcOl4Fa/giphy.gif" alt="" width="380" height="393"/><figcaption>No tire on this one!</figcaption></figure></div>
+
+
+
+<p>You point out to Bob that the computer could take the pixels of the tire patch, slide it over the new image in steps and multiply it with the pixels of the image, and report back the product. If the product of the pixels leads to a large value that means the tire <em>feature is activated</em> in the image. The computer could then sum over the pixels and report back that the car is in the image if the product of the pixels is above a certain threshold. </p>
+
+
+
+<p>Extracting tire features manually from the input image data is hard work. Bob realizes that bicycles also have tires, so you might confuse a bicycle for a car using this approach as a bike would also activate the same features. But Bob thinks you are on to something. He asks if what you are doing looks something like this: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-14.png" alt="" class="wp-image-243" width="607" height="265" srcset="/wp-content/uploads/2021/07/image-14.png 984w, /wp-content/uploads/2021/07/image-14-300x131.png 300w, /wp-content/uploads/2021/07/image-14-768x336.png 768w" sizes="(max-width: 607px) 100vw, 607px" /></figure></div>
+
+
+
+<p>You again nod in agreement. Bob&#8217;s drawing reminds you a lot of neurons in the brain, where <em>dendrites </em>provide input data, the <em>cell body </em>performs some function (in our case product of tire features with input image followed by applying a threshold) and an axon provides the output: </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="960" height="313" src="/wp-content/uploads/2021/07/image-15.png" alt="" class="wp-image-244" srcset="/wp-content/uploads/2021/07/image-15.png 960w, /wp-content/uploads/2021/07/image-15-300x98.png 300w, /wp-content/uploads/2021/07/image-15-768x250.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+
+
+
+<p>You wonder if the <em>artificial neural network</em> you are building can learn weights (parameters) similar to <em>synapses </em>in the brain:  </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-17.png" alt="" class="wp-image-247" width="470" height="212" srcset="/wp-content/uploads/2021/07/image-17.png 990w, /wp-content/uploads/2021/07/image-17-300x135.png 300w, /wp-content/uploads/2021/07/image-17-768x347.png 768w" sizes="(max-width: 470px) 100vw, 470px" /><figcaption>Artificial Neural Network with single <em>artificial </em>neuron with learnable weights</figcaption></figure></div>
+
+
+
+<p>So instead of supplying tire features, you ask if <em>artificial neural networks </em>can learn weights (i.e. <a href="/2021/06/what-is-machine-learning/" data-type="post" data-id="110">parameters</a>) by reducing the error between the desired output and predicted output? You argue that you already have the desired output for the 600 images, since you labeled the image as 1 if it contains a car and 0 if it doesn&#8217;t. Why not just use that desired output to adjust the weights of our <em>Artificial Neural Network</em>. You draw another figure to illustrate the point: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-27.png" alt="" class="wp-image-263" width="547" height="298" srcset="/wp-content/uploads/2021/07/image-27.png 780w, /wp-content/uploads/2021/07/image-27-300x163.png 300w, /wp-content/uploads/2021/07/image-27-768x418.png 768w" sizes="(max-width: 547px) 100vw, 547px" /><figcaption>Adjust artificial neural network weights by <em>minimizing difference</em> between desired and predicted output</figcaption></figure></div>
+
+
+
+<p>Bob likes the idea but he sees a couple of issues. He doubts if the computer can learn high level representation like tires and windows from just the raw pixels directly. He wonders if you could use many neurons, stacked one after other, instead of just one neuron to make the task easier for the machine. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="960" height="269" src="/wp-content/uploads/2021/07/image-22.png" alt="" class="wp-image-255" srcset="/wp-content/uploads/2021/07/image-22.png 960w, /wp-content/uploads/2021/07/image-22-300x84.png 300w, /wp-content/uploads/2021/07/image-22-768x215.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure></div>
+
+
+
+<p>You get the main idea but are not sure how stacking the neurons one after another <em>in layers </em>such that one neuron&#8217;s output is received as the next neuron&#8217;s input can lead to the machine&#8217;s learning task becoming easier. Bob thinks that the weights of the earlier neurons will learn lower level features (like edges) while weights of later neurons will learn object parts (e.g. tires) automatically using information provided by earlier neurons. You stare back cluelessly at Bob and he tries to help out with the following figure: </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="242" src="/wp-content/uploads/2021/07/image-25-1024x242.png" alt="" class="wp-image-258" srcset="/wp-content/uploads/2021/07/image-25-1024x242.png 1024w, /wp-content/uploads/2021/07/image-25-300x71.png 300w, /wp-content/uploads/2021/07/image-25-768x182.png 768w, /wp-content/uploads/2021/07/image-25.png 1400w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>You finally get what Bob is doing. The question Bob poses is this: could the computer <em>automatically </em>learn higher level features (such as presence of tires) from simpler representations (e.g. edges corresponding to a sudden change of intensity in the image) which in turn are generated from the raw data? You aren&#8217;t convinced with the details just yet, but you see where Bob is going with this. Bob draws another figure: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-21.png" alt="" class="wp-image-254" width="543" height="357" srcset="/wp-content/uploads/2021/07/image-21.png 992w, /wp-content/uploads/2021/07/image-21-300x198.png 300w, /wp-content/uploads/2021/07/image-21-768x506.png 768w" sizes="(max-width: 543px) 100vw, 543px" /><figcaption>Bob says that many neurons stacked in layers one after another can automatically learn the representation as well as the mapping from the representation to the output. He calls this Deep Learning. </figcaption></figure></div>
+
+
+
+<p>Bob says that many neurons stacked in layers one after another can automatically learn the representation as well as the mapping from the representation to the output. He calls this <em>Deep Learning </em>and points out that as opposed to machine learning, which requires a human to perform the feature extraction, this learning approach is completely automatic since the machine learns the representation (i.e. features) <em>on it&#8217;s own. </em></p>
+
+
+
+<p>You note that the input is again the raw image. If you understand it correctly, Bob is suggesting we ask the computer to perform <em>end-to-end learning. </em>The <em>Deep Learning </em>algorithm would perform <em>representation learning</em> (i.e. learn salient feature like tires from simpler features like edges) as well as map the <em>representations </em>to the output. The human would not be required at all. </p>
+
+
+
+<blockquote class="wp-block-quote"><p>Deep Learning enables end-to-end learning.</p></blockquote>
+
+
+
+<p>But you also realize that to do what Bob is suggesting, you would need a lot of data and sufficient computational power, since the learning algorithm has to learn the representation itself as well: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-8.png" alt="" class="wp-image-232" width="378" height="266" srcset="/wp-content/uploads/2021/07/image-8.png 696w, /wp-content/uploads/2021/07/image-8-300x211.png 300w" sizes="(max-width: 378px) 100vw, 378px" /></figure></div>
+
+
+
+<p>Bob agrees and gives the analogy where the computing power (CPU, GPU, <a href="https://cloud.google.com/tpu">TPU</a>) is the engine of a rocket and the input data is it&#8217;s fuel. You need a combination of both to thrust the rocket into space, i.e. to enable Deep Learning</p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media0.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif" alt=""/><figcaption>Bob uses the analogy where the computational power is the engine in a rocket and the input data is the fuel. You need a combination of both to thrust the rocket into space, i.e. to enable Deep Learning</figcaption></figure></div>
+
+
+
+<p>So Bob says that training artificial neural networks would only make sense if you have a lot of data, otherwise machine learning algorithms that require features extraction may just do better. He makes another plot: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-26.png" alt="" class="wp-image-262" width="277" height="184" srcset="/wp-content/uploads/2021/07/image-26.png 450w, /wp-content/uploads/2021/07/image-26-300x199.png 300w" sizes="(max-width: 277px) 100vw, 277px" /></figure></div>
+
+
+
+<p>Bob thinks that large Neural Networks having many layers of neurons can continue to learn with increasing data while other learning algorithms&#8217; performance tend to stall as the <a href="/2021/06/what-is-machine-learning/" data-type="post" data-id="110">representation </a>itself is a <em>bottleneck</em>. </p>
+
+
+
+<p>You understand what Bob means and try to put his Deep Learning idea within context of Artificial Intelligence, Machine Learning and Representation Learning: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-9.png" alt="" class="wp-image-233" width="579" height="358" srcset="/wp-content/uploads/2021/07/image-9.png 967w, /wp-content/uploads/2021/07/image-9-300x186.png 300w, /wp-content/uploads/2021/07/image-9-768x475.png 768w" sizes="(max-width: 579px) 100vw, 579px" /></figure></div>
+
+
+
+<p>You realize that the first program you wrote for identifying a car could be considered as a simple AI algorithm: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="153" height="142" src="/wp-content/uploads/2021/07/image-29.png" alt="" class="wp-image-271"/><figcaption>A rule based system such as the above may be considered as a very simple form of AI</figcaption></figure></div>
+
+
+
+<p>The idea of using a tire as a feature and asking the computer to map the tire feature to the car would come under <em>classical machine learning</em>: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/07/image-31.png" alt="" class="wp-image-273" width="597" height="190" srcset="/wp-content/uploads/2021/07/image-31.png 979w, /wp-content/uploads/2021/07/image-31-300x96.png 300w, /wp-content/uploads/2021/07/image-31-768x246.png 768w" sizes="(max-width: 597px) 100vw, 597px" /></figure></div>
+
+
+
+<p>Finally, the idea of using multiple neurons stacked in many layers, where the multiple layers through automatic representation learning/feature extraction enable End to End Learning without human intervention, would be considered Deep Learning: </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="412" height="145" src="/wp-content/uploads/2021/07/image-30.png" alt="" class="wp-image-272" srcset="/wp-content/uploads/2021/07/image-30.png 412w, /wp-content/uploads/2021/07/image-30-300x106.png 300w" sizes="(max-width: 412px) 100vw, 412px" /></figure></div>
+
+
+
+<p>You realize that using Deep Learning, given enough data and computing power, you could tackle all kinds of problems, without requiring any human expertise for feature extraction. e.g. without needing medical doctors to identify portions of a brain MRI image to which the computer should pay attention when performing a diagnosis.</p>
+
+
+
+<p>And that&#8217;s why Bob, you and the rest of the world think that Deep Learning isn&#8217;t just hype <a href="https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/" data-type="URL" data-id="https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/">but is in fact here to stay</a>. And that&#8217;s why you are so confident about launching your own startup into orbit using Deep Learning!  </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media0.giphy.com/media/fUXZfIDUl8K7lJJ9KK/giphy.gif" alt="" width="" height=""/><figcaption>Your self-driving car startup launches into orbit courtesy Deep Learning. <br></figcaption></figure></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What are the different types of machine learning algorithms?</title>
+		<link>/2021/06/different-types-of-machine-learning/</link>
+		
+		<dc:creator><![CDATA[samee99]]></dc:creator>
+		<pubDate>Mon, 21 Jun 2021 22:10:46 +0000</pubDate>
+				<category><![CDATA[AI, Machine Learning and Deep Learning]]></category>
+		<guid isPermaLink="false">/?p=136</guid>
+
+					<description><![CDATA[So we know what Machine Learning is. But what are the different ways in which machines learn? There are four distinct ways in which machines learn. If the above is a bunch of gibberish, let&#8217;s go into detail. In the case of supervised learning, the learning engine has access to data (e.g. image of a &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>So we know <a href="/2021/06/machine-learning-and-its-types/" data-type="post" data-id="110">what Machine Learning is</a>. But what are the different ways in which machines learn? </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter is-resized"><img decoding="async" loading="lazy" src="https://media0.giphy.com/media/2siB27F7LuGCKWKQqD/giphy.gif" alt="" width="480" height="457"/><figcaption>What makes a machine stay engaged when learning about our world?</figcaption></figure></div>
+
+
+
+<p>There are four distinct ways in which machines learn. </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="315" src="/wp-content/uploads/2021/06/image-12-1024x315.png" alt="" class="wp-image-142" srcset="/wp-content/uploads/2021/06/image-12-1024x315.png 1024w, /wp-content/uploads/2021/06/image-12-300x92.png 300w, /wp-content/uploads/2021/06/image-12-768x236.png 768w, /wp-content/uploads/2021/06/image-12.png 1239w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>If the above is a bunch of gibberish, let&#8217;s go into detail. </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media2.giphy.com/media/lp1oGHyJHmSoqw0cld/giphy.gif" alt=""/></figure></div>
+
+
+
+<p> </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="354" src="/wp-content/uploads/2021/06/image-13-1024x354.png" alt="" class="wp-image-143" srcset="/wp-content/uploads/2021/06/image-13-1024x354.png 1024w, /wp-content/uploads/2021/06/image-13-300x104.png 300w, /wp-content/uploads/2021/06/image-13-768x265.png 768w, /wp-content/uploads/2021/06/image-13.png 1257w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ol><li>In the case of <em>supervised learning</em>, the learning engine has access to data (e.g. image of a cat) <em>and </em>desired output (e.g. label, binary digit 1, indicating presence of a cat). </li><li>In <em>self-supervised learning</em>, the learning engine has access to data (e.g. image of a cat) but <em>NOT </em>to the desired output (e.g. label, binary digit 1, indicating presence of a cat). Self-supervised learning is also sometimes referred to as unsupervised learning. </li><li><em>Semi-supervised learning</em> is a combination of supervised learning and self-supervised learning. So in this case, only some parts of the data is labeled. As an example, maybe 10% of cats/non-cat images are labeled while the rest are not. </li><li><em>Reinforcement learning </em>is a completely different beast. It assumes that an <em>agent </em>(e.g. a robot) is in an <em>environment </em>(e.g. a maze). When the agent performs a certain <em>action</em>, e.g. move one step forward, it is provided a <em>reward </em>depending on whether that action helps it to get closer or not to completing it&#8217;s task (e.g. get out of the maze). </li></ol>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media0.giphy.com/media/NKubHBMU1G60PWl9Zg/giphy.gif" alt=""/><figcaption>Initial training for Reinforcement Learning is usually performed in simulated environments, to avoid situations like the above. </figcaption></figure></div>
+
+
+
+<p>Below we see concrete examples for each of the four types. </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="499" src="/wp-content/uploads/2021/06/image-14-1024x499.png" alt="" class="wp-image-150" srcset="/wp-content/uploads/2021/06/image-14-1024x499.png 1024w, /wp-content/uploads/2021/06/image-14-300x146.png 300w, /wp-content/uploads/2021/06/image-14-768x375.png 768w, /wp-content/uploads/2021/06/image-14.png 1177w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>On the far left, we see an example of supervised learning, where the learning algorithm is tasked with learning the <em>decision boundary</em> between the green circles and red triangles. </p>
+
+
+
+<p>A <em>clustering </em>example is shown for self-supervised learning. Here the squares need to be divided into 3 distinct portions depending on their relative distance in the two-dimensional domain spanned by x1 and x2. </p>
+
+
+
+<p>For semi-supervised learning, the task is the same as the one shown for supervised learning, but in this case, some of the data is not labeled (i.e. the learning engine does not have access to whether the labels is a green circle or a red triangle). </p>
+
+
+
+<p>Finally, only the far right, we see an example of reinforcement learning, where an agent (e.g. a robot) needs to navigate through an environment (e.g. a maze) by performing actions and updating it&#8217;s state based on the relative reward it receives. </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media2.giphy.com/media/10gY6Nq4973Ncs/giphy.gif" alt=""/><figcaption>A well trained reinforcement learning algorithm!</figcaption></figure></div>
+
+
+
+<p>In industry, <em>supervised learning </em>is responsible for most of the economic value generated so far. But creating a dataset for supervised learning is also particularly expensive in terms of man-power, as a human being has to go through the process of labeling the data. Also, remember that while it&#8217;s easy for just about any person to label images as cat/non-cat, often datasets require expert input, e.g. labelling a dataset of radiology images requires a radiologist or sometimes even a team of radiologists and a radiologist&#8217;s time is expensive! </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter is-resized"><img decoding="async" loading="lazy" src="https://media1.giphy.com/media/dt0KXLj7bzwZuRQBwY/giphy.gif" alt="" width="480" height="480"/><figcaption>Labeling datasets for <em>supervised learning</em> is an expensive process, especially when it requires expert knowledge, e.g. radiologists for labeling radiology datasets. </figcaption></figure></div>
+
+
+
+<p>That&#8217;s why the machine learning research community, as a whole, is trying to leverage the power of the other three learning strategies, <a href="https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/" data-type="URL" data-id="https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/">particularly self-supervised learning</a>, in order to training learning algorithms. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>What is machine learning?</title>
+		<link>/2021/06/what-is-machine-learning/</link>
+		
+		<dc:creator><![CDATA[samee99]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 06:34:29 +0000</pubDate>
+				<category><![CDATA[AI, Machine Learning and Deep Learning]]></category>
+		<guid isPermaLink="false">/?p=110</guid>
+
+					<description><![CDATA[What exactly is machine learning and what would the ultimate learning machine look like? So let&#8217;s get the formal definition out of the way. &#8220;Machine Learning is the art of getting computers to learn without being explicitly programmed&#8221; Arthur Samuel (1958) If you read the definition above, the part about not explicitly programming the computer &#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>What exactly is machine learning and what would the ultimate learning machine look like? </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter is-resized"><img decoding="async" loading="lazy" src="https://media3.giphy.com/media/hWRpUTECph34EvMzO6/giphy.gif" alt="" width="498" height="308"/><figcaption>Ridiculously powerful human-like machines have captured our collective imagination for long. <br></figcaption></figure></div>
+
+
+
+<p>So let&#8217;s get the formal definition out of the way.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Machine Learning</em> is the art of getting computers to learn without being explicitly programmed&#8221; </p><cite>Arthur Samuel (1958)</cite></blockquote>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media3.giphy.com/media/26tP4gFBQewkLnMv6/giphy.gif" alt=""/><figcaption>The art of what, again?</figcaption></figure></div>
+
+
+
+<p><br>If you read the definition above, the part about not explicitly programming the computer is what really distinguishes machine learning from traditional programming.  In traditional programming, a computer take data and a <em>program, i.e. an explicit set of instructions, </em>as input and generates an output. </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="194" src="/wp-content/uploads/2021/06/image-1024x194.png" alt="" class="wp-image-112" srcset="/wp-content/uploads/2021/06/image-1024x194.png 1024w, /wp-content/uploads/2021/06/image-300x57.png 300w, /wp-content/uploads/2021/06/image-768x145.png 768w, /wp-content/uploads/2021/06/image-1536x291.png 1536w, /wp-content/uploads/2021/06/image.png 1676w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>On the other hand, in machine learning, a combination of data and the output is used to make the machine learn the program:  </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="199" src="/wp-content/uploads/2021/06/image-1-1024x199.png" alt="" class="wp-image-113" srcset="/wp-content/uploads/2021/06/image-1-1024x199.png 1024w, /wp-content/uploads/2021/06/image-1-300x58.png 300w, /wp-content/uploads/2021/06/image-1-768x149.png 768w, /wp-content/uploads/2021/06/image-1-1536x299.png 1536w, /wp-content/uploads/2021/06/image-1.png 1676w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Note that one thing didn&#8217;t change. The <em>data </em>is still an input in both cases.  </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media0.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" alt=""/></figure></div>
+
+
+
+<p>But how is machine learning actually performed? For example, how can we make a computer learn to identify that an image contains a cat. </p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media3.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" alt=""/></figure></div>
+
+
+
+<p>This is harder than it sounds. Human beings are very good at doing this sort of pattern recognition. But to a computer an RGB image of a cat is just a bunch of pixels. An extremely unique combination of pixels results in an image of a cat. And an effective machine learning algorithm needs to be able to automatically identify what are the combinations and patterns of pixels, that when put together, results in a cat appearing in an image. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="/wp-content/uploads/2021/06/image-5.png" alt="" class="wp-image-120" width="520" height="355" srcset="/wp-content/uploads/2021/06/image-5.png 722w, /wp-content/uploads/2021/06/image-5-300x205.png 300w" sizes="(max-width: 520px) 100vw, 520px" /><figcaption>It&#8217;s not trivial for a computer to learn that a bunch of pixels correspond to an image of a cat.</figcaption></figure></div>
+
+
+
+<p>How would you would go about teaching such a thing to a computer? Well, there are three components of learning:  </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="63" src="/wp-content/uploads/2021/06/image-3-1024x63.png" alt="" class="wp-image-118" srcset="/wp-content/uploads/2021/06/image-3-1024x63.png 1024w, /wp-content/uploads/2021/06/image-3-300x19.png 300w, /wp-content/uploads/2021/06/image-3-768x47.png 768w, /wp-content/uploads/2021/06/image-3.png 1036w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p><em>Any machine/deep learning algorithm </em>you come across will contain the above three components. This point is definitely worth repeating, <em>any learning engine will contain the above three parts. </em>So let&#8217;s take it step by step. What do we mean by representation:  </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="322" src="/wp-content/uploads/2021/06/image-4-1024x322.png" alt="" class="wp-image-119" srcset="/wp-content/uploads/2021/06/image-4-1024x322.png 1024w, /wp-content/uploads/2021/06/image-4-300x94.png 300w, /wp-content/uploads/2021/06/image-4-768x241.png 768w, /wp-content/uploads/2021/06/image-4.png 1040w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Representation is the heart of any machine learning algorithm. A learner must be represented in some formal language the computer can handle. In practice, this formal language is basically some mathematical model that takes some input data, performs a computation on it, and returns an output. Neural Networks, Gaussian Processes, Support Vector Machines and Decision Trees are all examples of representation. </p>
+
+
+
+<p>Having a representation is not enough though. All mathematical models have parameters that can change in value. Parameters are just variable values in the model that need to be adjusted for the task to be performed correctly. For example, the tuner knob on your car radio represents a parameter that can be <em>tuned: </em></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="587" height="332" src="/wp-content/uploads/2021/06/image-10.png" alt="" class="wp-image-127" srcset="/wp-content/uploads/2021/06/image-10.png 587w, /wp-content/uploads/2021/06/image-10-300x170.png 300w" sizes="(max-width: 587px) 100vw, 587px" /></figure></div>
+
+
+
+<p>The value of the parameters of a model will change depending on the problem being solved. For the radio analogy above, you can imagine that you need to tune the knob different amounts depending on which channel you want to hear. Therefore, you need a mechanism or a method to identify which set of values for the parameters of the model will result in a learning algorithm that effectively performs the task at hand, e.g. learning whether an image contains a cat or not. In other words, we need an <em>objective function</em> that can distinguish good solutions from bad ones. This is what the evaluation component of our learning engine does: </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="327" src="/wp-content/uploads/2021/06/image-7-1024x327.png" alt="" class="wp-image-122" srcset="/wp-content/uploads/2021/06/image-7-1024x327.png 1024w, /wp-content/uploads/2021/06/image-7-300x96.png 300w, /wp-content/uploads/2021/06/image-7-768x245.png 768w, /wp-content/uploads/2021/06/image-7.png 1055w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Mean Squared Error, which is basically an average of the square of the error between the actual output and the machine learning engine prediction, is an example of such an objective function. </p>
+
+
+
+<p>Finally, once you have a representation, i.e. some mathematical model, and and an evaluation method to identify which parameters might be good choices, you need to be able to search for the set of parameters that lead to the optimal result, i.e. the smallest error between actual output and the machine learning prediction. This is where the <em>Optimization </em>component comes in handy: </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="292" src="/wp-content/uploads/2021/06/image-8-1024x292.png" alt="" class="wp-image-123" srcset="/wp-content/uploads/2021/06/image-8-1024x292.png 1024w, /wp-content/uploads/2021/06/image-8-300x86.png 300w, /wp-content/uploads/2021/06/image-8-768x219.png 768w, /wp-content/uploads/2021/06/image-8.png 1184w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Optimization is basically a method to search for the best solution. There are many different optimization methods, some depend on computing the gradient or slope of a function, while other approaches such as Genetic Algorithms, take inspiration from how nature identifies the best solutions. </p>
+
+
+
+<p>If we put all of the components together, we can write out the complete learning problem as the below optimization problem: </p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="187" src="/wp-content/uploads/2021/06/image-9-1024x187.png" alt="" class="wp-image-124" srcset="/wp-content/uploads/2021/06/image-9-1024x187.png 1024w, /wp-content/uploads/2021/06/image-9-300x55.png 300w, /wp-content/uploads/2021/06/image-9-768x141.png 768w, /wp-content/uploads/2021/06/image-9.png 1120w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>In other words, learning involves finding the optimal parameters, theta_star, that maximize a certain goodness function (e.g. Mean Squared Error) given a certain representation (e.g. Neural Networks) with varying parameters, theta, and a set of data (e.g. Dataset containing images with and without cats together with labels of whether the respective image contains a cat) to train the algorithm over. </p>
+
+
+
+<p>Hope your learning algorithm manages to tune the parameters just right, so you can enjoy the end result!</p>
+
+
+
+<div class="wp-block-coblocks-gif wp-block-image"><figure class="aligncenter"><img decoding="async" src="https://media4.giphy.com/media/ER9ew0BbQGCDC/giphy.gif" alt=""/></figure></div>
+
+
+
+<p>Or you can go ahead and learn about the<a href="/2021/06/different-types-of-machine-learning/" data-type="post" data-id="136"> different types of machine learning approaches</a>.  </p>
+
+
+
+<p><em>References </em></p>
+
+
+
+<p>Pedro Domingos. 2012. A few useful things to know about machine learning. <em>Commun. ACM</em> 55, 10 (October 2012), 78–87. DOI:https://doi.org/10.1145/2347736.2347755</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
