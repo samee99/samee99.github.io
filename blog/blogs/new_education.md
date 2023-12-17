@@ -6,6 +6,11 @@ Even it’s propensity to hallucinate is a feature as opposed to a bug in educat
 to identify mistakes. This shift should propel us to rethink how to build a digital education institution of the future 
 and here is an attempt to do just that. 
 
+To contextualize what we are talking about, we are going to use the framework of a communication system to help visualize what education looks like today and then extrapolate this analogy to build the new education system we would like. 
+
+![image](https://github.com/samee99/samee99.github.io/assets/53830393/f8c95fa2-379d-4bc9-b7dc-3b442196c433)
+
+
 To teach you need content (information) and a teacher. To assess whether the information was transferred you need a test. 
 In the year 2,000, a 9 year old could already access content on the web and 
 could find web pages that could (partially) test his knowledge. 
