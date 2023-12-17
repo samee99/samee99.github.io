@@ -17,6 +17,8 @@ Such an education institution of the future should be seen primarily as a **Soft
 
 Metaverse, questionable but valuable. 
 
+Cost of intelligence going down is particularly exciting for the developing world. The gap between the rich and the poor cannot be filled by giving goods to the poor, it's filled by teaching them how to create those goods. Consider the hypothetical example of a society facing a war and the leader of this society is selfish and greedy. The leader is given the choice that either the people will remain but the physical infrastructure would be destroyed or the people would be killed but the physical infrastructure would stay intact. As an example, imagine that somebody were to destroy an industralized society to dust while leaving its people alive. Those people would build that society back based on their individual and societal knowledge. However, imagine that all the people in that society got killed while the physical goods and infrastrture remained intact. A new people would took over, but they would find it harder to reverse engineer the goods they use. Secondly their productive capacity would be limited by their lack of knowledge, which would mean that unless they learn how to keep making those goods, the goods would run dry, leading to a fall in overall wealth. So even from a selfish, greedy perspective, the leader should choose to prioritize the safety of the people. 
+
 Redundancy in tests to ensure that you got it. 
 No one teacher can know everything (mentioning 17 year doubling of knowledge here). 
 This can be partially solve by focusing on fundamentals. 
