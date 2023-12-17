@@ -8,7 +8,7 @@ and here is an attempt to do just that.
 
 To contextualize what we are talking about, we are going to use the framework of a communication system to help visualize what education looks like today and then extrapolate this analogy to build the new education system we would like. 
 
-![image](https://github.com/samee99/samee99.github.io/assets/53830393/f8c95fa2-379d-4bc9-b7dc-3b442196c433)
+![image](https://github.com/samee99/samee99.github.io/assets/53830393/2cac6761-ee55-4b29-8587-fff2ac9abb1d)
 
 
 To teach you need content (information) and a teacher. To assess whether the information was transferred you need a test. 
