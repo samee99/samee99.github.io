@@ -3,7 +3,7 @@ layout: default
 ---
 
 I am Samee. I currently work at [ASML](https://www.asml.com/en) in the Bay Area, California. I grew up in Pakistan and went to university in Europe (Germany/the Netherlands).
-	I studied Electrical Engineering and Computer Science and did a PhD from TU Delft on the [extension of Bayesian optimization to solve robust optimization problems.](https://doi.org/10.4233/uuid:b963b8c4-49c9-446b-8128-358a301d12e3).
+	I studied Electrical Engineering and Computer Science and did a PhD from TU Delft on the [extension of Bayesian optimization to solve robust optimization problems](https://doi.org/10.4233/uuid:b963b8c4-49c9-446b-8128-358a301d12e3).
 
  [Blog](blog/blog.md)
  
