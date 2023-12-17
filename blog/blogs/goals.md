@@ -1,6 +1,3 @@
-## 4,000 weeks is all we have
-
-## Be biased towards action - Use Pomodoro + Slides -
 
 **Do More of What Works - Originality is also a function of quantity.** 
 
@@ -64,6 +61,10 @@
 *Sometimes, people who are both exceptionally smart and hard-working fail to do great research. In my view, the main reason for this failure is that they work on unimportant problems. When you embark on a research project, you should ask yourself: how large is the potential upside? Will this be a 10% improvement or a 10X improvement? I often see researchers take on projects that seem sensible but could only possibly yield a small improvement to some metric.*John Schulmann - Opinionated Guide to ML Research 
 
 ***Without owning something, over an extended period of time, like a few years, where one has a chance to take responsibility for one's recommendation, where one has to see one’s recommendation through all action stages, and accumulate scar tissue for the mistakes and pick oneself off the ground and dust oneself off, one learns a fraction of what one can. Coming in and making recommendations and not owning the results, not owning the implementation, is a fraction of the value and a fraction of the opportunity to learn and get better.** You do get a broad cut at companies, but it’s very thin, it’s like a picture of a banana. You might get a very accurate picture but it’s only two dimensional. And without the experience of actually doing it, you never get 3 dimensional. So you might have a lot of pictures on your wall, and you can show them off to your friends, I have worked in bananas, in peach, in grapes, but you never really taste it. - Steve Jobs on Consulting.* 
+
+4,000 weeks is all we have
+
+Be biased towards action - Use Pomodoro + Slides -
 
 On Startups 
 
