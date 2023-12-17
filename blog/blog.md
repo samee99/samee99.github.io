@@ -1,5 +1,5 @@
-* [On Writing - draft](blogs/writing.md)
-* [On Goals - draft](blogs/goals.md)
+* [On Writing - what others advise (draft)](blogs/writing.md)
+* [On Goals - what others advise - (draft)](blogs/goals.md)
 * [What is machine learning?](blogs/ml.md)
 * [What are the different types of machine learning algorithms?](blogs/ml-types.md)
 * [Why the fuss about deep learning?](blogs/dl.md)
