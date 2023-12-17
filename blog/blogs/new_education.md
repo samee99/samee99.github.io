@@ -1,4 +1,4 @@
-With the launch of the internet, information became free. With recent improvements in [language, vision and mult-modal models](https://openai.com/research/overview), the cost of intelligence is going down. 
+With the launch of the internet, information became free. With recent improvements in [language, vision and multi-modal models](https://openai.com/research/overview), the cost of intelligence is going down. 
 Language models like GPT-4 not only compress information but also allow users to access it at different levels of understanding. 
 A 9 year old can ask GPT-4 to explain the theory of relativity to a 9 year old and receive an age appropriate response. 
 GPT-4 today can act as a personal instructor on arbitrary topics, and can (sometimes) judge correctness of human responses. 
