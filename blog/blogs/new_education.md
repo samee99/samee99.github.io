@@ -6,10 +6,9 @@ Even it’s propensity to hallucinate is a feature as opposed to a bug in educat
 to identify mistakes. This shift should propel us to rethink how to build a digital education institution of the future 
 and here is an attempt to do just that. 
 
-To contextualize what we are talking about, we are going to use the framework of a communication system to help visualize what education looks like today and then extrapolate this analogy to build the new education system we would like. 
+To contextualize what we are talking about, I am going to use the framework of a communication system to help visualize what education looks like today and then extrapolate this analogy to build the new education system we would like. 
 
 <img width="802" alt="image" src="https://github.com/samee99/samee99.github.io/assets/53830393/f9b2256c-f77b-42cc-9ca9-14e3342033f6">
-
 
 
 To teach you need content (information) and a teacher. To assess whether the information was transferred you need a test. 
