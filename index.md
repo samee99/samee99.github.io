@@ -13,4 +13,8 @@ I am Samee. I currently work at [ASML](https://www.asml.com/en) in the Bay Area,
  
  [LinkedIn](https://www.linkedin.com/in/surehman/)
 
+ [Publications](https://scholar.google.com/citations?hl=en&user=WUGsZzsAAAAJ&view_op=list_works&sortby=pubdate\)
+
+ [Patents](https://patents.google.com/?inventor=%22samee+ur+rehman%22&assignee=asml&oq=%22samee+ur+rehman%22+asml+)
+
 I love the creative process and get energy from starting original projects. I like using our collective innovative skills to help build a better future. I enjoy working on AI, Machine Learning, Physical Modeling, Optimization, and complex engineering problems. 
