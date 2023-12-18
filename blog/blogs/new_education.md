@@ -19,7 +19,9 @@ Viewed through this lense, we can identify obvious issues and bottlenecks in the
 * **Channel overload:** The information is often transferred too quickly for students to absorb, resulting in them feeling overwhelmed.  
 * **Lack of redundancy** Concepts are not communicated in multiple ways leading to gap in understanding. 
 
-The most robust system in this case would be one that dilutes the message complexity so that the receiver with the lowest channel capacity can receive it in full. However, not everything is broken in this system. Receivers (students) can communicate with one another to confirm that they received the correct message. This peer learning not only solidifies concepts but also engenders camaraderie. 
+The most robust system in this case would be one that dilutes the message complexity so that the receiver with the lowest channel capacity can receive it in full. However, not everything is broken in this system. Receivers (students) can communicate with one another to confirm that they received the correct message. This peer learning not only solidifies concepts but also engenders camaraderie and social cohesion. Regular class schedules, particularly in schools, help students learn to manage time and teach them how to follow a routine. 
+
+
 
 To teach you need content (information) and a teacher. To assess whether the information was transferred you need a test. 
 In the year 2,000, a 9 year old could already access content on the web and 
