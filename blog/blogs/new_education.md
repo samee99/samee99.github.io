@@ -10,6 +10,16 @@ To contextualize what we are talking about, I am going to use the framework of a
 
 <img width="802" alt="image" src="https://github.com/samee99/samee99.github.io/assets/53830393/f9b2256c-f77b-42cc-9ca9-14e3342033f6">
 
+Viewed through this lense, we can identify obvious issues and bottlenecks in the traditional classroom setting: 
+
+* **Single source but multiple different receivers**: One teacher tries to transfer the same message to multiple students at once.   
+* **Limited and high latency feedback**: Only one student can communicate at a time with the teacher to give feedback (e.g. related to confusions). 
+* **Inability to account for unique channel capacity:** Students with high channel capacity (better attention, memory, prior knowledge, motivation) can decode the message easily giving the false impression that all students, with varying abilities, have understood it. 
+* **One size fits all encoding strategy** Similarly, the same textbook or lecture notes would be used for all students not accounting for individual decoding ability. 
+* **Channel overload:** The information is often transferred too quickly for students to absorb, resulting in them feeling overwhelmed.  
+* **Lack of redundancy** Concepts are not communicated in multiple ways leading to gap in understanding. 
+
+The most robust system in this case would be one that dilutes the message complexity so that the receiver with the lowest channel capacity can receive it in full. However, not everything is broken in this system. Receivers (students) can communicate with one another to confirm that they received the correct message. This peer learning not only solidifies concepts but also engenders camaraderie. 
 
 To teach you need content (information) and a teacher. To assess whether the information was transferred you need a test. 
 In the year 2,000, a 9 year old could already access content on the web and 
