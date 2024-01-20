@@ -58,3 +58,27 @@ GDP as function of time
 
 <iframe src="https://ourworldindata.org/grapher/world-banks-income-groups" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+
+Education spending
+
+<iframe src="https://ourworldindata.org/grapher/total-government-expenditure-on-education-gdp" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-of-education-in-government-expenditure" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+Military spending
+
+<iframe src="https://ourworldindata.org/grapher/armed-forces-personnel" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/armed-forces-personnel-percent" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/military-expenditure-share-gdp" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/military-expenditure-total" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+Education
+
+<iframe src="https://ourworldindata.org/grapher/learning-adjusted-years-of-school-lays" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/mean-years-of-schooling-long-run" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
