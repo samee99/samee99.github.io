@@ -28,3 +28,12 @@ Share of population without access to electricity
 <iframe src="https://ourworldindata.org/grapher/access-to-electricity-vs-gdp-per-capita" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/explorers/inequality?time=2019&facet=none&Data=World+Inequality+Database+%28Incomes+before+tax%29&Indicator=Gini+coefficient&country=CHL~ZAF~USA~FRA~CHN~BRA&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+Access to water and sanitation
+
+<iframe src="https://ourworldindata.org/explorers/water-and-sanitation?facet=none&Resource=Drinking+water&Level+of+Use%2FAccess=Safely+managed&Residence=Total&Relative+to+population=Share+of+population&country=IND~USA~KEN~OWID_WRL~BGD~ZAF~CHN&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+Access to food
+
+<iframe src="https://ourworldindata.org/grapher/prevalence-of-undernourishment" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
