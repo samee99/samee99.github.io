@@ -42,4 +42,10 @@ GDP as function of time
 
 <iframe src="https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+<iframe src="https://ourworldindata.org/grapher/gdp-per-capita-worldbank" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+<iframe src="https://ourworldindata.org/grapher/gdp-world-regions-stacked-area" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/gdp-per-capita-growth?country=PAK~BGD" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/child-mortality-gdp-per-capita" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
