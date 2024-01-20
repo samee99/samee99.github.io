@@ -1,6 +1,8 @@
 
 https://assets.ourworldindata.org/uploads/2023/07/Annual-World-Population-since-10-thousand-BCE-1.png
 
+https://assets.ourworldindata.org/uploads/2019/06/2019-Revision-–-World-Population-Growth-1700-2100.png
+
 https://assets.ourworldindata.org/uploads/2021/12/Population-cartogram_World.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/fe40f081-47eb-4fbf-b80c-ae969fe620c2)
 
 Energy usage
