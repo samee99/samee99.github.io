@@ -15,6 +15,8 @@ https://ourworldindata.org/images/published/Population-cartogram_Africa_1350.web
 
 <iframe src="https://ourworldindata.org/grapher/child-mortality-igme" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+<iframe src="https://ourworldindata.org/grapher/world-banks-income-groups" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 Energy usage
 <iframe src="https://ourworldindata.org/explorers/energy?facet=none&hideControls=true&Total+or+Breakdown=Total&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&country=USA~GBR~CHN~OWID_WRL~IND~BRA~ZAF" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -49,3 +51,10 @@ GDP as function of time
 <iframe src="https://ourworldindata.org/grapher/gdp-per-capita-growth?country=PAK~BGD" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/child-mortality-gdp-per-capita" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/shares-of-gdp-by-economic-sector" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/national-gdp-constant-usd-wb" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/world-banks-income-groups" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
