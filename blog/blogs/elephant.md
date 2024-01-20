@@ -9,6 +9,9 @@ https://ourworldindata.org/images/published/Population-cartogram_Asia-and-Oceani
 
 https://ourworldindata.org/images/published/Population-cartogram_Africa_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/5a7b813b-daa2-4d1d-9df7-98a697245085)
 
+<iframe src="https://ourworldindata.org/grapher/total-number-of-people-aged-15-with-no-education-in-millions-by-continent-1970-2050?time=earliest..2010" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
 <iframe src="https://ourworldindata.org/grapher/population-density" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/median-age?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -82,3 +85,19 @@ Education
 <iframe src="https://ourworldindata.org/grapher/learning-adjusted-years-of-school-lays" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/mean-years-of-schooling-long-run" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/average-years-of-schooling-vs-gdp-per-capita" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/completion-rate-of-primary-education" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/completion-rate-of-lower-secondary-education" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/completion-rate-of-upper-secondary-education-sdg" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/learning-adjusted-years-of-schooling-marimekko" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/total-number-of-people-aged-15-with-no-education-in-millions-by-continent-1970-2050?time=earliest..2010" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-lower-secondary-education-who-are-qualified" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/quality-vs-quantity-of-schooling?country=AGO~BEN~BWA~BFA~BDI~CMR~CAF~TCD~COM~COG~CIV~COD~SWZ~ETH~GAB~GMB~GHA~GIN~KEN~LSO~LBR~MDG~MWI~MLI~MRT~MUS~MOZ~NAM~NER~NGA~RWA~SEN~SYC~SLE~ZAF~SSD~SDN~TZA~TGO~UGA~ZMB~ZWE~AFG~BGD~BTN~IND~NPL~PAK~LKA" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
