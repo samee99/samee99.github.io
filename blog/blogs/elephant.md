@@ -9,6 +9,8 @@ https://ourworldindata.org/images/published/Population-cartogram_Asia-and-Oceani
 
 https://ourworldindata.org/images/published/Population-cartogram_Africa_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/5a7b813b-daa2-4d1d-9df7-98a697245085)
 
+<iframe src="https://ourworldindata.org/grapher/population-density" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 Energy usage
 <iframe src="https://ourworldindata.org/explorers/energy?facet=none&hideControls=true&Total+or+Breakdown=Total&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&country=USA~GBR~CHN~OWID_WRL~IND~BRA~ZAF" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
