@@ -37,3 +37,9 @@ Access to water and sanitation
 Access to food
 
 <iframe src="https://ourworldindata.org/grapher/prevalence-of-undernourishment" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+GDP as function of time
+
+<iframe src="https://ourworldindata.org/grapher/world-gdp-over-the-last-two-millennia" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
