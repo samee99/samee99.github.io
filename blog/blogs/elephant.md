@@ -13,6 +13,8 @@ https://ourworldindata.org/images/published/Population-cartogram_Africa_1350.web
 
 <iframe src="https://ourworldindata.org/grapher/median-age?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+<iframe src="https://ourworldindata.org/grapher/child-mortality-igme" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 Energy usage
 <iframe src="https://ourworldindata.org/explorers/energy?facet=none&hideControls=true&Total+or+Breakdown=Total&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&country=USA~GBR~CHN~OWID_WRL~IND~BRA~ZAF" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
