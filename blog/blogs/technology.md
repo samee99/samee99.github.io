@@ -10,9 +10,9 @@ Starting around 9 millennia ago, we domesticated animals, allowing us to lift an
 
 It's no surprise that all three of these significant technological shifts were energy related. Humans need energy to survive and thrive. At rest, a human weighing ~70 kilograms requires approximately 80 watts of power for their body to function, which translates to 6.9 megajoules of food energy or 1,650 kilocalorie per day. Finding this energy purely by foraging typically involved travelling tens of kilometers to support a small family. By leveraging agriculture, humans could live a relatively settled life. With the agricultural revolution, population densities increased by 2 orders of magnitude compared to foraging societies from 2-3 people per square kilometer to 150-200 people per square kilometer. 
 
-As we built more settled societies, we began to find finding several other new ways of doing things. Principal among these was the discovery of writing 5,000 years ago, allowing us to preserve knowledge and communicate across time and space. 
+As we built more settled societies, we began to find several other new ways of doing things. Principal among these was the discovery of writing 5,000 years ago. Writing allowed us to preserve knowledge and communicate across time and space. The invention of money soon followed about 3000 years ago. Money replaced the barter system and simplified the exchange of goods. 
 
-Around the same time, 5,000 years ago, with the invention of sails, humans started leveraging a new significant source of energy, wind, on top of the three I mentioned earlier: thermal energy from wood, solar energy from the sun, mechanical energy from domesticated animals. 
+5,000 years ago, with the invention of sails, humans started leveraging a new significant source of energy, wind, on top of the three I mentioned earlier: thermal energy from wood, solar energy from the sun, mechanical energy from domesticated animals. 
 
 
 In fact it was not until 400 years ago, with the onset of the industrial revolution, ).
