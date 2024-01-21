@@ -9,8 +9,11 @@ https://ourworldindata.org/images/published/Population-cartogram_Asia-and-Oceani
 
 https://ourworldindata.org/images/published/Population-cartogram_Africa_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/5a7b813b-daa2-4d1d-9df7-98a697245085)
 
+<iframe src="https://ourworldindata.org/grapher/expected-years-of-schooling-vs-share-in-extreme-poverty" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 <iframe src="https://ourworldindata.org/grapher/total-number-of-people-aged-15-with-no-education-in-millions-by-continent-1970-2050?time=earliest..2010" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+<iframe src="https://ourworldindata.org/grapher/world-population-level-education?time=earliest..2025" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/population-density" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -19,6 +22,8 @@ https://ourworldindata.org/images/published/Population-cartogram_Africa_1350.web
 <iframe src="https://ourworldindata.org/grapher/child-mortality-igme" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/world-banks-income-groups" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/precentage-enrolled-in-private-institutions-at-the-primary-education-level" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 Energy usage
 <iframe src="https://ourworldindata.org/explorers/energy?facet=none&hideControls=true&Total+or+Breakdown=Total&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&country=USA~GBR~CHN~OWID_WRL~IND~BRA~ZAF" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -104,9 +109,13 @@ Education
 
 <iframe src="https://ourworldindata.org/grapher/precentage-enrolled-in-private-institutions-at-the-primary-education-level" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+<iframe src="https://ourworldindata.org/grapher/expected-years-of-schooling-vs-share-in-extreme-poverty" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 <iframe src="https://ourworldindata.org/grapher/adolescents-not-in-school?time=latest" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/share-primary-school-age-out-of-school" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-primary-education-achieving-minimum-math-proficiency?time=latest" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+<iframe src="https://ourworldindata.org/grapher/pisa-mean-performance-on-the-reading-scale-by-sex" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/pisa-mean-performance-on-the-mathematics-scale-by-sex" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
