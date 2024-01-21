@@ -3,10 +3,61 @@ https://assets.ourworldindata.org/uploads/2023/07/Annual-World-Population-since-
 
 https://assets.ourworldindata.org/uploads/2019/06/2019-Revision-–-World-Population-Growth-1700-2100.png
 
+https://assets.ourworldindata.org/uploads/2013/12/Night-Light-NASA-August-2017-cropped.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/68e9ce00-4fc9-4bb5-bc41-496dafe83d8a)
+
+<iframe src="https://ourworldindata.org/grapher/european-overseas-colonies-by-colonizer" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/number-of-european-overseas-colonies-by-region" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/number-of-european-overseas-colonies" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/years-colonized" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/productivity-vs-annual-hours-worked" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+https://assets.ourworldindata.org/uploads/2013/12/Satellite-images-of-India-by-night-–-Sala-I-Martin-paper.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/a5dcc0f2-2bbc-4d1b-a1e1-ff98933d688f)
+
+<iframe src="https://ourworldindata.org/grapher/unpaid-parking-violations-per-diplomat" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/deaths-in-wars-by-war-1800-2011-marimekko" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/days-of-vacation-and-holidays" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/augmented-human-development-index" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 https://ourworldindata.org/images/published/Timeline-of-Transformative-Events_1350.webp
 ![image](https://github.com/samee99/samee99.github.io/assets/53830393/a40e3d95-afaa-419e-a112-f2e85b808605)
 
 <iframe src="https://ourworldindata.org/grapher/labor-productivity-per-hour-pennworldtable?time=2017&country=BRA~DEU~IND~JPN~KOR~GBR~USA" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/the-price-for-lighting-per-million-lumen-hours-in-the-uk-in-british-pound?yScale=log" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/efficiency-of-lighting-in-the-united-kingdom-lumen-hours-per-kilowatt-hour" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/lighting-sources-uk" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/efficiency-lighting-uk-sources" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/access-to-electricity-vs-gdp-per-capita" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/availability-of-computed-tomography-ct-imaging" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/magnetic-resonance-imaging-mri-units-availability" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/technology-infrastructure-diffusion-uk" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/technology-infrastructure-diffusion-us" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-with-4g-mobile-network-coverage" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/population-covered-by-mobile-network-by-network-capability" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/price-changes-consumer-goods-services-united-states" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-by-country" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/mobile-cellular-subscriptions-per-100-people" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/costs-of-66-different-technologies-over-time?country=Wind+turbine+%28Denmark%29~Monochrome+television~DNA+sequencing~Automotive+%28US%29~Photovoltaics~Hard+disk+drive~Nuclear+electricity~Transistor" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 https://assets.ourworldindata.org/uploads/2021/12/Population-cartogram_World.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/fe40f081-47eb-4fbf-b80c-ae969fe620c2)
 
@@ -15,8 +66,10 @@ https://ourworldindata.org/images/published/Population-cartogram_Asia-and-Oceani
 https://ourworldindata.org/images/published/Population-cartogram_Africa_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/5a7b813b-daa2-4d1d-9df7-98a697245085)
 
 
+
 https://ourworldindata.org/images/published/Longterm-timeline-of-technology_850.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/a75f6487-507d-4d49-9be1-147f2de513e6)
 
+<iframe src="https://ourworldindata.org/grapher/technology-adoption-by-households-in-the-united-states" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 https://ourworldindata.org/poverty-growth-needed
 
@@ -66,6 +119,8 @@ https://ourworldindata.org/images/published/Incomes-poor-and-rich-country-1800-a
 
 <iframe src="https://ourworldindata.org/grapher/tax-revenues-as-a-share-of-gdp-unu-wider" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
+<iframe src="https://ourworldindata.org/grapher/outdoor-pollution-death-rate" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/death-rate-by-source-from-indoor-air-pollution" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 Energy usage
 <iframe src="https://ourworldindata.org/explorers/energy?facet=none&hideControls=true&Total+or+Breakdown=Total&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&country=USA~GBR~CHN~OWID_WRL~IND~BRA~ZAF" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -192,8 +247,10 @@ Books
 
 AI 
 
+
 https://ourworldindata.org/images/published/Timeline-of-Transformative-Events_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/4e338c4b-3d6a-41af-b584-4329ea3221d4)
 
+<iframe src="https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 https://ourworldindata.org/images/published/ai-training-computation-3_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/5c5f4b8a-6135-431f-bbe6-811d2c8ea14f)
 
@@ -205,6 +262,8 @@ https://ourworldindata.org/images/published/AI-performance_Dynabench-paper_850.w
 
 More than 90% of these chips are designed and assembled in only a handful of countries: the United States, Taiwan, China, South Korea, and Japan.
 <iframe src="https://ourworldindata.org/grapher/market-share-logic-chip-production-manufacturing-stage" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/gpu-price-performance" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -240,6 +299,7 @@ Travel
 
 https://assets.ourworldindata.org/uploads/2021/06/Battery-cost-decline.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/40d4fba6-0ff3-47ce-91a6-2cb1b0cb04a6)
 
+<iframe src="https://ourworldindata.org/grapher/registered-vehicles-per-1000-people" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/per-capita-km-aviation" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -256,3 +316,41 @@ https://assets.ourworldindata.org/uploads/2021/06/Battery-cost-decline.png![imag
 https://ourworldindata.org/images/published/5-Bar-chart-–-What-is-the-safest-form-of-energy_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/250ad7fd-8939-4a2e-8d73-469a3d92e34e)
 
 https://ourworldindata.org/images/published/Price-of-electricity-new-renewables-vs-new-fossil-no-geo_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/a5a413c9-5fae-436e-bda5-840a1c993aef)
+
+https://ourworldindata.org/images/published/solar-pv-prices-vs-cumulative-capacity_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/4a688370-40a0-44f2-8c63-4e38e3d63d43)
+
+https://ourworldindata.org/images/published/Transistor-Count-over-time_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/1e04c7a9-87ab-4712-8669-c578985952ff)
+
+https://ourworldindata.org/images/published/3-Learning-curves-for-electricity-prices_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/2233c0ad-4cd6-4ca0-8e87-aec9d17e0f2f)
+
+
+<iframe src="https://ourworldindata.org/grapher/capture-fisheries-vs-aquaculture" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+https://assets.ourworldindata.org/uploads/2023/04/solar-pv-prices-vs-cumulative-capacity-1951x2048.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/7e7dc87d-d3b9-40eb-bd80-a335c9366fb9)
+
+
+<iframe src="https://ourworldindata.org/grapher/cost-of-sequencing-a-full-human-genome" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/transistors-per-microprocessor" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/solar-pv-prices" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/active-mobile-money-accounts" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/supercomputer-power-flops" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/cost-per-gigabase-dna-sequencing" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/levelized-cost-of-energy" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/solar-pv-prices-vs-cumulative-capacity" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/costs-of-66-different-technologies-over-time?country=Wind+turbine+%28Denmark%29~Monochrome+television~DNA+sequencing~Automotive+%28US%29~Photovoltaics~Hard+disk+drive~Nuclear+electricity~Transistor" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+Time 
+
+<iframe src="https://ourworldindata.org/grapher/time-spent-with-relationships-by-age-us" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
