@@ -101,3 +101,12 @@ Education
 <iframe src="https://ourworldindata.org/grapher/percentage-of-teachers-in-lower-secondary-education-who-are-qualified" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/quality-vs-quantity-of-schooling?country=AGO~BEN~BWA~BFA~BDI~CMR~CAF~TCD~COM~COG~CIV~COD~SWZ~ETH~GAB~GMB~GHA~GIN~KEN~LSO~LBR~MDG~MWI~MLI~MRT~MUS~MOZ~NAM~NER~NGA~RWA~SEN~SYC~SLE~ZAF~SSD~SDN~TZA~TGO~UGA~ZMB~ZWE~AFG~BGD~BTN~IND~NPL~PAK~LKA" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/precentage-enrolled-in-private-institutions-at-the-primary-education-level" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/adolescents-not-in-school?time=latest" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-primary-school-age-out-of-school" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-of-students-at-end-of-primary-education-achieving-minimum-math-proficiency?time=latest" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
