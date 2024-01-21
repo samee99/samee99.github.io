@@ -3,11 +3,44 @@ https://assets.ourworldindata.org/uploads/2023/07/Annual-World-Population-since-
 
 https://assets.ourworldindata.org/uploads/2019/06/2019-Revision-–-World-Population-Growth-1700-2100.png
 
+https://ourworldindata.org/images/published/Timeline-of-Transformative-Events_1350.webp
+![image](https://github.com/samee99/samee99.github.io/assets/53830393/a40e3d95-afaa-419e-a112-f2e85b808605)
+
+<iframe src="https://ourworldindata.org/grapher/labor-productivity-per-hour-pennworldtable?time=2017&country=BRA~DEU~IND~JPN~KOR~GBR~USA" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 https://assets.ourworldindata.org/uploads/2021/12/Population-cartogram_World.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/fe40f081-47eb-4fbf-b80c-ae969fe620c2)
 
 https://ourworldindata.org/images/published/Population-cartogram_Asia-and-Oceania_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/b8373a26-1014-4bcd-bfc1-f69a58e6c5ce)
 
 https://ourworldindata.org/images/published/Population-cartogram_Africa_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/5a7b813b-daa2-4d1d-9df7-98a697245085)
+
+
+https://ourworldindata.org/images/published/Longterm-timeline-of-technology_850.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/a75f6487-507d-4d49-9be1-147f2de513e6)
+
+
+https://ourworldindata.org/poverty-growth-needed
+
+https://ourworldindata.org/images/published/Incomes-poor-and-rich-country-1800-and-2018_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/5cb8405d-3c19-422c-ac50-add340011d8b)
+
+<iframe src="https://ourworldindata.org/grapher/share-of-individuals-using-the-internet" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/ict-adoption" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/manuscript-production-century?country=DEU~Iberia" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/tax-revenues-vs-gdp-per-capita" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/number-of-patents-through-the-industrial-revolution" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/cross-country-literacy-rates?tab=map&country=East+Asia+%26+Pacific~Sub-Saharan+Africa~Europe+%26+Central+Asia~Latin+America+%26+Caribbean~Middle+East+%26+North+Africa~South+Asia" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/patent-applications-per-million" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/share-of-the-population-with-basic-numeracy-skills-by-birth-decade?country=EST~NIC~TZA~CHN~DEU~NLD~GAB~PAK~IND~BGD~NGA~IDN~ETH~EGY" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/literate-and-illiterate-world-population" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/cross-country-literacy-rates" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/expected-years-of-schooling-vs-share-in-extreme-poverty" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
@@ -24,6 +57,15 @@ https://ourworldindata.org/images/published/Population-cartogram_Africa_1350.web
 <iframe src="https://ourworldindata.org/grapher/world-banks-income-groups" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/precentage-enrolled-in-private-institutions-at-the-primary-education-level" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/researchers-in-rd-per-million-people" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/research-spending-gdp" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/researchers-in-rd-per-million-people-vs-gdp-pc?country=AZE~CHN~GEO~HKG~IDN~IRN~IRQ~JPN~KAZ~KWT~MAC~MNG~MMR~OMN~PAK~SAU~SGP~KOR~THA~TUR~ARE~UZB~VNM~EGY~MLI~MUS~RWA~ZAF~TGO~TUN" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/tax-revenues-as-a-share-of-gdp-unu-wider" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 
 Energy usage
 <iframe src="https://ourworldindata.org/explorers/energy?facet=none&hideControls=true&Total+or+Breakdown=Total&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&country=USA~GBR~CHN~OWID_WRL~IND~BRA~ZAF" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -119,3 +161,98 @@ Education
 <iframe src="https://ourworldindata.org/grapher/pisa-mean-performance-on-the-reading-scale-by-sex" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 <iframe src="https://ourworldindata.org/grapher/pisa-mean-performance-on-the-mathematics-scale-by-sex" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+Research and Development 
+
+<iframe src="https://ourworldindata.org/grapher/scientific-publications-per-million?tab=chart&country=PAK~IND~BGD~NGA~ETH~EGY~IDN" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/patent-applications-per-million" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/researchers-in-rd-per-million-people" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/research-spending-gdp" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/number-of-patents-through-the-industrial-revolution" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/researchers-in-rd-per-million-people-vs-gdp-pc?country=AZE~CHN~GEO~HKG~IDN~IRN~IRQ~JPN~KAZ~KWT~MAC~MNG~MMR~OMN~PAK~SAU~SGP~KOR~THA~TUR~ARE~UZB~VNM~EGY~MLI~MUS~RWA~ZAF~TGO~TUN" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+Taxation
+
+<iframe src="https://ourworldindata.org/grapher/taxes-on-income-vs-taxes-on-goods-and-services" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/tax-revenues-vs-gdp-per-capita" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+Books
+
+<iframe src="https://ourworldindata.org/grapher/new-books-per-million?time=latest" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/annual-per-capita-consumption-books" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+AI 
+
+https://ourworldindata.org/images/published/Timeline-of-Transformative-Events_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/4e338c4b-3d6a-41af-b584-4329ea3221d4)
+
+
+https://ourworldindata.org/images/published/ai-training-computation-3_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/5c5f4b8a-6135-431f-bbe6-811d2c8ea14f)
+
+https://ourworldindata.org/images/published/AI-performance_Dynabench-paper_850.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/80a18eac-d6c1-4e5b-933d-a39215dcfd40)
+
+<iframe src="https://ourworldindata.org/grapher/artificial-intelligence-training-computation" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/ai-performance-knowledge-tests-vs-training-computation" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+More than 90% of these chips are designed and assembled in only a handful of countries: the United States, Taiwan, China, South Korea, and Japan.
+<iframe src="https://ourworldindata.org/grapher/market-share-logic-chip-production-manufacturing-stage" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/affiliation-researchers-building-artificial-intelligence-systems-all" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-cset?country=USA~CHN~OWID_WRL~GBR~IND" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/private-investment-in-artificial-intelligence-by-focus-area" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/national-strategies-on-artificial-intelligence" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/artificial-intelligence-number-training-datapoints" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/ai-performance-imagenet" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/artificial-intelligence-parameter-count" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/scholarly-publications-on-artificial-intelligence-per-million-people" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/ai-performance-coding-math-knowledge-tests" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/ai-training-computation-vs-parameters-by-domain" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+
+Space
+
+<iframe src="https://ourworldindata.org/grapher/nasa-annual-budget" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/yearly-number-of-objects-launched-into-outer-space" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/cost-space-launches-low-earth-orbit" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+Travel 
+
+https://assets.ourworldindata.org/uploads/2021/06/Battery-cost-decline.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/40d4fba6-0ff3-47ce-91a6-2cb1b0cb04a6)
+
+
+<iframe src="https://ourworldindata.org/grapher/per-capita-km-aviation" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/railways-passengers-carried-passenger-km?country=~CHN" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<iframe src="https://ourworldindata.org/grapher/energy-intensity-transport?country=Amtrak~Bus~Domestic+flight~International+flight~Motorcycle~Transit+motor+bus~Truck+%28with+trailer%29~Truck~Small+passenger+vehicles" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+Technological Change
+
+https://ourworldindata.org/images/published/Longterm-timeline-of-technology_850.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/a75f6487-507d-4d49-9be1-147f2de513e6)
+
+https://assets.ourworldindata.org/uploads/2021/06/Battery-cost-decline.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/e98a08bc-e0d4-4fba-8345-91246389155f)
+
+https://ourworldindata.org/images/published/5-Bar-chart-–-What-is-the-safest-form-of-energy_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/250ad7fd-8939-4a2e-8d73-469a3d92e34e)
+
+https://ourworldindata.org/images/published/Price-of-electricity-new-renewables-vs-new-fossil-no-geo_1350.webp![image](https://github.com/samee99/samee99.github.io/assets/53830393/a5a413c9-5fae-436e-bda5-840a1c993aef)
