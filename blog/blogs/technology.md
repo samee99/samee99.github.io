@@ -10,16 +10,13 @@ Starting around 9 millennia ago, we domesticated animals, allowing us to lift an
 
 It's no surprise that all three of these significant technological shifts were energy related. Humans need energy to survive and thrive. At rest, a human weighing ~70 kilograms requires approximately 80 watts of power for their body to function, which translates to 6.9 megajoules of food energy or 1,650 kilocalorie per day. Finding this energy purely by foraging typically involved travelling tens of kilometers to support a small family. By leveraging agriculture, humans could live a relatively settled life. With the agricultural revolution, population densities increased by 2 orders of magnitude compared to foraging societies from 2-3 people per square kilometer to 150-200 people per square kilometer. 
 
-As we built more settled societies, we began to find several other new ways of doing things. Principal among these was the discovery of writing about 5,000 years ago. Writing allowed us to preserve knowledge and communicate across time and space. The invention of money soon followed about 3,000 years ago. Money replaced the inefficient barter system, simplified the exchange of goods, boosting economic growth. 
+As we built more settled societies, we began to find several other new ways of doing things. Principal among these was the invention of writing about 5,000 years ago. Writing allowed us to preserve knowledge and communicate across time and space. The invention of money soon followed about 3,000 years ago. Money replaced the inefficient barter system, simplified the exchange of goods, boosting economic growth. 
 
-Around 5,000 years ago, with the invention of sails, humans started leveraging a new significant source of energy, wind, on top of the three I mentioned earlier: thermal energy from wood, solar energy from the sun, mechanical energy from domesticated animals, to travel further via sea. Around 3,000 years ago, the invention of the wheel expanded our ability to travel on land. 
+At this point, we started learning more about how to leverage materials in the earth to build stronger tools starting with combining copper and tin to make bronze, kicking off the bronze age about 5,300 years ago. Why was this significant? Humans could now melt and caste bronze into precise shapes, unlike stone which had to be laboriously chipped and shaped. Man, the tool-maker, could now more efficiently produce tools with more exact specifications. 
 
-We found better things to write on, about 2,000 years back, graduating from papyrus scrolls and parchments to paper, making knowledge preservation easier and cheaper. 
+Around 5,000 years ago, with the invention of sails, humans started leveraging a new significant source of energy, wind, on top of the three I mentioned earlier: thermal energy from wood, solar energy from the sun, mechanical energy from domesticated animals, to travel further via sea. Around 3,000 years ago, the invention of the wheel expanded our ability to travel on land. And then again, about 1,500 years back we figured out that using sails (or blades) we could convert wind energy into mechanical energy to  grind grain and pump water inside windmills. 
 
-In fact it was not until 400 years ago, with the onset of the industrial revolution, ).
+We found better things to write on, about 2,000 years back, graduating from papyrus scrolls and parchments to paper, making knowledge preservation easier and cheaper. The culmination of all these advances was then evidenced 700 years ago, with the invention of the Printing Press. An engineering marvel of its time, it used a combination of our ability to shape metal into precise letters together with our knowledge of gears, levers and presses as well as forces and pressure to press inked words on to paper. Humans were now able to mass produce and share books and knowledge without incurring the labor of manually copying the original manuscript. 
 
-Sails - 5,000 years ago
 
-Waterwheels - 2,000 years ago
-
-Windmills - 1,000 years ago
+And all this happend before the beginning of the scientific and industrial revolution. 
