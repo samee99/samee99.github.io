@@ -18,7 +18,6 @@ Around 5,000 years ago, with the invention of sails, humans started using a new 
 
 We found better things to write on, about 2,000 years back, graduating from papyrus scrolls and parchments to paper, making knowledge preservation easier and cheaper. Many of the techniques humans had learnt over time came together 700 years ago, with the invention of the Printing Press. An engineering marvel of its time, it used a combination of our ability to shape metal into precise letters together with our knowledge of gears, levers and presses as well as forces and pressure to press inked words on to paper. Humans were now able to mass produce and share books and knowledge without incurring the labor of manually copying the original manuscript. 
 
-
 So there you go. These are some of the significant new ways of doing things, i.e. technology, we found up to about 500 years ago. And all this happened before the beginning of the scientific and industrial revolution. That's a story for another day. 
 
 
