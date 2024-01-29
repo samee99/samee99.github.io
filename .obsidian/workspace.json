@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/elephant.md",
+                "file": "blog/blogs/technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/elephant.md",
+                "file": "blog/blogs/technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/elephant.md",
+                "file": "blog/blogs/technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/elephant.md"
+                "file": "blog/blogs/technology.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "e2ab4412aeb849ae",
   "lastOpenFiles": [
-    "blog/blogs/technology.md",
     "blog/blogs/elephant.md",
+    "blog/blogs/technology.md",
     "Pasted image 20240129115805.png"
   ]
 }
