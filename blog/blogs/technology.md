@@ -1,4 +1,4 @@
-What is technology? 
+What is technology?  
 
 Looking back, I am  surprised by how little I understood technology and how narrowly I defined it. Technology is not just the iPhone sitting on our desks, the internet we consume, or the cars we drive. Technology instead is technique, it's the way we do things. Working our way back through time, we notice that technology has existed for hundreds of thousand of years, limited only by the imaginative capability of our ancestors to make new tools to better leverage their environment. 
 
