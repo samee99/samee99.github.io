@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/elephant.md",
+                "file": "blog/blogs/ml.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/elephant.md",
+                "file": "blog/blogs/ml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/elephant.md",
+                "file": "blog/blogs/ml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/elephant.md"
+                "file": "blog/blogs/ml.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
+    "blog/blogs/elephant.md",
     "blog/blogs/dl.md",
     "blog/blogs/writing.md",
     "blog/blogs/technology.md",
@@ -157,7 +158,6 @@
     "blog/blogs/ml-types.md",
     "blog/blogs/mm.md",
     "blog/blog.md",
-    "blog/blogs/elephant.md",
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
     "blogs/painting.md",
