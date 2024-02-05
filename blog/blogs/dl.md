@@ -54,14 +54,14 @@ You note that Bob has inverted the relationship between output and program and i
 
 
 Bob’s right!
-But you point out to Bob that that the raw data takes the form of an RGB image with many different pixels. Some of the pixels have something to do with a car, while others do not. Any single pixel, on it’s own, doesn’t tell me anything about a car anyway, you argue. How would I teach the computer to find a car in the image by looking at a bunch of pixels?
+But you point out to Bob that the raw data takes the form of an RGB image with many different pixels. Some of the pixels have something to do with a car, while others do not. Any single pixel, on it’s own, doesn’t tell me anything about a car anyway, you argue. How would I teach the computer to find a car in the image by looking at a bunch of pixels?
 
 
 Bob is as clueless as you are.
 All cars should have tires, windows and number plates, Bob says. What if we, the engineers, extract these main features of a car and ask the machine (computer) to perform classification, i.e. predict whether a car is present in the image or not using these features instead of the raw data:
 
 
-You nod and realize that by providing the computer information about the high level representation of a car (i.e. tires, windows) instead of raw pixels, you make the learning algorithm’s job easier.
+You nod and realize that by providing the computer information about the high-level representation of a car (i.e. tires, windows) instead of raw pixels, you make the learning algorithm’s job easier.
 
 Mapping the raw data to the output has historically been a difficult task for machine learning algorithms. ML algorithms have therefore often depended on mapping manually extracted features to the output instead.
 
