@@ -35,3 +35,5 @@ Optimization is a method to search for the best solution. There are many differe
 Learning involves finding the optimal parameters that maximize an objective function (e.g. Mean Squared Error) given a certain representation (e.g. Neural Networks) with varying parameters and a set of data (e.g. Dataset containing images with and without cats together with labels of whether the respective image contains a cat) to train the algorithm over.
 
 Hope your learning algorithm manages to tune the parameters just right, so you can enjoy the result!
+
+*Take me [home](https://sameeurrehman.com/)
