@@ -23,5 +23,5 @@ We found better things to write on, about 2,000 years back, graduating from papy
 So there you go. These are some of the significant new ways of doing things, i.e. technology, we found up to about 500 years ago. And all this happened before the beginning of the scientific and industrial revolution. That's a story for another day. 
 
 
-Take me [home](https://sameeurrehman.com/)
+*Take me [home](https://sameeurrehman.com/)* 
 

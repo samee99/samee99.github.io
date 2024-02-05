@@ -36,4 +36,4 @@ Learning involves finding the optimal parameters that maximize an objective func
 
 Hope your learning algorithm manages to tune the parameters just right, so you can enjoy the result!
 
-*Take me [home](https://sameeurrehman.com/)
+*Take me [home](https://sameeurrehman.com/)* 

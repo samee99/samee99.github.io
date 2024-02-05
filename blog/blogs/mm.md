@@ -21,6 +21,6 @@ Just for fun, I took the [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/S
 
 Model merging does have a history in the research literature and Omer Sanseviero has a [collection on Hugging Face](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66) containing important papers in this space if you want to learn more. 
 
-
+*Take me [home](https://sameeurrehman.com/)* 
 
 
