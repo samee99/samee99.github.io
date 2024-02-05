@@ -1,6 +1,6 @@
 Why the fuss about deep learning?
 
-Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning and Deep Learning over the past decade. Companies like Google, Facebook, and Tesla have leveraged AI to their advantage:
+Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning, and Deep Learning over the past decade. Companies like Google, Facebook, and Tesla have leveraged AI to their advantage:
 
 
 Tesla autopilot uses Deep Learning to successfully navigate roads
@@ -8,7 +8,7 @@ You might ask, computers have been around for a very long time, what’s up with
 
 This image has an empty alt attribute; its file name is image-15.png
 Some of the headlines in the past decade related to AI takeover
-In reality we are a fair way away from such a scenario. A statement by Andrew Ng with respect to the above, provides a more realistic picture:
+In reality we are a fair way away from such a scenario. A statement by Andrew Ng concerning the above, provides a more realistic picture:
 
 Fearing a rise of killer robots is like worrying about overpopulation on Mars.
 
