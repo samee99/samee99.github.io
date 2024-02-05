@@ -1,1 +1,1 @@
-Recently, we have seen a frenzy in the LLM community related to model merging. Omer Sanseviero has a collection on Hugging Face 
+Recently, we have seen a frenzy in the LLM community related to model merging. Omer Sanseviero has a [collection on Hugging Face](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66) containing papers that historicize this 
