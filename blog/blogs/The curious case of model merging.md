@@ -1,4 +1,4 @@
-[Over the past month](https://twitter.com/maximelabonne/status/1747350120067154227), the LLM community has been obsessed with model merging, a method that combines multiple LLMs into a single one without requiring additional training. I wanted to see what the fuss was about and try my hand at merging some models myself. Maxime Labonne's [blog post](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54) got me up and running. 
+[Over the past month](https://twitter.com/maximelabonne/status/1747350120067154227), the LLM community has been obsessed with model merging, a method that combines multiple LLMs into a single one without requiring additional training. I wanted to see what the fuss was about and try my hand at merging some models myself over the weekend. Maxime Labonne's [blog post](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54) got me up and running. 
 
 To get started, I tried 3 different model merging methods: 
 - SLERP [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) 
