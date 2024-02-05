@@ -6,14 +6,13 @@ To get started, I tried a few different model merging methods including:
 
 Combining the models was pretty simple using a modified version of [LazyMergeKit](https://colab.research.google.com/drive/147MCAihwKE1-GBfEvTgQ-kWxVQyiJ1pa?usp=sharing) - thanks to Maxime Labonne for the original version. 
 
-So how do what SLERP and TIES are, I still couldn't get why these techniques helped the LLM perform better than the base models they combined. So here is an attempt to understand these methods a bit better.  
+So how do SLERP and TIES model merging work and why do these techniques help the merged LLM perform better than the base models they are built from? Here is an attempt to understand these methods a bit better.  
 
 - SLERP stands for Spherical Linear Interpolation. It's a way to find the path between two points on a (hyper)sphere. Imagine you are traveling from New York to Paris. SLERP would give you the path representing the shortest flight from New York to Paris. When applying SLERP to model merging for LLMs, we would get a new LLM corresponding to a specific point along the path of our metaphorical NY-Paris flight. The point on that path depends on the interpolation parameters we choose. If we don't interpolate at all, we would still be in NY, corresponding to the first base model, if we interpolate all the way, we would be in Paris, corresponding to the second based model, but anywhere along the way we would be on that interpolated path on the hypersphere. As you would expect, SLERP can only be used to merge two models. 
 - [TIES](https://arxiv.org/pdf/2306.01708.pdf) standing for Trim, Elect Sign, and Merge, is a method to combine multiple LLMs using a fancy form of model weights averaging. With TIES, we first discard weight values from all models that are too small (trimming). Then, we average the remaining weights, but only those that share the same sign, positive or negative, as chosen in the 'elect sign' step. This way, we merge model weights while ensuring consistent sign alignment, disregarding any conflicting weights.
-- Passthrough
 
 
-I then took the [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) model and performed [Direct Preference Optimization](https://huggingface.co/docs/trl/main/en/dpo_trainer) on it using the [Intel/orca_dpo_pairs](https://huggingface.co/datasets/Intel/orca_dpo_pairs) dataset to get the DPO'ed LLM [Samee-ur/NeuralPipe-7B-slerp-DPO](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp-DPO). 
+Just for fun, I took the [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) model and performed [Direct Preference Optimization](https://huggingface.co/docs/trl/main/en/dpo_trainer) on it using the [Intel/orca_dpo_pairs](https://huggingface.co/datasets/Intel/orca_dpo_pairs) dataset to get the DPO'ed LLM [Samee-ur/NeuralPipe-7B-slerp-DPO](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp-DPO). 
 
 Model merging does have a history in the research literature and Omer Sanseviero has a [collection on Hugging Face](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66) containing important papers in this space. 
 
