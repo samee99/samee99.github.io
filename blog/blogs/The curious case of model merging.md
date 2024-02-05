@@ -5,11 +5,11 @@ To get started, I tried 3 different model merging methods:
 - TIES  [Samee-ur/NeuralPipe-7B-TIES](https://huggingface.co/Samee-ur/NeuralPipe-7B-TIES)  
 - Passthrough [Samee-ur/NeuralPipe-9B-Passthrough](https://huggingface.co/Samee-ur/NeuralPipe-9B-Passthrough)
 
-I then took the [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) model and performed [Direct Preference Optimization](https://arxiv.org/abs/2305.18290) on it using the [Intel/orca_dpo_pairs](https://huggingface.co/datasets/Intel/orca_dpo_pairs) dataset to get the DPO'ed LLM 
+I then took the [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) model and performed [Direct Preference Optimization](https://arxiv.org/abs/2305.18290) on it using the [Intel/orca_dpo_pairs](https://huggingface.co/datasets/Intel/orca_dpo_pairs) dataset to get the DPO'ed LLM [Samee-ur/NeuralPipe-7B-slerp-DPO](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp-DPO). 
 
 Combining the models was pretty simple using a modified version of [LazyMergeKit](https://colab.research.google.com/drive/147MCAihwKE1-GBfEvTgQ-kWxVQyiJ1pa?usp=sharing) - thanks to Maxime Labonne for the original version. 
 
-While Maxime's [blog post](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54) did talk about SLERP, TIES, and Passthrough, I still couldn't get why they helped the merged models perform better. So here is an attempt to understand these techniques a bit better.  
+While Maxime's [blog post](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54) did talk about SLERP, TIES, and Passthrough, I still couldn't get why these techniques helped the LLM perform better. So here is an attempt to understand these techniques a bit better.  
 
 SLERP - 
 
