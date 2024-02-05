@@ -5,7 +5,7 @@ To get started, I tried 3 different model merging methods:
 - TIES  [Samee-ur/NeuralPipe-7B-TIES](https://huggingface.co/Samee-ur/NeuralPipe-7B-TIES)  
 - Passthrough [Samee-ur/NeuralPipe-9B-Passthrough](https://huggingface.co/Samee-ur/NeuralPipe-9B-Passthrough)
 
-I then took the [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) model and performed [Direct Preference Optimization](https://arxiv.org/abs/2305.18290) on it using the [Intel/orca_dpo_pairs](https://huggingface.co/datasets/Intel/orca_dpo_pairs) dataset. 
+I then took the [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) model and performed [Direct Preference Optimization](https://arxiv.org/abs/2305.18290) on it using the [Intel/orca_dpo_pairs](https://huggingface.co/datasets/Intel/orca_dpo_pairs) dataset to get the DPO'ed LLM 
 
 Combining the models was pretty simple using a modified version of [LazyMergeKit](https://colab.research.google.com/drive/147MCAihwKE1-GBfEvTgQ-kWxVQyiJ1pa?usp=sharing) - thanks to Maxime Labonne for the original version. 
 
