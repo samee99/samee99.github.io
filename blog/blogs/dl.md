@@ -65,11 +65,11 @@ You nod and realize that by providing the computer information about the high-le
 
 Mapping the raw data to the output has historically been a difficult task for machine learning algorithms. ML algorithms have therefore often depended on mapping manually extracted features to the output instead.
 
-In the simplest case, you can see how this might work. You, as the engineer, would identify a part of an image containing a tire. You would provide this tire feature to the computer and ask the computer to check if a tire similar to this is present in another image. Presumably if a tire is present, the likelihood of a car being present is high. Now the computer’s job is basically that of a detective, it needs to look at each patch of a new image and check if it contains the tire patch:
+In the simplest case, you can see how this might work. You, as the engineer, would identify a part of an image containing a tire. You would provide this tire feature to the computer and ask the computer to check if a tire similar to this is present in another image. Presumably, if a tire is present, the likelihood of a car being present is high. Now the computer’s job is basically that of a detective, it needs to look at each patch of a new image and check if it contains the tire patch:
 
 
 No tire on this one!
-You point out to Bob that the computer could take the pixels of the tire patch, slide it over the new image in steps and multiply it with the pixels of the image, and report back the product. If the product of the pixels leads to a large value that means the tire feature is activated in the image. The computer could then sum over the pixels and report back that the car is in the image if the product of the pixels is above a certain threshold.
+You point out to Bob that the computer could take the pixels of the tire patch, slide it over the new image in steps multiply it with the pixels of the image, and report back the product. If the product of the pixels leads to a large value that means the tire feature is activated in the image. The computer could then sum over the pixels and report back that the car is in the image if the product of the pixels is above a certain threshold.
 
 Extracting tire features manually from the input image data is hard work. Bob realizes that bicycles also have tires, so you might confuse a bicycle for a car using this approach as a bike would also activate the same features. But Bob thinks you are on to something. He asks if what you are doing looks something like this:
 
