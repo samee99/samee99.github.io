@@ -12,9 +12,9 @@ So how do SLERP and TIES model merging work and why do these techniques help the
 - [TIES](https://arxiv.org/pdf/2306.01708.pdf) standing for Trim, Elect Sign, and Merge, is a method to combine multiple LLMs using a fancy form of model weights averaging. With TIES, we first discard weight values from all models that are too small (trimming). Then, we average the remaining weights, but only those that share the same sign, positive or negative, as chosen in the 'elect sign' step. This way, we merge model weights while ensuring consistent sign alignment, disregarding any conflicting weights.
 
 
-Just for fun, I took the [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) model and performed [Direct Preference Optimization](https://huggingface.co/docs/trl/main/en/dpo_trainer) on it using the [Intel/orca_dpo_pairs](https://huggingface.co/datasets/Intel/orca_dpo_pairs) dataset to get the DPO'ed LLM [Samee-ur/NeuralPipe-7B-slerp-DPO](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp-DPO). 
+Just for fun, I took the [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) model and performed [Direct Preference Optimization](https://huggingface.co/docs/trl/main/en/dpo_trainer) on it using the [Intel/orca_dpo_pairs](https://huggingface.co/datasets/Intel/orca_dpo_pairs) dataset to get the DPO'ed LLM [Samee-ur/NeuralPipe-7B-slerp-DPO](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp-DPO). I haven't evaluated how much DPO improved performance over the base model in this case. 
 
-Model merging does have a history in the research literature and Omer Sanseviero has a [collection on Hugging Face](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66) containing important papers in this space. 
+Model merging does have a history in the research literature and Omer Sanseviero has a [collection on Hugging Face](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66) containing important papers in this space if you want to learn more. 
 
 
 
