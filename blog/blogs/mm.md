@@ -5,8 +5,8 @@
 [Over the past month](https://twitter.com/maximelabonne/status/1747350120067154227), the LLM community has been obsessed with model merging, a method that combines multiple LLMs into a single one without requiring additional training. I wanted to see what the fuss was about and try my hand at merging some models myself over the weekend. Maxime Labonne's [blog post](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54) got me up and running. 
 
 To get started, I tried two different model merging methods: 
-- SLERP [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) - this LLM is a combination of [OpenPipe/mistral-ft-optimized-1218](https://huggingface.co/OpenPipe/mistral-ft-optimized-1218) and [mlabonne/NeuralHermes-2.5-Mistral-7B](https://huggingface.co/mlabonne/NeuralHermes-2.5-Mistral-7B)
-- TIES  [Samee-ur/NeuralPipe-7B-TIES](https://huggingface.co/Samee-ur/NeuralPipe-7B-TIES)  - this LLM merges [samir-fama/SamirGPT-v1](https://huggingface.co/samir-fama/SamirGPT-v1), [abacusai/Slerp-CM-mist-dpo](https://huggingface.co/abacusai/Slerp-CM-mist-dpo), and [EmbeddedLLM/Mistral-7B-Merge-14-v0.2](https://huggingface.co/EmbeddedLLM/Mistral-7B-Merge-14-v0.2) . 
+- SLERP - [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp) - this LLM is a combination of [OpenPipe/mistral-ft-optimized-1218](https://huggingface.co/OpenPipe/mistral-ft-optimized-1218) and [mlabonne/NeuralHermes-2.5-Mistral-7B](https://huggingface.co/mlabonne/NeuralHermes-2.5-Mistral-7B)
+- TIES  - [Samee-ur/NeuralPipe-7B-TIES](https://huggingface.co/Samee-ur/NeuralPipe-7B-TIES)  - this LLM merges [samir-fama/SamirGPT-v1](https://huggingface.co/samir-fama/SamirGPT-v1), [abacusai/Slerp-CM-mist-dpo](https://huggingface.co/abacusai/Slerp-CM-mist-dpo), and [EmbeddedLLM/Mistral-7B-Merge-14-v0.2](https://huggingface.co/EmbeddedLLM/Mistral-7B-Merge-14-v0.2) . 
 
 Combining the models was pretty simple using a modified version of [LazyMergeKit](https://colab.research.google.com/drive/147MCAihwKE1-GBfEvTgQ-kWxVQyiJ1pa?usp=sharing) - thanks to Maxime Labonne for the original version. 
 
