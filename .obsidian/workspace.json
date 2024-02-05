@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/The curious case of model merging.md",
+                "file": "blog/blogs/mm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/The curious case of model merging.md",
+                "file": "blog/blogs/mm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/The curious case of model merging.md",
+                "file": "blog/blogs/mm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/The curious case of model merging.md"
+                "file": "blog/blogs/mm.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
     "blog/blogs/technology.md",
-    "blog/blogs/The curious case of model merging.md",
+    "blog/blogs/mm.md",
     "blog/blogs/dl.md",
     "blog/blogs/elephant.md",
     "blog/blogs/goals.md",
