@@ -30,10 +30,9 @@ Having a representation is not enough though. All mathematical models have param
 
 The value of the parameters of a model will change depending on the problem being solved. For the radio analogy above, you can imagine that you need to tune the knob to different amounts depending on which channel you want to hear. Therefore, you need a mechanism or a method to identify which set of values for the parameters of the model will result in a learning algorithm that effectively performs the task at hand, e.g. learning whether an image contains a cat or not. In other words, we need an objective function that can distinguish good solutions from bad ones. This is what the evaluation component of our learning engine does. Mean Squared Error, which is an average of the square of the error between the actual output and the machine learning engine prediction, is an example of such an objective function.
 
-Finally, once you have a representation, i.e. some mathematical model, and an evaluation method to identify which parameters might be good choices, you need to be able to search for the set of parameters that lead to the optimal result, i.e. the smallest error between actual output and the machine learning prediction. This is where the Optimization component comes in handy:
+Finally, once you have a representation, i.e. some mathematical model, and an evaluation method to identify which parameters might be good choices, you need to be able to search for the set of parameters that lead to the optimal result, i.e. the smallest error between actual output and the machine learning prediction. This is where the Optimization component comes in handy: 
 
 Optimization is a method to search for the best solution. There are many different optimization methods, some depend on computing the gradient or slope of a function, while other approaches such as Genetic Algorithms, take inspiration from how nature identifies the best solutions.
-
 
 Learning involves finding the optimal parameters that maximize an objective function (e.g. Mean Squared Error) given a certain representation (e.g. Neural Networks) with varying parameters and a set of data (e.g. Dataset containing images with and without cats together with labels of whether the respective image contains a cat) to train the algorithm over.
 
