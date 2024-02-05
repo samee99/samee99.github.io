@@ -1,1 +1,1 @@
-Recently, there has been a frenzy in the LLM community on 
+Recently, we have seen a frenzy in the LLM community related to model merging. Omer Sanseviero has a collection on Hugging Face 
