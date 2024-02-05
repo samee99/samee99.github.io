@@ -1,6 +1,6 @@
 Why the fuss about deep learning?
 
-Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning and Deep Learning over the past decade. Companies like Google, Facebook and Tesla have leveraged AI to their advantage:
+Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning and Deep Learning over the past decade. Companies like Google, Facebook, and Tesla have leveraged AI to their advantage:
 
 
 Tesla autopilot uses Deep Learning to successfully navigate roads
