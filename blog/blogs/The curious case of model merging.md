@@ -2,8 +2,8 @@ Over the past month, there has been a frenzy in the LLM community related to mod
 
 To get my hands dirty, I tried out 4 different methods for combining LLMs: 
 - SLERP [Samee-ur/NeuralPipe-7B-slerp](https://huggingface.co/Samee-ur/NeuralPipe-7B-slerp)
-- TIES  [Samee-ur/NeuralPipe-7B-TIES][https://huggingface.co/Samee-ur/NeuralPipe-7B-TIES]
-- DARE
+- TIES  [Samee-ur/NeuralPipe-7B-TIES](https://huggingface.co/Samee-ur/NeuralPipe-7B-TIES)
+- DARE 
 - Passthrough
 
 Omer Sanseviero has a [collection on Hugging Face](https://huggingface.co/collections/osanseviero/model-merging-65097893623330a3a51ead66) containing papers that historicize this technique. 
