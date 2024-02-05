@@ -4,10 +4,7 @@ So we know what Machine Learning is. But what are the different ways in which ma
 
 
 What makes a machine stay engaged when learning about our world?
-There are four distinct ways in which machines learn.
-
-
-If the above is a bunch of gibberish, let’s go into detail.
+There are four distinct ways in which machines learn: **Supervised Learning, Semi-supervised Learning, Self-supervised learning, and Reinforcement Learning**. 
 
 
 
