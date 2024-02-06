@@ -44,6 +44,7 @@ The value of the parameters of a model will change depending on the problem bein
 Mean Squared Error, which is an average of the square of the error between the actual output and the machine learning engine prediction, is an example of such an objective function.
 
 Finally, once you have a representation, i.e. some mathematical model, and an evaluation method to identify which parameters might be good choices, you need to be able to search for the set of parameters that lead to the optimal result, i.e. the smallest error between actual output and the machine learning prediction. This is where the Optimization component comes in handy: 
+![](uploads/1h.png)
 
 Optimization is a method to search for the best solution. There are many different optimization methods, some depend on computing the gradient or slope of a function, while other approaches such as Genetic Algorithms, take inspiration from how nature identifies the best solutions.
 
