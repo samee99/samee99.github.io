@@ -153,14 +153,14 @@ You understand what Bob means and try to put his Deep Learning idea within the c
 You realize that the first program you wrote for identifying a car could be considered as a simple AI algorithm:
 
 
-A rule based system such as the above may be considered as a very simple form of AI
+A rule-based system such as the above may be considered as a very simple form of AI
 The idea of using a tire as a feature and asking the computer to map the tire feature to the car would come under classical machine learning:
 
 
-Finally, the idea of using multiple neurons stacked in many layers, where the multiple layers through automatic representation learning/feature extraction enable End to End Learning without human intervention, would be considered Deep Learning:
+Finally, the idea of using multiple neurons stacked in many layers, where the multiple layers through automatic representation learning/feature extraction enable End-to-End Learning without human intervention, would be considered Deep Learning:
 ![picture](uploads/3p.png)
 
-You realize that using Deep Learning, given enough data and computing power, you could tackle all kinds of problems, without requiring any human expertise for feature extraction. e.g. without needing medical doctors to identify portions of a brain MRI image to which the computer should pay attention when performing a diagnosis.
+You realize that by using Deep Learning, given enough data and computing power, you could tackle all kinds of problems, without requiring any human expertise for feature extraction. e.g. without needing medical doctors to identify portions of a brain MRI image to which the computer should pay attention when performing a diagnosis.
 
 And that’s why Bob, you and the rest of the world think that Deep Learning isn’t just hype but is in fact here to stay. And that’s why you are so confident about launching your own startup into orbit using Deep Learning!
 
