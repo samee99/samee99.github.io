@@ -14,6 +14,7 @@ So let’s get the formal definition out of the way.
 The art of what, again?
 
 If you read the definition above, the part about not explicitly programming the computer is what distinguishes machine learning from traditional programming. In traditional programming, a computer takes data and a program, i.e. an explicit set of instructions, as input and generates an output.
+![picture](uploads/1d.png)
 
 On the other hand, in machine learning, a combination of data and the output is used to make the machine learn the program:
 ![picture](uploads/1a.png)
