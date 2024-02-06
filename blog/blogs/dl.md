@@ -26,7 +26,9 @@ In other words, we haven’t even solved some of the fundamental problems in AI 
 
 It does still beg the question, why the fuss about deep learning? After all, a quick search on Google Trends, for the term “deep learning” shows an exponential increase in interest in the past decade:
 
-This image has an empty alt attribute; its file name is image-16.png
+![picture](uploads/3b.png)
+
+
 To answer why, we have to first understand some of the historical limitations of machine learning. The TLDR for why deep learning is so hot right now is that Machine Learning requires Feature Engineering while Deep Learning does not.
 
 Machine Learning requires Feature Engineering while Deep Learning does not.
