@@ -14,17 +14,17 @@ There are four ways in which machines learn: **Supervised Learning, Semi-supervi
 
 
 
-Initial training for Reinforcement Learning is usually performed in simulated environments, to avoid situations like the above.
-Below we see concrete examples for each of the four types.
 
+Below we see concrete examples for each of the four types.
+![picture](uploads/2c.png)
 
 On the far left, we see an example of supervised learning, where the learning algorithm is tasked with learning the decision boundary between the green circles and red triangles.
 
 A clustering example is shown for self-supervised learning. Here the squares need to be divided into 3 distinct portions depending on their relative distance in the two-dimensional domain spanned by x1 and x2.
 
-For semi-supervised learning, the task is the same as the one shown for supervised learning, but in this case, some of the data is not labeled (i.e. the learning engine does not have access to whether the labels is a green circle or a red triangle).
+For semi-supervised learning, the task is the same as the one shown for supervised learning, but in this case, some of the data is not labeled (i.e. the learning engine does not have access to whether the labels are a green circle or a red triangle).
 
-Finally, only the far right, we see an example of reinforcement learning, where an agent (e.g. a robot) needs to navigate through an environment (e.g. a maze) by performing actions and updating it’s state based on the relative reward it receives.
+Finally, only on the far right, we see an example of reinforcement learning, where an agent (e.g. a robot) needs to navigate through an environment (e.g. a maze) by performing actions and updating it’s state based on the relative reward it receives.
 
 
 A well trained reinforcement learning algorithm!
