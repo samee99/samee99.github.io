@@ -122,7 +122,7 @@ You get the main idea but are not sure how stacking the neurons one after anothe
 
 You finally get what Bob is doing. The question Bob poses is this: could the computer automatically learn higher-level features (such as the presence of tires) from simpler representations (e.g. edges corresponding to a sudden change of intensity in the image) which in turn are generated from the raw data? You aren’t convinced with the details just yet, but you see where Bob is going with this. Bob draws another figure:
 
-![picture](uploads/3l.png)
+![picture](uploads/3m.png)
 
 Bob says that many neurons stacked in layers one after another can automatically learn the representation as well as the mapping from the representation to the output. He calls this *Deep Learning*.
 
@@ -132,7 +132,9 @@ You note that the input is again the raw image. If you understand it correctly, 
 
 *Deep Learning enables end-to-end learning.*
 
-But you also realize that to do what Bob is suggesting, you would need a lot of data and sufficient computational power, since the learning algorithm has to learn the representation itself as well:
+But you also realize that to do what Bob is suggesting, you would need a lot of data and sufficient computational power since the learning algorithm has to learn the representation itself as well:
+
+![picture](uploads/3n.png)
 
 
 Bob agrees and gives the analogy where the computing power (CPU, GPU, TPU) is the engine of a rocket and the input data is it’s fuel. You need a combination of both to thrust the rocket into space, i.e. to enable Deep Learning
