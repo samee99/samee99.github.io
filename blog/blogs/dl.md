@@ -9,12 +9,13 @@ Tesla autopilot uses Deep Learning to successfully navigate roads
 
 You might ask, computers have been around for a very long time, what’s up with all the fuss about artificial intelligence and in particular machine learning and deep learning in the recent past? So much so, that the media has started to paint doomsday scenarios that AI may one day take over from humans as the dominant form of intelligence on Earth!
 
-This image has an empty alt attribute; its file name is image-15.png
+![picture](uploads/3a.png)
+
 Some of the headlines in the past decade related to AI takeover
-In reality we are a fair way away from such a scenario. A statement by Andrew Ng concerning the above, provides a more realistic picture:
 
-Fearing a rise of killer robots is like worrying about overpopulation on Mars.
+In reality, we are a fair way away from such a scenario. A statement by Andrew Ng concerning the above provides a more realistic picture:
 
+*Fearing a rise of killer robots is like worrying about overpopulation on Mars.*
 Andrew Ng – CEO Landing AI, Adjust Professor at Stanford University
 This gif has an empty alt attribute
 Unfortunately, you won’t be able to get to order any goodies online on the Red Planet anytime soon!
