@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/dl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/dl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/dl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blog.md"
+                "file": "blog/blogs/dl.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
-    "blog/blogs/universebook.md.md",
+    "blog/blogs/writing.md",
     "blog/blog.md",
+    "blog/blogs/universebook.md.md",
     "blog/blogs/dl.md",
     "blog/blogs/technology.md",
     "blog/blogs/ml.md",
@@ -166,7 +167,6 @@
     "blog/blogs/ml-types.md",
     "blog/blogs/mm.md",
     "blog/blogs/new_education.md",
-    "blog/blogs/writing.md",
     "blog/blogs/mad-scientists.md",
     "blog/blogs/uploads/2f_book.pdf",
     "blog/blogs/uploads/untitled folder",
