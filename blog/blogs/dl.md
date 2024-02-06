@@ -55,9 +55,10 @@ Bob is not convinced
 Bob points out that what you wrote looks like a traditional program, i.e. it’s a hard-coded set of instructions. The data you gave to the computer consisted of 1s and 0s and you instructed the computer to print the correct answer and that, he argues, looks a lot like the traditional programming described in the blog:
 ![picture](uploads/3d.png)
 
-This gif has an empty alt attribute
+![](https://media4.giphy.com/media/3rgXBETfAu65Gw6jwA/giphy.gif)
 If the input data took the form of a binary switch, 1 when there is a car and 0 when there isn’t, then we wouldn’t even need a machine learning algorithm. A hard-coded set of instructions would do just fine.
-Secondly, Bob argues that since you did the job of labeling images as car or no car and simply provided the labels (0 or 1) to the computer without the raw image data, you didn’t give the computer the chance to learn anything. You agree with Bob and ask him for help. Based on his knowledge, he draws the following:
+
+Secondly, Bob argues that since you did the job of labeling images as a car or no car and simply provided the labels (0 or 1) to the computer without the raw image data, you didn’t give the computer the chance to learn anything. You agree with Bob and ask him for help. Based on his knowledge, he draws the following:
 
 
 You note that Bob has inverted the relationship between output and program and is now supplying the raw image data as input to the computer. Bob says that if the machine can learn such a program then this program can be deployed in a self-driving car to predict cars in new images that the camera collects! That’s true, you say…
