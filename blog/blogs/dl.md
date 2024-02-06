@@ -3,6 +3,7 @@
 *July 2021*
 
 Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning, and Deep Learning over the past decade. Companies like OpenAI, Google, Meta, and Tesla have leveraged AI to their advantage:
+
 ![](https://media3.giphy.com/media/H7rpSYHRyYgamxQNqw/giphy.gif)
 
 Tesla autopilot uses Deep Learning to successfully navigate roads
@@ -64,13 +65,17 @@ Secondly, Bob argues that since you did the job of labeling images as a car or n
 
 You note that Bob has inverted the relationship between output and program and is now supplying the raw image data as input to the computer. Bob says that if the machine can learn such a program then this program can be deployed in a self-driving car to predict cars in new images that the camera collects! That’s true, you say…
 
+![](https://media1.giphy.com/media/ap6wcjRyi8HoA/giphy.gif)
 
 Bob’s right!
-But you point out to Bob that the raw data takes the form of an RGB image with many different pixels. Some of the pixels have something to do with a car, while others do not. Any single pixel, on it’s own, doesn’t tell me anything about a car anyway, you argue. How would I teach the computer to find a car in the image by looking at a bunch of pixels?
 
+But you point out to Bob that the raw data takes the form of an RGB image with many different pixels. Some of the pixels have something to do with a car, while others do not. Any single pixel, on its own, doesn’t tell me anything about a car anyway, you argue. How would I teach the computer to find a car in the image by looking at a bunch of pixels?
+
+![](https://media4.giphy.com/media/gzQ1X1Fk25UwE/giphy.gif)
 
 Bob is as clueless as you are.
-All cars should have tires, windows and number plates, Bob says. What if we, the engineers, extract these main features of a car and ask the machine (computer) to perform classification, i.e. predict whether a car is present in the image or not using these features instead of the raw data:
+
+All cars should have tires, windows, and number plates, Bob says. What if we, the engineers, extract these main features of a car and ask the machine (computer) to perform classification, i.e. predict whether a car is present in the image or not using these features instead of the raw data:
 
 
 You nod and realize that by providing the computer information about the high-level representation of a car (i.e. tires, windows) instead of raw pixels, you make the learning algorithm’s job easier.
