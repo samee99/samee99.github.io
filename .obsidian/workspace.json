@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/ml-types.md",
+                "file": "blog/blogs/dl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/ml-types.md",
+                "file": "blog/blogs/dl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/ml-types.md",
+                "file": "blog/blogs/dl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/ml-types.md"
+                "file": "blog/blogs/dl.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
-    "blog/blogs/ml.md",
     "blog/blogs/ml-types.md",
+    "blog/blogs/ml.md",
     "blog/blog.md",
     "blog/blogs/universebook.md.md",
     "blog/blogs/mm.md",
