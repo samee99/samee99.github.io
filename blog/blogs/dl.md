@@ -48,8 +48,10 @@ else
 end
 You show the above piece of code to your co-founder, Bob, who recently read a blog about [what machine learning is](ml.md). Bob shakes his head.
 
+![](https://media0.giphy.com/media/10M4DR4P6i1XRC/giphy.gif)
 
 Bob is not convinced
+
 Bob points out that what you wrote looks like a traditional program, i.e. it’s a hard-coded set of instructions. The data you gave to the computer consisted of 1s and 0s and you instructed the computer to print the correct answer and that, he argues, looks a lot like the traditional programming described in the blog:
 
 
