@@ -7,7 +7,7 @@ Unless you were living under a rock, you would have come across a lot of media c
 
 Tesla autopilot uses Deep Learning to successfully navigate roads
 
-You might ask, computers have been around for a very long time, what’s up with the all the fuss about artificial intelligence and in particular machine learning and deep learning in the recent past? So much so, that the media has started to paint doomsday scenarios that AI may one day take over from humans as the dominant form of intelligence on Earth!
+You might ask, computers have been around for a very long time, what’s up with all the fuss about artificial intelligence and in particular machine learning and deep learning in the recent past? So much so, that the media has started to paint doomsday scenarios that AI may one day take over from humans as the dominant form of intelligence on Earth!
 
 This image has an empty alt attribute; its file name is image-15.png
 Some of the headlines in the past decade related to AI takeover
