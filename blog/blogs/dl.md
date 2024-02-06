@@ -137,11 +137,12 @@ But you also realize that to do what Bob is suggesting, you would need a lot of 
 ![picture](uploads/3n.png)
 
 
-Bob agrees and gives the analogy where the computing power (CPU, GPU, TPU) is the engine of a rocket and the input data is it’s fuel. You need a combination of both to thrust the rocket into space, i.e. to enable Deep Learning
+Bob agrees and gives the analogy where the computing power (CPU, GPU, TPU) is the engine of a rocket and the input data is its fuel. You need a combination of both to thrust the rocket into space, i.e. to enable Deep Learning
 
-
+![](https://media0.giphy.com/media/26xBEamXwaMSUbV72/giphy.gif)
 Bob uses the analogy where the computational power is the engine in a rocket and the input data is the fuel. You need a combination of both to thrust the rocket into space, i.e. to enable Deep Learning
-So Bob says that training artificial neural networks would only make sense if you have a lot of data, otherwise machine learning algorithms that require features extraction may just do better. He makes another plot:
+
+So Bob says that training artificial neural networks would only make sense if you have a lot of data, otherwise machine learning algorithms that require feature extraction may just do better. He makes another plot:
 
 
 Bob thinks that large Neural Networks having many layers of neurons can continue to learn with increasing data while other learning algorithms’ performance tend to stall as the representation itself is a bottleneck.
