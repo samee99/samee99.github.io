@@ -2,4 +2,4 @@
 
 *June 2021*
 
-I wrote a 
+I wrote a short book for my kids on what we know about how the universe came to be. You can read it here:![[2f_book.pdf]]
