@@ -95,6 +95,7 @@ You point out to Bob that the computer could take the pixels of the tire patch, 
 
 Extracting tire features manually from the input image data is hard work. Bob realizes that bicycles also have tires, so you might confuse a bicycle for a car using this approach as a bike would also activate the same features. But Bob thinks you are on to something. He asks if what you are doing looks something like this:
 
+![picture](uploads/3g.png)
 
 You again nod in agreement. Bob’s drawing reminds you a lot of neurons in the brain, where dendrites provide input data, the cell body performs some function (in our case product of tire features with input image followed by applying a threshold) and an axon provides the output:
 
@@ -102,7 +103,8 @@ You again nod in agreement. Bob’s drawing reminds you a lot of neurons in the 
 You wonder if the artificial neural network you are building can learn weights (parameters) similar to synapses in the brain:
 
 
-Artificial Neural Network with single artificial neuron with learnable weights
+Artificial Neural Network with a single artificial neuron with learnable weights. 
+
 So instead of supplying tire features, you ask if artificial neural networks can learn weights (i.e. parameters) by reducing the error between the desired output and predicted output? You argue that you already have the desired output for the 600 images, since you labeled the image as 1 if it contains a car and 0 if it doesn’t. Why not just use that desired output to adjust the weights of our Artificial Neural Network. You draw another figure to illustrate the point:
 
 
