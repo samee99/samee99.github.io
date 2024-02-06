@@ -164,11 +164,14 @@ The idea of using a tire as a feature and asking the computer to map the tire fe
 
 Finally, the idea of using multiple neurons stacked in many layers, where the multiple layers through automatic representation learning/feature extraction enable End-to-End Learning without human intervention, would be considered Deep Learning:
 
-![picture](uploads/3q.png)
+![picture](uploads/3s.png)
 
 You realize that by using Deep Learning, given enough data and computing power, you could tackle all kinds of problems, without requiring any human expertise for feature extraction. e.g. without needing medical doctors to identify portions of a brain MRI image to which the computer should pay attention when performing a diagnosis.
 
 And that’s why Bob, you and the rest of the world think that Deep Learning isn’t just hype but is in fact here to stay. And that’s why you are so confident about launching your own startup into orbit using Deep Learning!
 
+![](https://media0.giphy.com/media/fUXZfIDUl8K7lJJ9KK/giphy.gif)
 
 Your self-driving car startup launches into orbit courtesy Deep Learning. 
+
+*Take me [home](https://sameeurrehman.com/)* 
