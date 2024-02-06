@@ -4,12 +4,15 @@
 *June 2021*
 
 ![](https://media3.giphy.com/media/hWRpUTECph34EvMzO6/giphy.gif)
+
 Ridiculously powerful human-like machines have captured our collective imagination for long.
 
 So let’s get the formal definition out of the way.
 
 “Machine Learning is the art of getting computers to learn without being explicitly programmed” - Arthur Samuel (1958)
+
 ![](https://media3.giphy.com/media/26tP4gFBQewkLnMv6/giphy.gif)
+
 The art of what, again?
 
 If you read the definition above, the part about not explicitly programming the computer is what distinguishes machine learning from traditional programming. In traditional programming, a computer takes data and a program, i.e. an explicit set of instructions, as input and generates an output.
@@ -19,6 +22,7 @@ On the other hand, in machine learning, a combination of data and the output is 
 ![picture](uploads/1a.png)
 Note that one thing didn’t change. The *data* is still an input in both cases.
 ![](https://media0.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
+
 But how is machine learning performed? For example, how can we make a computer learn to identify that an image contains a cat?
 ![](https://media3.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif)
 
