@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/universebook.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/universebook.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/universebook.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blog.md"
+                "file": "blog/blogs/universebook.md.md"
               }
             }
           }
@@ -146,17 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3729ef76e386e8bf",
+  "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
-    "blog/blogs/uploads",
-    "blog/blogs/technology.md",
     "blog/blog.md",
+    "blog/blogs/uploads/2f_book.pdf",
+    "blog/blogs/mm.md",
+    "blog/blogs/technology.md",
+    "blog/blogs/uploads/1.png",
+    "blog/blogs/uploads/image-1-1536x299.png",
+    "blog/blogs/uploads",
     "blog/blogs/dl.md",
     "blog/blogs/ml.md",
     "image-1-300x58.png",
     "blog/blogs/universebook.md.md",
     "2f_book.pdf",
-    "blog/blogs/mm.md",
     "blog/blogs/elephant.md",
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
