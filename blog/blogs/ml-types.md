@@ -26,10 +26,13 @@ For semi-supervised learning, the task is the same as the one shown for supervis
 Finally, on the far right, we see an example of reinforcement learning, where an agent (e.g. a robot) needs to navigate through an environment (e.g. a maze) by performing actions and updating its state based on the relative reward it receives.
 
 ![](https://media2.giphy.com/media/10gY6Nq4973Ncs/giphy.gif)
-A well trained reinforcement learning algorithm!
 
-In industry, supervised learning is responsible for most of the economic value generated so far. But creating a dataset for supervised learning is also particularly expensive in terms of manpower, as a human being has to go through the process of labeling the data. Also, remember that while it’s easy for just about any person to label images as cat/non-cat, often datasets require expert input, e.g. labeling a dataset of radiology images requires a radiologist or sometimes even a team of radiologists and a radiologist’s time is expensive!
+A well-trained reinforcement learning algorithm!
+
+In industry, supervised learning is responsible for most of the economic value generated so far. However creating a dataset for supervised learning is also particularly expensive in terms of manpower, as a human being has to go through the process of labeling the data. Also, remember that while it’s easy for just about any person to label images as cat/non-cat, often datasets require expert input, e.g. labeling a dataset of radiology images requires a radiologist or sometimes even a team of radiologists and a radiologist’s time is expensive!
 
 ![](https://media1.giphy.com/media/dt0KXLj7bzwZuRQBwY/giphy.gif)
 
 That’s why the machine learning research community, as a whole, is trying to leverage the power of the other three learning strategies, particularly self-supervised learning, to training learning algorithms.
+
+*Take me [home](https://sameeurrehman.com/)* 
