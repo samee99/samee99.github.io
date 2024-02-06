@@ -17,11 +17,14 @@ In reality, we are a fair way away from such a scenario. A statement by Andrew N
 
 *Fearing a rise of killer robots is like worrying about overpopulation on Mars.*
 Andrew Ng – CEO Landing AI, Adjust Professor at Stanford University
-This gif has an empty alt attribute
+
+![](https://media0.giphy.com/media/oyhJTC7Cp50Zz1Gqbj/giphy.gif)
+
 Unfortunately, you won’t be able to get to order any goodies online on the Red Planet anytime soon!
+
 In other words, we haven’t even solved some of the fundamental problems in AI and that’s why focusing on a potential AI takeover is the wrong problem to focus on.
 
-It does still beg the question, why the fuss about deep learning. After all, a quick search on Google Trends, for the term “deep learning” shows an exponential increase in interest in the past decade:
+It does still beg the question, why the fuss about deep learning? After all, a quick search on Google Trends, for the term “deep learning” shows an exponential increase in interest in the past decade:
 
 This image has an empty alt attribute; its file name is image-16.png
 To answer why, we have to first understand some of the historical limitations of machine learning. The TLDR for why deep learning is so hot right now is that Machine Learning requires Feature Engineering while Deep Learning does not.
