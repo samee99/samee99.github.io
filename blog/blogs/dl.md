@@ -2,7 +2,7 @@
 
 *July 2021*
 
-Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning, and Deep Learning over the past decade. Companies like OpenAI, Google, Meta, and Tesla have leveraged AI to their advantage:
+Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning, and Deep Learning over the past decade. Companies like OpenAI, Google, Meta, and Tesla have leveraged AI to their advantage: 
 
 ![](https://media3.giphy.com/media/H7rpSYHRyYgamxQNqw/giphy.gif)
 
