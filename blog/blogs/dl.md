@@ -101,13 +101,13 @@ You again nod in agreement. Bob’s drawing reminds you a lot of neurons in the 
 
 
 You wonder if the artificial neural network you are building can learn weights (parameters) similar to synapses in the brain:
-
+![picture](uploads/3g.png)
 
 Artificial Neural Network with a single artificial neuron with learnable weights. 
 
 So instead of supplying tire features, you ask if artificial neural networks can learn weights (i.e. parameters) by reducing the error between the desired output and predicted output? You argue that you already have the desired output for the 600 images, since you labeled the image as 1 if it contains a car and 0 if it doesn’t. Why not just use that desired output to adjust the weights of our Artificial Neural Network. You draw another figure to illustrate the point:
 
-
+![picture](uploads/3f.png)
 Adjust artificial neural network weights by minimizing difference between desired and predicted output
 Bob likes the idea but he sees a couple of issues. He doubts if the computer can learn high level representation like tires and windows from just the raw pixels directly. He wonders if you could use many neurons, stacked one after other, instead of just one neuron to make the task easier for the machine.
 
