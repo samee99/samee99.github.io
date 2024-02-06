@@ -52,4 +52,5 @@ In other words, learning involves finding the optimal parameters, theta_star, th
 
 Hope your learning algorithm manages to tune the parameters just right, so you can enjoy the result!
 ![](https://media4.giphy.com/media/ER9ew0BbQGCDC/giphy.gif)
+
 *Take me [home](https://sameeurrehman.com/)* 
