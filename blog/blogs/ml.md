@@ -24,6 +24,7 @@ Note that one thing didn’t change. The *data* is still an input in both cases.
 ![](https://media0.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
 
 But how is machine learning performed? For example, how can we make a computer learn to identify that an image contains a cat?
+
 ![](https://media3.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif)
 
 This is harder than it sounds. Human beings are very good at doing this sort of pattern recognition. But to a computer, an RGB image of a cat is just a bunch of pixels. An extremely unique combination of pixels results in an image of a cat. An effective machine learning algorithm needs to be able to automatically identify what are the combinations and patterns of pixels, that when put together, result in a cat appearing in an image.
