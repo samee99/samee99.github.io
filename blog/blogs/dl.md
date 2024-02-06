@@ -1,4 +1,4 @@
-**Why the fuss about deep learning?**
+**Why the fuss about AI and deep learning?**
 
 *July 2021*
 
