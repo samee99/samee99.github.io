@@ -99,9 +99,10 @@ Extracting tire features manually from the input image data is hard work. Bob re
 
 You again nod in agreement. Bob’s drawing reminds you a lot of neurons in the brain, where dendrites provide input data, the cell body performs some function (in our case product of tire features with input image followed by applying a threshold) and an axon provides the output:
 
+![picture](uploads/3h.png)
 
 You wonder if the artificial neural network you are building can learn weights (parameters) similar to synapses in the brain:
-![picture](uploads/3g.png)
+![picture](uploads/3h.png)
 
 Artificial Neural Network with a single artificial neuron with learnable weights. 
 
