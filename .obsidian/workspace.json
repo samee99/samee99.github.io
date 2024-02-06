@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/ml.md",
+                "file": "blog/blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/ml.md",
+                "file": "blog/blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/ml.md",
+                "file": "blog/blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/ml.md"
+                "file": "blog/blog.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
-    "image-1-300x58.png",
+    "blog/blogs/technology.md",
     "blog/blog.md",
+    "blog/blogs/dl.md",
+    "blog/blogs/ml.md",
+    "image-1-300x58.png",
     "blog/blogs/universebook.md.md",
     "2f_book.pdf",
-    "blog/blogs/ml.md",
     "blog/blogs/mm.md",
-    "blog/blogs/technology.md",
-    "blog/blogs/dl.md",
     "blog/blogs/elephant.md",
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
