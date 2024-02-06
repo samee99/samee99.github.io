@@ -8,7 +8,7 @@
 The art of what, again?
 
 If you read the definition above, the part about not explicitly programming the computer is what distinguishes machine learning from traditional programming. In traditional programming, a computer takes data and a program, i.e. an explicit set of instructions, as input and generates an output.
-
+[https://assets.ourworldindata.org/uploads/2013/12/Night-Light-NASA-August-2017-cropped.png![image](https://github.com/samee99/samee99.github.io/assets/53830393/68e9ce00-4fc9-4bb5-bc41-496dafe83d8a)](https://assets.ourworldindata.org/uploads/2013/12/Night-Light-NASA-August-2017-cropped.png!%5Bimage%5D(https://github.com/samee99/samee99.github.io/assets/53830393/68e9ce00-4fc9-4bb5-bc41-496dafe83d8a))
 On the other hand, in machine learning, a combination of data and the output is used to make the machine learn the program:
 ![picture](blogs/uploads/1a.png)
 Note that one thing didn’t change. The data is still an input in both cases.
