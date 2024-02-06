@@ -14,13 +14,13 @@ On the other hand, in machine learning, a combination of data and the output is 
 Note that one thing didn’t change. The data is still an input in both cases.
 
 But how is machine learning performed? For example, how can we make a computer learn to identify that an image contains a cat?
-
+![picture](uploads/1c.png)
 This is harder than it sounds. Human beings are very good at doing this sort of pattern recognition. But to a computer, an RGB image of a cat is just a bunch of pixels. An extremely unique combination of pixels results in an image of a cat. An effective machine learning algorithm needs to be able to automatically identify what are the combinations and patterns of pixels, that when put together, result in a cat appearing in an image.
 
 It’s not trivial for a computer to learn that a bunch of pixels correspond to an image of a cat.
 How would you go about teaching such a thing to a computer? Well, there are three components of learning: **Representation, Evaluation, and Optimization**. 
 
-![](blogs/uploads/1b.png)
+![](uploads/1b.png)
 Any machine/deep learning algorithm you encounter will contain the above three components. So let’s take it step by step. What do we mean by Representation:
 
 Representation is the heart of any machine learning algorithm. A learner must be represented in some formal language the computer can handle. In practice, this formal language is a mathematical model that takes some input data, performs a computation on it, and returns an output. Neural Networks, Gaussian Processes, Support Vector Machines, and Decision Trees are all examples of representation.
