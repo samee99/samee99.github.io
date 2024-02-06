@@ -3,6 +3,9 @@
 
 *June 2021*
 
+
+Ridiculously powerful human-like machines have captured our collective imagination for long.
+
 “Machine Learning is the art of getting computers to learn without being explicitly programmed” - Arthur Samuel (1958)
 
 The art of what, again?
