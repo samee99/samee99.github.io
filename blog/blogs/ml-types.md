@@ -4,11 +4,15 @@ So we know [what Machine Learning is](ml.md). But what are the different ways in
 
 There are four ways in which machines learn: **Supervised Learning, Semi-supervised Learning, Self-supervised learning, and Reinforcement Learning**. 
 ![picture](uploads/2a.png)
-In the case of supervised learning, the learning engine has access to data (e.g. image of a cat) and the desired output (e.g. label, binary digit 1, indicating the presence of a cat).
-In self-supervised learning, the learning engine has access to data (e.g. image of a cat) but NOT to the desired output (e.g. label, binary digit 1, indicating presence of a cat). Self-supervised learning is also sometimes referred to as unsupervised learning.
-Semi-supervised learning is a combination of supervised learning and self-supervised learning. So in this case, only some parts of the data are labeled. As an example, maybe 10% of cats/non-cat images are labeled while the rest are not.
 
-Reinforcement learning is a completely different beast. It assumes that an agent (e.g. a robot) is in an environment (e.g. a maze). When the agent performs a certain action, e.g. move one step forward, it is provided a reward depending on whether that action helps it to get closer or not to complete its task (e.g. get out of the maze).
+1. In the case of supervised learning, the learning engine has access to data (e.g. image of a cat) and the desired output (e.g. label, binary digit 1, indicating the presence of a cat).
+2. In self-supervised learning, the learning engine has access to data (e.g. image of a cat) but NOT to the desired output (e.g. label, binary digit 1, indicating presence of a cat). Self-supervised learning is also sometimes referred to as unsupervised learning.
+3. Semi-supervised learning is a combination of supervised learning and self-supervised learning. So in this case, only some parts of the data are labeled. As an example, maybe 10% of cats/non-cat images are labeled while the rest are not.
+4. Reinforcement learning is a completely different beast. It assumes that an agent (e.g. a robot) is in an environment (e.g. a maze). When the agent performs a certain action, e.g. move one step forward, it is provided a reward depending on whether that action helps it to get closer or not to complete its task (e.g. get out of the maze).
+
+![picture](uploads/2b.png)
+
+
 
 Initial training for Reinforcement Learning is usually performed in simulated environments, to avoid situations like the above.
 Below we see concrete examples for each of the four types.
