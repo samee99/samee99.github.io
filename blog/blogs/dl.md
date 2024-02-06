@@ -57,6 +57,7 @@ Bob points out that what you wrote looks like a traditional program, i.e. it’s
 
 ![picture](uploads/3d.png)
 
+
 ![](https://media4.giphy.com/media/3rgXBETfAu65Gw6jwA/giphy.gif)
 If the input data took the form of a binary switch, 1 when there is a car and 0 when there isn’t, then we wouldn’t even need a machine learning algorithm. A hard-coded set of instructions would do just fine.
 
@@ -84,7 +85,7 @@ You nod and realize that by providing the computer information about the high-le
 
 Mapping the raw data to the output has historically been a difficult task for machine learning algorithms. ML algorithms have therefore often depended on mapping manually extracted features to the output instead.
 
-In the simplest case, you can see how this might work. You, as the engineer, would identify a part of an image containing a tire. You would provide this tire feature to the computer and ask the computer to check if a tire similar to this is present in another image. Presumably, if a tire is present, the likelihood of a car being present is high. Now the computer’s job is basically that of a detective, it needs to look at each patch of a new image and check if it contains the tire patch:
+In the simplest case, you can see how this might work. You, as the engineer, would identify a part of an image containing a tire. You would provide this tire feature to the computer and ask the computer to check if a tire similar to this is present in another image. Presumably, if a tire is present, the likelihood of a car being present is high. Now the computer’s job is that of a detective, it needs to look at each patch of a new image and check if it contains the tire patch:
 
 ![](https://media3.giphy.com/media/8K2zqekcOl4Fa/giphy.gif)
 
