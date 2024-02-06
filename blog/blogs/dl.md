@@ -114,6 +114,8 @@ Adjust artificial neural network weights by minimizing the difference between de
 
 Bob likes the idea but he sees a couple of issues. He doubts if the computer can learn high-level representations like tires and windows from just the raw pixels directly. He wonders if you could use many neurons, stacked one after the other, instead of just one neuron to make the task easier for the machine.
 
+![picture](uploads/3k.png)
+
 You get the main idea but are not sure how stacking the neurons one after another in layers such that one neuron’s output is received as the next neuron’s input can lead to the machine’s learning task becoming easier. Bob thinks that the weights of the earlier neurons will learn lower-level features (like edges) while weights of later neurons will learn object parts (e.g. tires) automatically using the information provided by earlier neurons. You stare back cluelessly at Bob and he tries to help out with the following figure:
 
 You finally get what Bob is doing. The question Bob poses is this: could the computer automatically learn higher-level features (such as the presence of tires) from simpler representations (e.g. edges corresponding to a sudden change of intensity in the image) which in turn are generated from the raw data? You aren’t convinced with the details just yet, but you see where Bob is going with this. Bob draws another figure:
