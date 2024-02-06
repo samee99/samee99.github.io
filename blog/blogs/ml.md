@@ -20,6 +20,7 @@ This is harder than it sounds. Human beings are very good at doing this sort of 
 It’s not trivial for a computer to learn that a bunch of pixels correspond to an image of a cat.
 How would you go about teaching such a thing to a computer? Well, there are three components of learning: **Representation, Evaluation, and Optimization**. 
 
+![](blogs/uploads/2.png)
 Any machine/deep learning algorithm you come across will contain the above three components. So let’s take it step by step. What do we mean by Representation:
 
 Representation is the heart of any machine learning algorithm. A learner must be represented in some formal language the computer can handle. In practice, this formal language is a mathematical model that takes some input data, performs a computation on it, and returns an output. Neural Networks, Gaussian Processes, Support Vector Machines, and Decision Trees are all examples of representation.
