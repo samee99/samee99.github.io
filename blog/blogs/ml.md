@@ -3,7 +3,6 @@
 
 *June 2021*
 
-
 ![](https://media3.giphy.com/media/hWRpUTECph34EvMzO6/giphy.gif)
 Ridiculously powerful human-like machines have captured our collective imagination for long.
 
