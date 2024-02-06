@@ -4,7 +4,10 @@
 *June 2021*
 
 
+![](https://media3.giphy.com/media/hWRpUTECph34EvMzO6/giphy.gif)
 Ridiculously powerful human-like machines have captured our collective imagination for long.
+
+So let’s get the formal definition out of the way.
 
 “Machine Learning is the art of getting computers to learn without being explicitly programmed” - Arthur Samuel (1958)
 
