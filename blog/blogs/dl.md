@@ -102,7 +102,7 @@ You again nod in agreement. Bob’s drawing reminds you a lot of neurons in the 
 ![picture](uploads/3h.png)
 
 You wonder if the artificial neural network you are building can learn weights (parameters) similar to synapses in the brain:
-![picture](uploads/3h.png)
+![picture](uploads/3i.png)
 
 Artificial Neural Network with a single artificial neuron with learnable weights. 
 
