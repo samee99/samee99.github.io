@@ -143,11 +143,11 @@ Bob agrees and gives the analogy where the computing power (CPU, GPU, TPU) is th
 Bob uses the analogy where the computational power is the engine in a rocket and the input data is the fuel. You need a combination of both to thrust the rocket into space, i.e. to enable Deep Learning
 
 So Bob says that training artificial neural networks would only make sense if you have a lot of data, otherwise machine learning algorithms that require feature extraction may just do better. He makes another plot:
+![picture](uploads/3o.png)
 
+Bob thinks that large Neural Networks having many layers of neurons can continue to learn with increasing data while other learning algorithms’ performance tends to stall as the representation itself is a bottleneck.
 
-Bob thinks that large Neural Networks having many layers of neurons can continue to learn with increasing data while other learning algorithms’ performance tend to stall as the representation itself is a bottleneck.
-
-You understand what Bob means and try to put his Deep Learning idea within context of Artificial Intelligence, Machine Learning and Representation Learning:
+You understand what Bob means and try to put his Deep Learning idea within the context of Artificial Intelligence, Machine Learning, and Representation Learning:
 
 
 You realize that the first program you wrote for identifying a car could be considered as a simple AI algorithm:
@@ -158,7 +158,7 @@ The idea of using a tire as a feature and asking the computer to map the tire fe
 
 
 Finally, the idea of using multiple neurons stacked in many layers, where the multiple layers through automatic representation learning/feature extraction enable End to End Learning without human intervention, would be considered Deep Learning:
-
+![picture](uploads/3p.png)
 
 You realize that using Deep Learning, given enough data and computing power, you could tackle all kinds of problems, without requiring any human expertise for feature extraction. e.g. without needing medical doctors to identify portions of a brain MRI image to which the computer should pay attention when performing a diagnosis.
 
