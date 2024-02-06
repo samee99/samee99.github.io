@@ -29,8 +29,8 @@ Finally, on the far right, we see an example of reinforcement learning, where an
 ![](https://media2.giphy.com/media/10gY6Nq4973Ncs/giphy.gif)
 A well trained reinforcement learning algorithm!
 
-In industry, supervised learning is responsible for most of the economic value generated so far. But creating a dataset for supervised learning is also particularly expensive in terms of man-power, as a human being has to go through the process of labeling the data. Also, remember that while it’s easy for just about any person to label images as cat/non-cat, often datasets require expert input, e.g. labelling a dataset of radiology images requires a radiologist or sometimes even a team of radiologists and a radiologist’s time is expensive!
+In industry, supervised learning is responsible for most of the economic value generated so far. But creating a dataset for supervised learning is also particularly expensive in terms of manpower, as a human being has to go through the process of labeling the data. Also, remember that while it’s easy for just about any person to label images as cat/non-cat, often datasets require expert input, e.g. labeling a dataset of radiology images requires a radiologist or sometimes even a team of radiologists and a radiologist’s time is expensive!
 
+![](https://media1.giphy.com/media/dt0KXLj7bzwZuRQBwY/giphy.gif)
 
-Labeling datasets for supervised learning is an expensive process, especially when it requires expert knowledge, e.g. radiologists for labeling radiology datasets.
-That’s why the machine learning research community, as a whole, is trying to leverage the power of the other three learning strategies, particularly self-supervised learning, in order to training learning algorithms.
+That’s why the machine learning research community, as a whole, is trying to leverage the power of the other three learning strategies, particularly self-supervised learning, to training learning algorithms.
