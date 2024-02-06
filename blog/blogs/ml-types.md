@@ -1,4 +1,6 @@
-What are the different types of machine learning algorithms?
+**What are the different types of machine learning algorithms?**
+
+*June 2021*
 
 So we know [what Machine Learning is](ml.md). But what are the different ways in which machines learn?
 
@@ -11,9 +13,6 @@ There are four ways in which machines learn: **Supervised Learning, Semi-supervi
 4. Reinforcement learning is a completely different beast. It assumes that an agent (e.g. a robot) is in an environment (e.g. a maze). When the agent performs a certain action, e.g. move one step forward, it is provided a reward depending on whether that action helps it to get closer or not to complete its task (e.g. get out of the maze).
 
 ![picture](uploads/2b.png)
-
-
-
 
 Below we see concrete examples for each of the four types.
 ![picture](uploads/2c.png)
