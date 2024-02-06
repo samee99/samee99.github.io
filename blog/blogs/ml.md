@@ -33,6 +33,7 @@ How would you go about teaching such a thing to a computer? Well, there are thre
 ![](uploads/1b.png)
 *Any machine/deep learning algorithm* you encounter will contain the above three components. So let’s take it step by step. What do we mean by Representation:
 
+![](uploads/1e.png)
 Representation is the heart of any machine learning algorithm. A learner must be represented in some formal language the computer can handle. In practice, this formal language is a mathematical model that takes some input data, performs a computation on it, and returns an output. Neural Networks, Gaussian Processes, Support Vector Machines, and Decision Trees are all examples of representation.
 
 Having a representation is not enough though. All mathematical models have parameters that can change in value. Parameters are just variable values in the model that need to be adjusted for the task to be performed correctly. For example, the tuner knob on your car radio represents a parameter that can be tuned:
