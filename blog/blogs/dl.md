@@ -158,9 +158,9 @@ You realize that the first program you wrote for identifying a car could be cons
 
 A rule-based system such as the above may be considered as a very simple form of AI
 
-The idea of using a tire as a feature and asking the computer to map the tire feature to the car would come under classical machine learning:
+The idea of using a tire as a feature and asking the computer to map the tire feature to the car would come under *classical machine learning*:
 
-
+![picture](uploads/3r.png)
 
 Finally, the idea of using multiple neurons stacked in many layers, where the multiple layers through automatic representation learning/feature extraction enable End-to-End Learning without human intervention, would be considered Deep Learning:
 
