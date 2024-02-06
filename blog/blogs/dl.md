@@ -149,14 +149,18 @@ Bob thinks that large Neural Networks having many layers of neurons can continue
 
 You understand what Bob means and try to put his Deep Learning idea within the context of Artificial Intelligence, Machine Learning, and Representation Learning:
 
+![picture](uploads/3p.png)
 
 You realize that the first program you wrote for identifying a car could be considered as a simple AI algorithm:
+
 ![picture](uploads/3q.png)
 
+
 A rule-based system such as the above may be considered as a very simple form of AI
+
 The idea of using a tire as a feature and asking the computer to map the tire feature to the car would come under classical machine learning:
 
-![picture](uploads/3p.png)
+
 
 Finally, the idea of using multiple neurons stacked in many layers, where the multiple layers through automatic representation learning/feature extraction enable End-to-End Learning without human intervention, would be considered Deep Learning:
 
