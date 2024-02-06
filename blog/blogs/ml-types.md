@@ -24,10 +24,11 @@ A clustering example is shown for self-supervised learning. Here the squares nee
 
 For semi-supervised learning, the task is the same as the one shown for supervised learning, but in this case, some of the data is not labeled (i.e. the learning engine does not have access to whether the labels are a green circle or a red triangle).
 
-Finally, only on the far right, we see an example of reinforcement learning, where an agent (e.g. a robot) needs to navigate through an environment (e.g. a maze) by performing actions and updating it’s state based on the relative reward it receives.
+Finally, on the far right, we see an example of reinforcement learning, where an agent (e.g. a robot) needs to navigate through an environment (e.g. a maze) by performing actions and updating its state based on the relative reward it receives.
 
-
+![](https://media2.giphy.com/media/10gY6Nq4973Ncs/giphy.gif)
 A well trained reinforcement learning algorithm!
+
 In industry, supervised learning is responsible for most of the economic value generated so far. But creating a dataset for supervised learning is also particularly expensive in terms of man-power, as a human being has to go through the process of labeling the data. Also, remember that while it’s easy for just about any person to label images as cat/non-cat, often datasets require expert input, e.g. labelling a dataset of radiology images requires a radiologist or sometimes even a team of radiologists and a radiologist’s time is expensive!
 
 
