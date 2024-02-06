@@ -1,9 +1,12 @@
-Why the fuss about deep learning?
+**Why the fuss about deep learning?**
 
-Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning, and Deep Learning over the past decade. Companies like Google, Facebook, and Tesla have leveraged AI to their advantage:
+*July 2021*
 
+Unless you were living under a rock, you would have come across a lot of media coverage centered around Artificial Intelligence, Machine Learning, and Deep Learning over the past decade. Companies like OpenAI, Google, Meta, and Tesla have leveraged AI to their advantage:
+![](https://media3.giphy.com/media/H7rpSYHRyYgamxQNqw/giphy.gif)
 
 Tesla autopilot uses Deep Learning to successfully navigate roads
+
 You might ask, computers have been around for a very long time, what’s up with the all the fuss about artificial intelligence and in particular machine learning and deep learning in the recent past? So much so, that the media has started to paint doomsday scenarios that AI may one day take over from humans as the dominant form of intelligence on Earth!
 
 This image has an empty alt attribute; its file name is image-15.png
