@@ -122,7 +122,9 @@ You get the main idea but are not sure how stacking the neurons one after anothe
 
 You finally get what Bob is doing. The question Bob poses is this: could the computer automatically learn higher-level features (such as the presence of tires) from simpler representations (e.g. edges corresponding to a sudden change of intensity in the image) which in turn are generated from the raw data? You aren’t convinced with the details just yet, but you see where Bob is going with this. Bob draws another figure:
 
-Bob says that many neurons stacked in layers one after another can automatically learn the representation as well as the mapping from the representation to the output. He calls this Deep Learning.
+![picture](uploads/3l.png)
+
+Bob says that many neurons stacked in layers one after another can automatically learn the representation as well as the mapping from the representation to the output. He calls this *Deep Learning*.
 Bob says that many neurons stacked in layers one after another can automatically learn the representation as well as the mapping from the representation to the output. He calls this Deep Learning and points out that as opposed to machine learning, which requires a human to perform the feature extraction, this learning approach is completely automatic since the machine learns the representation (i.e. features) on it’s own.
 
 You note that the input is again the raw image. If you understand it correctly, Bob is suggesting we ask the computer to perform end-to-end learning. The Deep Learning algorithm would perform representation learning (i.e. learn salient feature like tires from simpler features like edges) as well as map the representations to the output. The human would not be required at all.
