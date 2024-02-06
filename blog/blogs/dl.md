@@ -60,6 +60,7 @@ If the input data took the form of a binary switch, 1 when there is a car and 0 
 
 Secondly, Bob argues that since you did the job of labeling images as a car or no car and simply provided the labels (0 or 1) to the computer without the raw image data, you didn’t give the computer the chance to learn anything. You agree with Bob and ask him for help. Based on his knowledge, he draws the following:
 
+![picture](uploads/3e.png)
 
 You note that Bob has inverted the relationship between output and program and is now supplying the raw image data as input to the computer. Bob says that if the machine can learn such a program then this program can be deployed in a self-driving car to predict cars in new images that the camera collects! That’s true, you say…
 
