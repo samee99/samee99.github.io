@@ -43,11 +43,11 @@ Imagine, you are the founder of a startup building a learning algorithm for a se
 
 Assume you know nothing about learning algorithms but you can do a bit of coding, after all, you are a founder of a tech startup. You visually inspect your 600 images and manually label each as “1” if it contains a car and “0” if it does not contain a car. Now you decide to write a program to output car/no car depending on the input. So you write a simple program:
 
-If Data == 1
-     print('Car')
-else
-     print('No car')
-end
+	If Data == 1
+	     print('Car')
+	else
+	     print('No car')
+	end
 
 You show the above piece of code to your co-founder, Bob, who recently read a blog about [what machine learning is](ml.md). Bob shakes his head.
 
