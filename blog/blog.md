@@ -3,4 +3,4 @@
 * [What is machine learning?](blogs/ml.md)
 * [What are the different types of machine learning?](blogs/ml-types.md)
 * [Why the fuss about AI and deep learning?](blogs/dl.md)
-* [The Universe and You - Children's book](universebook.md)
+* [The Universe and You - Children's book](ub.md)
