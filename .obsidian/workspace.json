@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/ub.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/ub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/ub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blog.md"
+                "file": "blog/blogs/ub.md"
               }
             }
           },
@@ -154,11 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3729ef76e386e8bf",
+  "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
+    "blog/blog.md",
     "about/index1.html",
     "blog/blogs/technology.md",
-    "blog/blog.md",
     "blog/blogs/writing.md",
     "blog/blogs/ub.md",
     "blog/blogs/ml.md",
