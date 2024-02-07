@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blogs/painting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blogs/painting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blogs/painting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/dl.md"
+                "file": "blogs/painting.md"
               }
             }
           },
@@ -154,13 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9628c683fb5c69c7",
+  "active": "3729ef76e386e8bf",
   "lastOpenFiles": [
+    "blog/blog.md",
+    "blog/blogs/writing.md",
     "blog/blogs/dl.md",
     "blog/blogs/technology.md",
     "blog/blogs/universebook.md",
-    "blog/blogs/writing.md",
-    "blog/blog.md",
     "index.md",
     "blog/blogs/ml.md",
     "blog/blogs/uploads/3s.png",
