@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blog/blogs/new_education.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blog/blogs/new_education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blog/blogs/new_education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/dl.md"
+                "file": "blog/blogs/new_education.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
-    "blog/blogs/elephant.md",
+    "blog/blogs/writing.md",
     "blog/blogs/dl.md",
+    "blog/blogs/elephant.md",
     "blog/blogs/uploads/3g.png",
     "blog/blogs/uploads/3g1.png",
     "blog/blogs/uploads/image-14.png",
@@ -165,7 +166,6 @@
     "blog/blog.md",
     "about/index1.html",
     "blog/blogs/technology.md",
-    "blog/blogs/writing.md",
     "blog/blogs/ml.md",
     "blog/blogs/ml-types.md",
     "blogs/painting.md",

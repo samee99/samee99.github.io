@@ -38,7 +38,7 @@ Cost of intelligence going down is particularly exciting for the developing worl
 
 Redundancy in tests to ensure that you got it. 
 No one teacher can know everything (mentioning 17 year doubling of knowledge here). 
-This can be partially solve by focusing on fundamentals. 
+This can be partially solved by focusing on fundamentals. 
 But somebody needs to help you connect the dots as well. 
 If knowledge is a tree, you need the trunk (fundamentals), 
 and understand how the leaves connect to the trunk and to one another. 
