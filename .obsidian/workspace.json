@@ -11,11 +11,11 @@
             "id": "9628c683fb5c69c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "blog/blogs/dl.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "hash": "c61e74770f64e5e16f23edca6bd41af81b36fbf0"
               }
             }
           }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/dl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/dl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blog/blogs/dl.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,11 +152,11 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
+    "blog/blogs/dl.md",
     "blog/blogs/technology.md",
     "blog/blogs/universebook.md",
     "blog/blogs/writing.md",
     "blog/blog.md",
-    "blog/blogs/dl.md",
     "index.md",
     "blog/blogs/ml.md",
     "blog/blogs/uploads/3s.png",

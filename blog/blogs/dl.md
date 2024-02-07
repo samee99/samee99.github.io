@@ -37,6 +37,7 @@ Let’s dig deeper to understand what we mean by that statement. Let’s assume 
 
 Let’s say you installed a camera on the front bumper and used it to capture a 1-minute video, similar to the one from your competitor Tesla. Because you are a thoughtful engineer, you chop the video into 10ms segments each of which you can now treat as an image. You now have 600 images from the 1 minute video and your task is to make the computer output whether there is a car in the image or not. The task seems simple enough:
 
+![picture](uploads/3c.png)
 Imagine, you are the founder of a startup building a learning algorithm for a self-driving car. An important task would be to identify other cars in the environment. *Given an image identify if it contains a car or not.*
 
 Assume you know nothing about learning algorithms but you can do a bit of coding, after all you are a founder of a tech startup. You visually inspect your 600 images and manually label each as “1” if it contains a car and “0” if it does not contain a car. Now you decide to write a program to output car/no car depending on the input. So you write a simple program:
