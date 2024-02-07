@@ -36,7 +36,7 @@ To answer why, we have to first understand some of the historical limitations of
 Let’s dig deeper to understand what we mean by that statement. Let’s assume you have heard all the hype about artificial intelligence and you decide that it’s time you start your own company that sells self-driving cars. As the founder, you get started with figuring out how to build an effective algorithm for safely navigating the car on the road. Such a learning algorithm should at least be able to identify when there is another car on the road. How would we do that?
 
 Let’s say you installed a camera on the front bumper and used it to capture a 1-minute video, similar to the one from your competitor Tesla. Because you are a thoughtful engineer, you chop the video into 10ms segments each of which you can now treat as an image. You now have 600 images from the 1 minute video and your task is to make the computer output whether there is a car in the image or not. The task seems simple enough:
-
+32
 ![picture](uploads/3c.png)
 Imagine, you are the founder of a startup building a learning algorithm for a self-driving car. An important task would be to identify other cars in the environment. *Given an image identify if it contains a car or not.*
 

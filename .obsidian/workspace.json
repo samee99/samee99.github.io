@@ -11,11 +11,11 @@
             "id": "9628c683fb5c69c7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "blog/blogs/dl.md",
-                "staged": false,
-                "hash": "c61e74770f64e5e16f23edca6bd41af81b36fbf0"
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blog/blogs/dl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blog/blogs/dl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blog/blogs/dl.md"
+              }
             }
           },
           {
