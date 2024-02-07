@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/painting.md",
+                "file": "blog/blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/painting.md",
+                "file": "blog/blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/painting.md",
+                "file": "blog/blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/painting.md"
+                "file": "blog/blog.md"
               }
             }
           },
@@ -154,11 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3729ef76e386e8bf",
+  "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
+    "blog/blogs/ml-types.md",
     "blog/blog.md",
-    "blog/blogs/writing.md",
     "blog/blogs/dl.md",
+    "blog/blogs/writing.md",
+    "blogs/painting.md",
     "blog/blogs/technology.md",
     "blog/blogs/universebook.md",
     "index.md",
@@ -173,7 +175,6 @@
     "blog/blogs/uploads/image-9.png",
     "blog/blogs/uploads/3o.png",
     "blog/blogs/uploads/image-26.png",
-    "blog/blogs/ml-types.md",
     "blog/blogs/mm.md",
     "blog/blogs/new_education.md",
     "blog/blogs/mad-scientists.md",
@@ -184,7 +185,6 @@
     "2f_book.pdf",
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
-    "blogs/painting.md",
     "blogs"
   ]
 }
