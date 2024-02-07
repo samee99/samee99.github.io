@@ -48,6 +48,7 @@ If Data == 1
 else
      print('No car')
 end
+
 You show the above piece of code to your co-founder, Bob, who recently read a blog about [what machine learning is](ml.md). Bob shakes his head.
 
 ![](https://media0.giphy.com/media/10M4DR4P6i1XRC/giphy.gif)
