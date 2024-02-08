@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/dl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/dl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/dl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blog.md"
+                "file": "blog/blogs/dl.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
+    "blog/blog.md",
     "blog/blogs/ml.md",
     "blog/blogs/new_education.md",
     "blog/blogs/writing.md",
@@ -165,7 +166,6 @@
     "blog/blogs/uploads/3g1.png",
     "blog/blogs/uploads/image-14.png",
     "blog/blogs/ub.md",
-    "blog/blog.md",
     "about/index1.html",
     "blog/blogs/technology.md",
     "blog/blogs/ml-types.md",
