@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/new_education.md",
+                "file": "blog/blogs/ml.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/new_education.md",
+                "file": "blog/blogs/ml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/new_education.md",
+                "file": "blog/blogs/ml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/new_education.md"
+                "file": "blog/blogs/ml.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
+    "blog/blogs/new_education.md",
     "blog/blogs/writing.md",
     "blog/blogs/dl.md",
     "blog/blogs/elephant.md",
@@ -178,7 +179,6 @@
     "blog/blogs/uploads/image-29.png",
     "blog/blogs/uploads/3p.png",
     "blog/blogs/mm.md",
-    "blog/blogs/new_education.md",
     "blog/blogs/mad-scientists.md",
     "blog/blogs/uploads/2f_book.pdf",
     "blog/blogs/uploads/untitled folder",
