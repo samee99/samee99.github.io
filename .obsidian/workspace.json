@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "660ce3fd743dddf0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blog/blogs/technology.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9628c683fb5c69c7",
+  "active": "660ce3fd743dddf0",
   "lastOpenFiles": [
+    "blog/blogs/technology.md",
     "blog/blog.md",
     "blog/blogs/dl.md",
     "blog/blogs/ml.md",
@@ -167,7 +173,6 @@
     "blog/blogs/uploads/image-14.png",
     "blog/blogs/ub.md",
     "about/index1.html",
-    "blog/blogs/technology.md",
     "blog/blogs/ml-types.md",
     "blogs/painting.md",
     "index.md",
