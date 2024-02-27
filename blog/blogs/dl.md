@@ -61,6 +61,7 @@ Bob points out that what you wrote looks like a traditional program, i.e. it’s
 
 
 ![](https://media4.giphy.com/media/3rgXBETfAu65Gw6jwA/giphy.gif)
+
 If the input data took the form of a binary switch, 1 when there is a car and 0 when there isn’t, then we wouldn’t even need a machine learning algorithm. A hard-coded set of instructions would do just fine.
 
 Secondly, Bob argues that since you did the job of labeling images as a car or no car and simply provided the labels (0 or 1) to the computer without the raw image data, you didn’t give the computer the chance to learn anything. You agree with Bob and ask him for help. Based on his knowledge, he draws the following:
