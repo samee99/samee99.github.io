@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blog/blogs/technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blog/blogs/technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blog/blogs/technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/dl.md"
+                "file": "blog/blogs/technology.md"
               }
             }
           },
@@ -170,18 +170,19 @@
   "active": "660ce3fd743dddf0",
   "lastOpenFiles": [
     "blog/blogs/new_education.md",
+    "blog/blogs/ub.md",
     "blog/blogs/technology.md",
-    "blog/blog.md",
-    "blog/blogs/dl.md",
+    "blog/blogs/mm.md",
+    "blog/blogs/ml-types.md",
     "blog/blogs/ml.md",
-    "blog/blogs/writing.md",
     "blog/blogs/elephant.md",
+    "blog/blogs/dl.md",
+    "blog/blog.md",
+    "blog/blogs/writing.md",
     "blog/blogs/uploads/3g.png",
     "blog/blogs/uploads/3g1.png",
     "blog/blogs/uploads/image-14.png",
-    "blog/blogs/ub.md",
     "about/index1.html",
-    "blog/blogs/ml-types.md",
     "blogs/painting.md",
     "index.md",
     "blog/blogs/uploads/3s.png",
@@ -191,7 +192,6 @@
     "blog/blogs/uploads/3q.png",
     "blog/blogs/uploads/image-29.png",
     "blog/blogs/uploads/3p.png",
-    "blog/blogs/mm.md",
     "blog/blogs/mad-scientists.md",
     "blog/blogs/uploads/2f_book.pdf",
     "blog/blogs/uploads/untitled folder",
