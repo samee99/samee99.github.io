@@ -94,7 +94,7 @@ In the simplest case, you can see how this might work. You, as the engineer, wou
 
 No tire on this one!
 
-You point out to Bob that the computer could take the pixels of the tire patch, slide it over the new image in steps multiply it with the pixels of the image, and report back the product. If the product of the pixels leads to a large value that means the tire feature is activated in the image. The computer could then sum over the pixels and report back that the car is in the image if the product of the pixels is above a certain threshold.
+You point out to Bob that the computer could take the pixels of the tire patch, slide it over the new image in steps, multiply it with the pixels of the image, and report back the product. If the product of the pixels leads to a large value that means the tire feature is present in the image. The computer could then sum over the pixels and report back that the car is in the image if the product of the pixels is above a certain threshold.
 
 Extracting tire features manually from the input image data is hard work. Bob realizes that bicycles also have tires, so you might confuse a bicycle for a car using this approach as a bike would also activate the same features. But Bob thinks you are on to something. He asks if what you are doing looks something like this:
 
