@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e581afc558193f9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "660ce3fd743dddf0",
+  "active": "8e581afc558193f9",
   "lastOpenFiles": [
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
