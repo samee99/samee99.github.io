@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/goals.md",
+                "file": "blog/blogs/dl.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/writing.md",
+                "file": "blog/blogs/dl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/writing.md",
+                "file": "blog/blogs/dl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/writing.md"
+                "file": "blog/blogs/dl.md"
               }
             }
           },
@@ -179,20 +179,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e581afc558193f9",
+  "active": "660ce3fd743dddf0",
   "lastOpenFiles": [
-    "blog/blogs/ub.md",
-    "blog/blogs/new_education.md",
-    "blog/blogs/technology.md",
-    "blog/blogs/writing.md",
-    "blog/blogs/ml.md",
-    "blog/blogs/dl.md",
     "blog/blogs/elephant.md",
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
     "blog/blogs/mad-scientists.md",
-    "blog/blogs/mm.md",
+    "blog/blogs/ml.md",
     "blog/blogs/ml-types.md",
+    "blog/blogs/new_education.md",
+    "blog/blogs/mm.md",
+    "blog/blogs/technology.md",
+    "blog/blogs/ub.md",
+    "blog/blogs/writing.md",
+    "blog/blogs/dl.md",
     "blog/blog.md",
     "blog/blogs/uploads/3g.png",
     "blog/blogs/uploads/3g1.png",
