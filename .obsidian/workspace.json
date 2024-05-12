@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blog/blogs/writing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blog/blogs/writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/dl.md"
+                "file": "blog/blogs/writing.md"
               }
             }
           },
@@ -179,8 +179,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "660ce3fd743dddf0",
+  "active": "8e581afc558193f9",
   "lastOpenFiles": [
+    "blog/blogs/dl.md",
     "blog/blogs/elephant.md",
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
@@ -192,7 +193,6 @@
     "blog/blogs/technology.md",
     "blog/blogs/ub.md",
     "blog/blogs/writing.md",
-    "blog/blogs/dl.md",
     "blog/blog.md",
     "blog/blogs/uploads/3g.png",
     "blog/blogs/uploads/3g1.png",
