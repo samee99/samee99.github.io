@@ -52,9 +52,19 @@
                 "currentVersion": "1.6.5"
               }
             }
+          },
+          {
+            "id": "813098e0d576d5e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8cdfc035259a896",
+  "active": "813098e0d576d5e7",
   "lastOpenFiles": [
     "blog/blogs/ub.md",
     "blog/blogs/writing.md",
