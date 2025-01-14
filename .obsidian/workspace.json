@@ -57,9 +57,11 @@
             "id": "813098e0d576d5e7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "blog/blogs/elephant.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -130,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/writing.md",
+                "file": "blog/blogs/elephant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/writing.md",
+                "file": "blog/blogs/elephant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/writing.md"
+                "file": "blog/blogs/elephant.md"
               }
             }
           },
