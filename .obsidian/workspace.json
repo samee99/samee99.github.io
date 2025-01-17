@@ -11,9 +11,11 @@
             "id": "9628c683fb5c69c7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250116165248.png"
+                "file": "blog/blogs/bitterlessonagents.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20250116165248.png",
+                "file": "blog/blogs/bitterlessonagents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20250116165248.png",
+                "file": "blog/blogs/bitterlessonagents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250116165248.png"
+                "file": "blog/blogs/bitterlessonagents.md"
               }
             }
           },
@@ -199,16 +201,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3729ef76e386e8bf",
+  "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
-    "5a.png",
+    "blog/blogs/ml.md",
+    "blog/blogs/uploads/5b.png",
+    "blog/blogs/uploads/5a.png",
     "blog/blogs/uploads/Pasted image 20240129115805.png",
     "blog/blogs/bitterlessonagents.md",
-    "blog/blogs/ml.md",
     "blog/blog.md",
     "blog/blogs/technology.md",
     "blogs/painting.md",
-    "Pasted image 20250116165248.png",
     "blog/blogs/elephant.md",
     "blog/blogs/ub.md",
     "blog/blogs/writing.md",
@@ -228,7 +230,6 @@
     "blog/blogs/uploads/image-30.png",
     "blog/blogs/uploads/3r.png",
     "blog/blogs/uploads/image-31.png",
-    "blog/blogs/uploads/3q.png",
     "blog/blogs/uploads/2f_book.pdf",
     "blog/blogs/uploads/untitled folder",
     "blog/blogs/uploads",
