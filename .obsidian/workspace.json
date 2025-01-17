@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/technology.md",
+                "file": "blog/blogs/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/elephant.md",
+                "file": "blog/blogs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/elephant.md",
+                "file": "blog/blogs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/elephant.md"
+                "file": "blog/blogs/Untitled.md"
               }
             }
           },
@@ -201,12 +200,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "813098e0d576d5e7",
+  "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
+    "blog/blogs/technology.md",
+    "blog/blogs/Untitled.md",
+    "blog/blogs/elephant.md",
     "blog/blogs/ub.md",
     "blog/blogs/writing.md",
     "blog/blogs/dl.md",
-    "blog/blogs/elephant.md",
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
     "blog/blogs/mad-scientists.md",
@@ -214,7 +215,6 @@
     "blog/blogs/ml-types.md",
     "blog/blogs/new_education.md",
     "blog/blogs/mm.md",
-    "blog/blogs/technology.md",
     "blog/blog.md",
     "blog/blogs/uploads/3g.png",
     "blog/blogs/uploads/3g1.png",
