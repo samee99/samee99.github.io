@@ -6,4 +6,8 @@ There is a (bitter?) lesson here: great gains can be made simply by depending on
 
 You might think that leveraging search to find optimal parameters is limited to RAG and that this does not apply to agentic workflows. In fact, with agents, the gap between a hacked demo and a reliable production grade is wider. As Richard Socher pointed out, if each step of an ai agent is 95% accurate. None of the 30 step work flows will work.Going from 95-> 99.9 is a similar last mile problem as with self driving cars. 
 
-There has already been quite a bit written about agents. For our purpose, an agent is a model (e.g. LLM) that is able to call external tools.  Multi-agents are multiple agents with access to multiple external tools (which may or may not be shared across agents). Given a user prompt, an agent uses an LLM to take actions such as calling a tool, and collects observations in a loop until a goal is met.**
+There has already been quite a bit written about agents. For our purpose, an agent is a model (e.g. LLM) that is able to call external tools.  Multi-agents are multiple agents with access to multiple external tools (which may or may not be shared across agents). Given a user prompt, an agent uses an LLM to take actions such as calling a tool, and collects observations in a loop until a goal is met.
+
+![[Pasted image 20250116165221.png]]
+
+![[Pasted image 20250116165248.png]]
