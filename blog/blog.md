@@ -1,6 +1,5 @@
 * [The bitter lesson of agent optimization](blogs/bitterlessonagents.md)  
 * [What is technology?](blogs/technology.md)  
-* [The curious case of model merging](blogs/mm.md)  
 * [What is machine learning?](blogs/ml.md)
 * [What are the different types of machine learning?](blogs/ml-types.md)
 * [Why the fuss about AI and deep learning?](blogs/dl.md)
