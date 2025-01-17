@@ -29,5 +29,6 @@ If we look at the above two requirements, an agent does not look that different 
 
 The question is how will we get to an optimal agent. I expect, just the way Nvidia and OpenAI had to optimize a tool (retrieval) as part of optimizing the full RAG system, agent optimization will require tool optimization as part of the full agent optimization. And both tool as well as end-to-end optimization will require search and learning. The less certain you are about the optimality of your tool response, the more uncertain you will be about how to perform the end-to-end agent optimization. 
 
+Why is this important? Well, every step can be a single point of failure an 
 So it will pay to optimize the hyperparameters of the tool as much as you can, while still performing end-to-end agent optimization.  
 
