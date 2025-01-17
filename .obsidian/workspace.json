@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/Untitled.md",
+                "file": "blog/blogs/The bitter lesson of agent optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/Untitled.md",
+                "file": "blog/blogs/The bitter lesson of agent optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/Untitled.md",
+                "file": "blog/blogs/The bitter lesson of agent optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/Untitled.md"
+                "file": "blog/blogs/The bitter lesson of agent optimization.md"
               }
             }
           },
@@ -203,7 +203,7 @@
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
     "blog/blogs/technology.md",
-    "blog/blogs/Untitled.md",
+    "blog/blogs/The bitter lesson of agent optimization.md",
     "blog/blogs/elephant.md",
     "blog/blogs/ub.md",
     "blog/blogs/writing.md",
