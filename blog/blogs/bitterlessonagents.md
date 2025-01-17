@@ -17,7 +17,7 @@ There has already been [quite a bit written](https://www.kaggle.com/whitepaper-a
 
 ![picture](uploads/5b.png)
 
-**To accurately give a response to a user prompt, the agent must be able to do two things: 
+To accurately give a response to a user prompt, the agent must be able to do two things: 
 
 1. Retrieve precise and accurate context needed to answer the user’s query (retrieval) 
     
