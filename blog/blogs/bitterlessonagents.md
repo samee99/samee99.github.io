@@ -12,10 +12,10 @@ You might think that leveraging search to find optimal parameters is limited to 
 
 There has already been [quite a bit written](https://www.kaggle.com/whitepaper-agents) about [agents](https://huyenchip.com/2025/01/07/agents.html). For our purpose, an agent is a model (e.g. LLM) that is able to call external tools.  Multi-agents are multiple agents with access to multiple external tools (which may or may not be shared across agents). Given a user prompt, an agent uses an LLM to take actions such as calling a tool, and collects observations in a loop until a goal is met.
 
-![[5a.png]]
 ![picture](uploads/5a.png)
 
-![[5b.png]]
+
+![picture](uploads/5b.png)
 
 **To accurately give a response to a user prompt, the agent must be able to do two things: 
 
