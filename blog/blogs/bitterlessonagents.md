@@ -1,4 +1,4 @@
-**The bitter lesson of agent optimization**
+**The bitter lesson of AI agent optimization**
 
 *January 2025*
 
