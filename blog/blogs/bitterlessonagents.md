@@ -27,17 +27,18 @@ To accurately give a response to a user prompt, the agent must be able to do two
 
 If we look at the above two requirements, an agent does not look that different from Retrieval Augmented Generation. What is different here is that the context may be retrieved with the help of multiple tools instead of just a vector database. Also, the retrieval and generation may run in a loop before returning output to the user. 
 
-The question is how will we get to an optimal agent. I expect, just the way Nvidia and OpenAI had to optimize a tool (retrieval) as part of optimizing the full RAG system, agent optimization will require tool optimization as part of the full agent optimization. And both tool as well as end-to-end optimization will require search and learning. The less certain you are about the optimality of your tool response, the more uncertain you will be about how to perform the end-to-end agent optimization. 
+As models progressively get better, e.g. using test time compute, the hyperparameter optimization load on the generation step should reduce. This happens as some of the search would have already been done at test time by models like o1. Meaning that the search space over which the hyperparameters for the generation step have to be tuned reduces.  
+
+The availability of test time compute optimal models also makes the agents more robust because the generation model has been trained to not traverse paths that are unpromising. So it would have a higher probability of maintaining the correct trajectory towards the optimal response.
+
+The question still is, how will we get to an optimal agent? I expect, just the way Nvidia and OpenAI had to optimize a tool (retrieval) as part of optimizing the full RAG system, agent optimization will require tool optimization as part of the full agent optimization. And both tool as well as end-to-end optimization will require search and learning. The less certain you are about the optimality of your tool response, the more uncertain you will be about how to perform the end-to-end agent optimization. 
 
 
 ![picture](uploads/5e.png)
 
 Why is it important to perform both tool and end-to-end agent optimization? Well, every step in an agent can be a single point of failure. Increasing the reliability of each step ensures that we traverse down the right path to get to the goal instead of rolling down the wrong path down the hill. In other words, the *error multiplies with each step*, so we want to make sure that the error per step is as low as possible. And the longer the loop of the agent runs until the goal is met, the greater the chance of going down the wrong path. 
 
-As models progressively get better, e.g. using test time compute, the hyperparameter optimization load on the generation step should reduce. This happens as some of the search would have already been done at test time by models like o1. Meaning that the search space over which the hyperparameters for the generation step have to be tuned reduces.  
 
-The availability of test time compute optimal models also makes the agents more robust because the generation model has been trained to not traverse paths that are unpromising. So it would have a higher probability of maintaining the correct trajectory towards the optimal response.
-
-Even with  it will pay to optimize the hyperparameters of the tool as much as you can, while still performing end-to-end agent optimization.  
+So it will pay to optimize the hyperparameters of the tool as much as you can, while still performing end-to-end agent optimization.  
 
 *Take me [home](https://sameeurrehman.com/)* 
