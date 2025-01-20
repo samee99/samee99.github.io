@@ -34,6 +34,8 @@ The question is how will we get to an optimal agent. I expect, just the way Nvid
 
 Why is it important to perform both tool and end-to-end agent optimization? Well, every step in an agent can be a single point of failure. Increasing the reliability of each step ensures that we traverse down the right path to get to the goal instead of rolling down the wrong path down the hill. In other words, the *error multiplies with each step*, so we want to make sure that the error per step is as low as possible. And the longer the loop of the agent runs until the goal is met, the greater the chance of going down the wrong path. 
 
+As models get better, for examples by 
+
 So it will pay to optimize the hyperparameters of the tool as much as you can, while still performing end-to-end agent optimization.  
 
 *Take me [home](https://sameeurrehman.com/)* 
