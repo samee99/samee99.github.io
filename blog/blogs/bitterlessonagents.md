@@ -34,7 +34,7 @@ The question is how will we get to an optimal agent. I expect, just the way Nvid
 
 Why is it important to perform both tool and end-to-end agent optimization? Well, every step in an agent can be a single point of failure. Increasing the reliability of each step ensures that we traverse down the right path to get to the goal instead of rolling down the wrong path down the hill. In other words, the *error multiplies with each step*, so we want to make sure that the error per step is as low as possible. And the longer the loop of the agent runs until the goal is met, the greater the chance of going down the wrong path. 
 
-As models get better, for example using test time compute the hyperparameter optimization load on the generator tool. So basically, some of the search has also been done at test time by eg o1, and you now only have to do the leftover hyperparameters search instead of full search over models that don’t use test time compute. 
+As models get better using test time compute the hyperparameter optimization load on the generation step. Some of the search has also been done at test time by eg o1, and you now only have to do the leftover hyperparameters search instead of full search over models that don’t use test time compute. 
 
 In fact the availability of test time compute optimal models makes the agents more robust because the llm has been trained to not traverse paths that are unpromising. So it would have a higher probability of maintain the correct trajectory towards the optimal response.
 
