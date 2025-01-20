@@ -36,8 +36,8 @@ Why is it important to perform both tool and end-to-end agent optimization? Well
 
 As models progressively get better, e.g. using test time compute, the hyperparameter optimization load on the generation step should reduce. This happens as some of the search would have already been done at test time by models like o1. Meaning that the search space over which the hyperparameters for the generation step have to be tuned reduces.  
 
-In fact the availability of test time compute optimal models makes the agents more robust because the generation model has been trained to not traverse paths that are unpromising. So it would have a higher probability of maintain the correct trajectory towards the optimal response.
+The availability of test time compute optimal models also makes the agents more robust because the generation model has been trained to not traverse paths that are unpromising. So it would have a higher probability of maintaining the correct trajectory towards the optimal response.
 
-So it will pay to optimize the hyperparameters of the tool as much as you can, while still performing end-to-end agent optimization.  
+Even with  it will pay to optimize the hyperparameters of the tool as much as you can, while still performing end-to-end agent optimization.  
 
 *Take me [home](https://sameeurrehman.com/)* 
