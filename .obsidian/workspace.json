@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/Neo.md",
+                "file": "blog/blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/Neo.md",
+                "file": "blog/blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/Neo.md",
+                "file": "blog/blog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/Neo.md"
+                "file": "blog/blog.md"
               }
             }
           },
@@ -203,8 +203,8 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
-    "blog/blogs/bitterlessonagents.md",
     "blog/blogs/Neo.md",
+    "blog/blogs/bitterlessonagents.md",
     "blog/blogs/essays.md",
     "blog/blogs/elephant.md",
     "blog/blogs/dl.md",

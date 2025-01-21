@@ -1,4 +1,4 @@
-**An AI agent engineer**
+**Building an AI agent engineer**
 
 *January 2025*
 
