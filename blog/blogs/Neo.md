@@ -26,5 +26,6 @@ Neo leverages AutoML capabilities to optimize both the retriever and generation 
 
 For example, consider a warehouse manager who requests Neo to develop a system that counts the number of humans in a video stream and sends an email alert if more than ten humans are detected. In this scenario, Neo would need to gather specific requirements, such as determining the number of video frames to analyze and assessing the system's associated costs. Subsequently, Neo would apply the most effective object detection model available to accurately count the number of humans, ensuring the system operates efficiently and meets the manager's needs.
 
-This process would require a search through all possible object detection models along with optimization of the hyperparameters as well as any preprocessing the video frames may require to achieve the result. 
+This process would require a search through all possible object detection models along with optimization of the hyperparameters as well as any preprocessing the video frames need to achieve the result. Neo would therefore again need AutoML capability as well as a vision model evaluation capability to help design this ssyst
+
 *Take me [home](https://sameeurrehman.com/)* 
