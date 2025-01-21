@@ -6,7 +6,7 @@ The possibility of creating production-grade AI agentic workflows increases with
 
 In this sense, the Software 2.0 era, where the computer effectively writes the code and executes the task is closing in. This also means that the Software as a Service era, where the software assisted the human agent, will slowly get augmented and replaced by the Service as Software era. In the Service as Software era, the AI agent(s), with access to tools, will try to achieve a high-level, abstract goal traditionally left to humans. This represents a major disruption in how humans have viewed their relationship with computers. AI agents with access to capital can allocate resources to hire human labor or to rent compute (e.g. GPUs) to execute tasks. 
 
-Many roles traditionally held by humans in corporations will undergo disruption. Well-defined roles such as Sales Development Representative or Customer Support are already undergoing a nonlinear change. But in this write-up, I want to focus on the AI/ML engineer. What could be more disruptive than the AI agent acting as an AI/ML engineer, resulting in a virtuous feedback loop where the agent improves its own capability? 
+Many roles traditionally held by humans in corporations will undergo disruption. Well-defined roles such as Sales Development Representative or Customer Support are already undergoing change. But in this write-up, I want to focus on the AI/ML engineer. What could be more disruptive than the AI agent acting as an AI/ML engineer, creating a virtuous feedback loop where the agent continuously improves its own capability? 
 
 How could one go about building an AI/ML engineer? Let’s call him Neo.
 
