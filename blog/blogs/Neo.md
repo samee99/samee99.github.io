@@ -6,7 +6,7 @@ The possibility of creating production-grade **agentic workflows**—AI-driven 
 
 We are entering the **Software 2.0 era**, where the computer can autonomously write code and execute tasks. Concurrently, the familiar **Software as a Service** model—where software aids human users—is evolving into what we might call the **Service as Software** era. In  Service as Software, AI agent(s), with access to tools, aim to achieve high-level, abstract goals traditionally left to humans. This represents a major disruption in how humans have viewed their relationship with computers. AI agents with access to capital can allocate resources to hire human labor or to rent compute (e.g. GPUs) to execute tasks. 
 
-Many roles traditionally held by humans in corporations will undergo disruption. Well-defined roles such as Sales Development Representative or Customer Support are already experiencing change. But in this write-up, I want to focus on the AI/ML engineer. What could be more disruptive than the AI agent acting as an AI/ML engineer, creating a virtuous feedback loop where the agent continuously improves its own capabilities? 
+Many roles traditionally held by humans in corporations will undergo disruption. Well-defined roles such as Sales Development Representative or Customer Support are already experiencing change. In this discussion, we will focus on the role of the AI/ML engineer. What could be more disruptive than the AI agent acting as an AI/ML engineer, creating a virtuous feedback loop where the agent continuously improves its own capabilities? 
 
 How can we build an AI/ML engineer? Let’s call him Neo. One method is to identify all the tasks that an AI engineer performs and try to build a system that can automate them. Another approach might be to take one specific task, typically performed by an AI engineer, automate it, and then gradually broaden Neo's capabilities. We will use the second approach as it provides a more constrained scope and allows an easier angle of attack. 
 
@@ -30,7 +30,7 @@ This process involves searching through all possible object-detection models, op
 
 Ultimately, Neo’s most ambitious use case is to build a system that replicates and improves upon itself. This may include using an AutoML approach to identify suitable large language models (LLMs) and determine the correct hyperparameters—such as the number of epochs, learning rate, LoRa alpha, and rank—for fine-tuning on specific user requests. For instance, a “Neo Lawyer” could instruction-tune itself using a dataset provided by the user or leverage the user’s capital to hire apprentice lawyers to create a more comprehensive dataset before fine-tuning.
 
-Since all of Neo’s projects are rigorously documented, it will continuously learn and evolve from its own experiences. Ultimately, Neo could become an intelligence capable of deploying capital and resources to pursue high-level, abstract goals on behalf of its users.
+Since all of Neo’s projects are rigorously documented, it can continuously learn and evolve from its own experiences. For example, Neo stores each project’s architecture choices, hyperparameter settings, and user feedback in a central knowledge repository. It then periodically reanalyzes these records to refine its search strategies and improve future iterations—creating a self-reinforcing feedback loop. Ultimately, Neo could become an intelligence capable of deploying capital and resources to pursue high-level, abstract goals on behalf of its users.
 
 
 *Take me [home](https://sameeurrehman.com/)* 
