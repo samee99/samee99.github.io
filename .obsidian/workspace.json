@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/bitterlessonagents.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/bitterlessonagents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blog.md",
+                "file": "blog/blogs/bitterlessonagents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blog.md"
+                "file": "blog/blogs/bitterlessonagents.md"
               }
             }
           },
@@ -203,12 +203,12 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
+    "blog/blog.md",
     "blog/blogs/Neo.md",
     "blog/blogs/bitterlessonagents.md",
     "blog/blogs/essays.md",
     "blog/blogs/elephant.md",
     "blog/blogs/dl.md",
-    "blog/blog.md",
     "blog/blogs/uploads/5e.png",
     "blog/blogs/technology.md",
     "blog/blogs/mm.md",

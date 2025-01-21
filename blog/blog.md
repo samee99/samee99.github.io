@@ -1,4 +1,5 @@
-* [The bitter lesson of agent optimization](blogs/bitterlessonagents.md)  
+* [Building an AI agent engineer](blogs/Neo.md)  
+* [The bitter lesson of AI agent optimization](blogs/bitterlessonagents.md)  
 * [What is technology?](blogs/technology.md)  
 * [What is machine learning?](blogs/ml.md)
 * [What are the different types of machine learning?](blogs/ml-types.md)
