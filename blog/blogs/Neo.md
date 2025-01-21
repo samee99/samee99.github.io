@@ -30,7 +30,7 @@ This process would require a search through all possible object detection models
 
 The ultimate use case for Neo would be to build a system that replicates and improves Neo itself. This could take the form of AutoML capability in terms of identifying LLMs and finding the right hyperparameters (e.g. number of epochs, learning rate, LoRa alpha and rank) for fine-tuning them on specific use cases that users want Neo to handle. For example, the Neo lawyer could be instruction fine-tune itself on user provided dataset or it can use the provided capital from the user to hire apprentice lawyers to create the dataset before finetuning it. 
 
-Since all of Neo's projects will be documented, Neo will continue to learn and improve from its own experiences as well. In the end, it would become the ult
+Since all of Neo's projects will be documented, Neo will continue to learn and improve from its own experiences as well. In the end, it would become the ultimate intelligence that can use capital to achieve an abstract, high level goal. 
 
 
 *Take me [home](https://sameeurrehman.com/)* 
