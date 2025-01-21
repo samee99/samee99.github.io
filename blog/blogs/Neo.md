@@ -20,7 +20,7 @@ Neo formalizes the requirements by delivering a comprehensive requirements docum
 
 Neo deploys the optimal configuration for the user, conducts thorough testing, and delivers the validated codebase along with comprehensive documentation. This phase also includes security and compliance checks to ensure the system meets all necessary standards. Subsequently, Neo implements system monitoring to maintain uptime and performance.
 
-To gather user feedback, Neo employs mechanisms such as simple approval ratings or comparative evaluations, where users select the better response from presented options. Additionally, Neo tracks user interaction touchpoints to assess the user's proficiency level. This ensures that the provided documentation is both readable and tailored to the user's competency.
+To gather user feedback, Neo employs mechanisms such as simple approval ratings or comparative evaluations, where users select the better response from presented options. Additionally, Neo tracks user interaction touch-points to assess the user's proficiency level. This ensures that the provided documentation is both readable and tailored to the user's competency.
 
 Neo leverages AutoML capabilities to optimize both the retriever and generation tools within a RAG system. To expand its utility across a wider range of use cases, Neo must continually identify and integrate additional tools, developing mechanisms to optimize each as needed.
 
@@ -30,7 +30,7 @@ This process involves searching through all possible object-detection models, op
 
 Ultimately, Neo’s most ambitious use case is to build a system that replicates and improves upon itself. This may include using an AutoML approach to identify suitable large language models (LLMs) and determine the correct hyperparameters—such as the number of epochs, learning rate, LoRa alpha, and rank—for fine-tuning on specific user requests. For instance, a “Neo Lawyer” could instruction-tune itself using a dataset provided by the user or leverage the user’s capital to hire apprentice lawyers to create a more comprehensive dataset before fine-tuning.
 
-Since all of Neo’s projects are rigorously documented, it can continuously learn and evolve from its own experiences. For example, Neo stores each project’s architecture choices, hyperparameter settings, and user feedback in a central knowledge repository. It then periodically reanalyzes these records to refine its search strategies and improve future iterations—creating a self-reinforcing feedback loop. Ultimately, Neo could become an intelligence capable of deploying capital and resources to pursue high-level, abstract goals on behalf of its users.
+Since all of Neo’s projects are documented, it can continuously learn and evolve from its own experiences. For example, Neo stores each project’s architecture choices, hyperparameter settings, and user feedback in a central knowledge repository. It then periodically reanalyzes these records to refine its search strategies and improve future iterations—creating a self-reinforcing feedback loop. Ultimately, Neo could become an intelligence capable of deploying capital and resources to pursue high-level, abstract goals on behalf of its users.
 
 
 *Take me [home](https://sameeurrehman.com/)* 
