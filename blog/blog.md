@@ -1,4 +1,4 @@
-* [Building an AI agent engineer](blogs/Neo.md)  
+* [Building an AI engineer with agents](blogs/Neo.md)  
 * [The bitter lesson of AI agent optimization](blogs/bitterlessonagents.md)  
 * [What is technology?](blogs/technology.md)  
 * [What is machine learning?](blogs/ml.md)
