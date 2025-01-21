@@ -28,7 +28,7 @@ For example, consider a warehouse manager who requests Neo to develop a system t
 
 This process would require a search through all possible object detection models along with optimization of the hyperparameters as well as any preprocessing the video frames need to achieve the result. Neo would therefore again need AutoML capability as well as a vision model evaluation capability to help design this system. 
 
-The ultimate use case for Neo would be to build a system that replicates and improves Neo itself. This could take the form of taking off the shelf LLMs and fine-tuning them on spei
+The ultimate use case for Neo would be to build a system that replicates and improves Neo itself. This could take the form of AutoML capability in termLLMs and fine-tuning them on specific use cases that Neo is expected to handle. For example, the Neo lawyer could be instruction fine-tuned on curated AI 
 
 
 *Take me [home](https://sameeurrehman.com/)* 
