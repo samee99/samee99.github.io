@@ -23,7 +23,7 @@ We see these challenges in practice. OpenAI, [on their Devday](https://www.youtu
 
 We built Queryloop out of frustration with endless manual tuning of RAG apps. Our no-code platform automatically explores a wide range of configurations for optimal retrieval and response generation, including adjusting chunk sizes, embedding models, rerankers, top‑k settings, chunking strategies, and LLM parameters. Rather than using a one‑size‑fits‑all approach, we tailor our search and response settings to match the unique needs of each document in your dataset.
 
-In addition, the platform can fine‑tune both embedding models and open source or proprietary LLMs to address nuances in context and language specific to your domain. With Queryloop's experiments dashboard, you can evaluate each configuration across accuracy, latency, and cost, then deploy the best-performing setup with one click to immediately access a ready-to-use API. For evaluation of each combination, we use 
+In addition, the platform can fine‑tune both embedding models and open source or proprietary LLMs to address nuances in context and language specific to your domain. With Queryloop's experiments dashboard, you can evaluate each configuration across accuracy, latency, and cost, then deploy the best-performing setup with one click to immediately access a ready-to-use API. For evaluation of each combination, we have built our own evaluation methods on top of open source approach 
 
 The best part is that we continuously integrate the latest retrieval and generation strategies based on our own and public benchmarks. This ensures that your RAG or LLM app remains optimal, and soon, we’ll roll out optimization for agentic workflows to further boost performance in complex use cases.
 
