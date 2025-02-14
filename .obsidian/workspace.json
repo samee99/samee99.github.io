@@ -16,7 +16,21 @@
                 "file": "blog/blogs/Neo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Neo"
+            }
+          },
+          {
+            "id": "cad90146a5d5e391",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -28,7 +42,9 @@
                 "file": "blog/blogs/dl.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "dl"
             }
           },
           {
@@ -40,7 +56,9 @@
                 "file": "blog/blogs/writing.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "writing"
             }
           },
           {
@@ -50,7 +68,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.5"
-              }
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.6.5"
             }
           },
           {
@@ -62,10 +82,13 @@
                 "file": "blog/blogs/elephant.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "elephant"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +107,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -100,7 +126,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -108,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -131,7 +161,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/blogs/Neo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +168,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -148,10 +179,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/blogs/Neo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -161,8 +193,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -171,8 +207,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/blogs/Neo.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -180,7 +220,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -201,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9628c683fb5c69c7",
+  "active": "cad90146a5d5e391",
   "lastOpenFiles": [
     "index.md",
     "image-1-300x58.png",
