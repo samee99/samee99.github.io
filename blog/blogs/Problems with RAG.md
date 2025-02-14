@@ -9,5 +9,7 @@ We don’t have to go far to see examples of this. OpenAI, [on their Devday](ht
 
 Nvidia released a [paper in July 2024](https://arxiv.org/html/2407.07858v1) with the title “FACTS About Building Retrieval Augmented Generation-based Chatbots”. Nvidia mentioned that they identified 15 different control points in a RAG pipeline and each one of these control points impacts the quality of the results generated. They found that, among other parameters, choosing the right query rewriting strategy, chunk size, pre-processing technique, metadata enrichment, reranking, and LLM all mattered to the final performance. The retrieval relevance determined the accuracy of the LLM response. And retrieval relevance itself was dependent on metadata enrichment, chunking and query rephrasal.
 
+The Solution: 
+
 
 Response quality gets impacted by incorrect retrieval as wel
