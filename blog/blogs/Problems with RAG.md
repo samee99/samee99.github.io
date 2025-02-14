@@ -3,7 +3,7 @@ Creating a demo for Retrieval Augmented Generation (RAG) is easy, but building a
 
 So why is this hard? Let's imagine you want to build a production grade RAG pipeline. You first need to build an optimal data parsing and ingestion system. Then you have to embed your parsed data using the right embedding model(s). Once the data is ingested, you need to use an appropriate retrieval method and the right LLM with an optimal prompt to get the response you want. 
 
-Every choice you make affects the performance of your 
+Every choice you make affects the performance of your RAG pipeline. Typical questions on your mind when building the system would be "Which parser should I use"
 
 Perhaps the naive choice of parameter may work well when asking simple questions over a short document. 
 
