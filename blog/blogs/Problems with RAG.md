@@ -1,6 +1,8 @@
 
 Creating a demo for Retrieval Augmented Generation (RAG) is easy, but building a production-grade app is 10x harder, if not more. For every blog and tutorial claiming to get you started with RAG apps or agents in less than an hour, there are hundreds more talking about the complexity of building LLM, and RAG systems that operate reliably at an acceptable accuracy and latency while staying within budget.
 
-Let's imagine you want to build a production grade RAG pipeline. 
+Let's imagine you want to build a production grade RAG pipeline. There are many 
 
-Response quality gets impacted by incorrect retrieval and 
+
+
+Response quality gets impacted by incorrect retrieval as wel
