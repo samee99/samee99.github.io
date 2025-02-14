@@ -23,6 +23,8 @@ In Queryloop's experiments dashboard you get evaluation of each configuration ac
 Instead of guessing and manually scripting, Queryloop’s systematic approach lets you focus on building great features while we handle the heavy lifting of optimization—and we’re continuously evolving. We're actively adding new tools, like web search integration, and we’ll soon roll out optimization of agentic workflows to further streamline your workflows.
 
 The best about Queryloop is that we keep adding 
+
+Rather than using a one‑size‑fits‑all approach, we tailor our search and response settings to match the unique needs of each document in your dataset. In addition, the platform can fine‑tune both embedding models and open source or proprietary LLMs to address nuances in context and language specific to your domain. The system continuously monitors performance and updates its optimal configurations as needed, so you never have to worry about your app falling behind. We also integrate the latest models and search strategies from cutting‑edge research, ensuring you receive a turnkey solution that remains state‑of‑the‑art without any manual intervention
 **
 
 Response quality gets impacted by incorrect retrieval as wel
