@@ -11,5 +11,22 @@ Nvidia released a [paper in July 2024](https://arxiv.org/html/2407.07858v1) wi
 
 The Solution: 
 
+We built Queryloop out of frustration with the endless manual tuning required to turn RAG/LLM demos into production-ready apps. Our no-code platform automatically explores a wide range of configurations—adjusting chunk sizes, embedding models, rerankers, top‑k settings, chunking strategies, LLM parameters, and more—to optimize your RAG pipeline without you writing or maintaining custom scripts. Even if you’ve already cobbled together your own solution, manually tuning these components is time‑consuming and demands constant updates with every new dataset.
+
+What It Does
+
+- No-Code, Seamless Integration: Queryloop connects its built-in modules—retrieval and generation—to build complex RAG apps without writing a single line of code.
+    
+- Retrieval Tool: Easily tweak chunk sizes, embedding models, rerankers, and more to extract the best context from your data.
+    
+- Generation Tool: Compare different LLMs (fine-tuned or not), adjust temperature, experiment with prompt styles, and more.
+    
+- Dashboard: Monitor each experiment’s accuracy, latency, and cost in real time, then deploy the best-performing configuration with one click.
+    
+
+Why It’s Different  
+Instead of guessing and manually scripting, Queryloop’s AutoML approach systematically tests a wide range of configurations. This lets you focus on building great features while we handle the heavy lifting of optimization—and we’re continuously evolving. We're actively adding new tools, like web search integration, and we’ll soon roll out optimization of agentic workflow to further streamline your workflows.
+
+**
 
 Response quality gets impacted by incorrect retrieval as wel
