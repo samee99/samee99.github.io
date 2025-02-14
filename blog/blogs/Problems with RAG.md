@@ -3,6 +3,7 @@ Creating a demo for Retrieval Augmented Generation (RAG) is easy, but building a
 
 So why is this hard? Let's imagine you want to build a production grade RAG pipeline. There are many 
 
+Perhaps the naive choice of parameter works well when asking simple questions over a short document. But 
 The system is hard to improve, and there are too many parameters to tune by hand, and you need reliable evaluation to measure performance. 
 
 
