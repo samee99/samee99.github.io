@@ -26,12 +26,8 @@ We built Queryloop out of frustration with the endless manual tuning of RAG apps
 
 For RAG optimization, Queryloop offers two core tools: a Retrieval Tool that optimizes how context is extracted, and a Generation Tool that fine-tunes the LLM output. Together, these tools allow you to balance accuracy, latency, and cost effectively. Moreover, the platform can fine‑tune both embedding models and open source or proprietary LLMs to capture the nuances in context and language specific to your domain.
 
-With Queryloop's experiments dashboard, you can evaluate each configuration across accuracy, latency, and cost, then deploy the best-performing setup with one click to immediately access a ready-to-use API. Our proprietary evaluation methods even improve upon open source approaches such as [RAGAS](https://github.com/explodinggradients/ragas).
+With Queryloop's experiments dashboard, you can evaluate each configuration across accuracy, latency, and cost, then deploy the best-performing setup with one click to immediately access a ready-to-use API. For evaluation of each combination, we have built our own evaluation methods that improve upon open source approaches such as [RAGAS](https://github.com/explodinggradients/ragas). 
 
 The best part is that we continuously integrate the latest retrieval and generation strategies based on our own and public benchmarks, ensuring that your RAG or LLM app remains optimal. And soon, we’ll roll out agentic workflow optimization to support multi-step reasoning, ensuring even the most complex use cases perform at their best.
 
 Customers like Guidelinebuddy have already experienced our seamless app building workflow and successfully deployed optimal RAG applications with Queryloop. We’re excited to offer a free trial to new users starting today—give it a try and let us know what you think!
-
-
-
-For evaluation of each combination, we have built our own evaluation methods that improve upon open source approaches such as [RAGAS](https://github.com/explodinggradients/ragas). 
