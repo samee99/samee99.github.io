@@ -20,7 +20,9 @@ Queryloop features a No-Code LLM app building platform where you can connect bui
 
 In Queryloop's experiments dashboard you get evaluation of each configuration across accuracy, latency, and cost. You can deploy the best-performing configuration with one click and immediately get a ready to use API. 
 
-Rather than using a one‑size‑fits‑all approach for all your data, with Queryloop you can tailor the search and response settings to match the unique needs of each document in your dataset. In addition, the platform can fine‑tune both embedding models and open source or proprietary LLMs to address nuances in context and language specific to your domain. We're also actively adding new tools, like web search integration, and we’ll soon roll out optimization of agentic workflows to further streamline your workflows.
+Rather than using a one‑size‑fits‑all approach for all your data, with Queryloop you can tailor the search and response settings to match the unique needs of each document in your dataset. In addition, the platform can fine‑tune both embedding models and open source or proprietary LLMs to address nuances in context and language specific to your domain.
+
+Instead of guessing and manually scripting, Queryloop’s systematic approach lets you focus on building great features while we handle the heavy lifting of optimization—and we’re continuously evolving. We're actively adding new tools, like web search integration, and we’ll soon roll out optimization of agentic workflows to further streamline your workflows.
 
 The best about Queryloop is that we keep adding 
 
