@@ -30,4 +30,4 @@ With Queryloop's experiments dashboard, you can evaluate each configuration acro
 
 The best part is that we continuously integrate the latest retrieval and generation strategies based on our own and public benchmarks, ensuring that your RAG or LLM app remains optimal. And soon, we’ll roll out agentic workflow optimization to support multi-step reasoning, ensuring even the most complex use cases perform at their best.
 
-Customers like Guidelinebuddy have already experienced our seamless app building workflow and successfully deployed optimal RAG applications with Queryloop. We’re excited to offer a free trial to new users starting today—give it a try and let us know what you think!
+Customers like [Guidelinebuddy](http://guidelinebuddy.com/) have already experienced our seamless app building workflow and successfully deployed optimal RAG applications with Queryloop. We’re excited to offer a free trial to new users starting today—give it a try and let us know what you think!
