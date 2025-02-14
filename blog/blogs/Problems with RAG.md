@@ -1,7 +1,9 @@
 
 Creating a demo for Retrieval Augmented Generation (RAG) is easy, but building a production-grade app is 10x harder, if not more. For every blog and tutorial claiming to get you started with RAG apps or agents in less than an hour, there are hundreds more talking about the complexity of building LLM, and RAG systems that operate reliably at an acceptable accuracy and latency while staying within budget.
 
-So why is this hard? Let's imagine you want to build a production grade RAG pipeline. You first need to build a data parsing and ingestion system. Then you have to embed your parsed data. Once the data is ingested, you need to use an appropriate retrieval method and the right LLM with an optimal prompt to 
+So why is this hard? Let's imagine you want to build a production grade RAG pipeline. You first need to build an optimal data parsing and ingestion system. Then you have to embed your parsed data using the right embedding model(s). Once the data is ingested, you need to use an appropriate retrieval method and the right LLM with an optimal prompt to get the response you want. 
+
+Every choice you make affects the performance of your 
 
 Perhaps the naive choice of parameter may work well when asking simple questions over a short document. 
 
