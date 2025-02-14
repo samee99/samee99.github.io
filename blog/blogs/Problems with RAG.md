@@ -10,11 +10,11 @@ We don’t have to go far to see examples of this. OpenAI, [on their Devday](ht
 
 [Nvidia also recently mentioned](https://arxiv.org/html/2407.07858v1)hat they identified 15 different control points in a RAG pipeline and each one of these control points impacts the quality of the results generated. They found that, among other parameters, choosing the right query rewriting strategy, chunk size, pre-processing technique, metadata enrichment, reranking, and LLM all mattered to the final performance. The retrieval relevance determined the accuracy of the LLM response. And retrieval relevance itself was dependent on metadata enrichment, chunking and query rephrasal.
 
-To searching across all these methods, you first need to script and implement each method and then identify the optimal configuration. So how do you search across all of these configurations and figure out to the optimal solution for your usecase? 
+To searching across all these methods, you first need to script and implement each method and then identify the optimal configuration. So how do you search across all of these hyperparameters and figure out to the optimal solution for your usecase? 
 
 **The Solution:** 
 
-We built Queryloop out of frustration with the endless manual tuning required to turn RAG/LLM demos into production-ready apps. Our no-code platform automatically explores a wide range of configurations—adjusting chunk sizes, embedding models, rerankers, top‑k settings, chunking strategies, LLM parameters, and more—to optimize your RAG pipeline. 
+We built Queryloop out of frustration with the endless manual tuning required to turn RAG demos into production-ready apps. Our no-code platform automatically explores a wide range of configurations—adjusting chunk sizes, embedding models, rerankers, top‑k settings, chunking strategies, LLM parameters, and more—to optimize your RAG pipeline. 
 
 Queryloop features a No-Code LLM app building platform where you can connect built-in modules—retrieval and generation—to build optimal RAG apps without any pain. With the Retrieval Tool you can easily tweak parameters such as chunk sizes, embedding models, rerankers, top-K settings and more to extract the best context from your data. With the Generation Tool you can compare different LLMs (including reasoning models), adjust LLM parameters, experiment with prompt styles (e.g. few shot, chain of thought). 
 
@@ -22,6 +22,7 @@ In Queryloop's experiments dashboard you get evaluation of each configuration ac
 
 Instead of guessing and manually scripting, Queryloop’s systematic approach lets you focus on building great features while we handle the heavy lifting of optimization—and we’re continuously evolving. We're actively adding new tools, like web search integration, and we’ll soon roll out optimization of agentic workflows to further streamline your workflows.
 
+The best about Queryloop is that we keep adding 
 **
 
 Response quality gets impacted by incorrect retrieval as wel
