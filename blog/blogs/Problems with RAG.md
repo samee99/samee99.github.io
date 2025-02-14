@@ -22,9 +22,8 @@ In Queryloop's experiments dashboard you get evaluation of each configuration ac
 
 Rather than using a one‑size‑fits‑all approach for all your data, with Queryloop you can tailor the search and response settings to match the unique needs of each document in your dataset. In addition, the platform can fine‑tune both embedding models and open source or proprietary LLMs to address nuances in context and language specific to your domain.
 
-We're actively adding new tools, like web search integration, and we’ll soon roll out optimization of agentic workflows to further streamline your workflows.
+The best about Queryloop is that we keep adding the best retrieval and generation strategies based on our own and public benchmarks so you don't have to worry about ensuring that your RAG or LLM app will continue to remain optimal. We're actively adding new tools, like web search integration, and python interpreter and we’ll soon roll out optimization of agentic workflows to further streamline your workflows.
 
-The best about Queryloop is that we keep adding the best retrieval and generation strategies based on our own and public b
 
  The system continuously monitors performance and updates its optimal configurations as needed, so you never have to worry about your app falling behind. We also integrate the latest models and search strategies from cutting‑edge research, ensuring you receive a turnkey solution that remains state‑of‑the‑art without any manual intervention
 **
