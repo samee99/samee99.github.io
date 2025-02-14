@@ -27,4 +27,4 @@ In addition, the platform can fine‑tune both embedding models and open source 
 
 The best part is that we continuously integrate the latest retrieval and generation strategies based on our own and public benchmarks. This ensures that your RAG or LLM app remains optimal, and soon, we’ll roll out optimization for agentic workflows to further boost performance in complex use cases.
 
-Customers like Guidelinebuddy have already experienced our optimal workflow and deployed optimal RAG applications with us. We are offering a 
+Customers like Guidelinebuddy have already experienced our app building workflow and deployed optimal RAG applications with us. We are offering a free trial to new users starting today! Try it out and let us know what you think 
