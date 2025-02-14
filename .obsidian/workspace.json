@@ -25,12 +25,14 @@
             "id": "cad90146a5d5e391",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "blog/blogs/Problems with RAG.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Problems with RAG"
             }
           },
           {
@@ -245,12 +247,13 @@
   },
   "active": "cad90146a5d5e391",
   "lastOpenFiles": [
+    "blog/blogs/Neo.md",
+    "blog/blogs/Problems with RAG.md",
     "index.md",
     "image-1-300x58.png",
     "README.md",
     "index_backup.md",
     "blog/blog.md",
-    "blog/blogs/Neo.md",
     "blog/blogs/technology.md",
     "blog/blogs/bitterlessonagents.md",
     "blog/blogs/essays.md",
