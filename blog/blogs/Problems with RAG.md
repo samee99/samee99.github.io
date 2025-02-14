@@ -15,8 +15,7 @@ We built Queryloop out of frustration with the endless manual tuning required to
 
 Queryloop features a No-Code LLM app building platform where you can connect built-in modules—retrieval and generation—to build optimal RAG apps without any pain. With the Retrieval Tool you can easily tweak parameters such as chunk sizes, embedding models, rerankers, top-K settings and more to extract the best context from your data. With the Generation Tool you can compare different LLMs (including reasoning models), adjust LLM parameters, experiment with prompt styles (e.g. few shot, chain of thought). 
 
-Queryloop's experiments' da accuracy, latency, and cost in real time, then deploy the best-performing configuration with one click.
-    
+Queryloop's experiments dashboard provides evaluation of each configuration across accuracy, latency, and cost. You can deploy the best-performing configuration with one click and immediately get a ready to use API
 
 Why It’s Different  
 Instead of guessing and manually scripting, Queryloop’s AutoML approach systematically tests a wide range of configurations. This lets you focus on building great features while we handle the heavy lifting of optimization—and we’re continuously evolving. We're actively adding new tools, like web search integration, and we’ll soon roll out optimization of agentic workflow to further streamline your workflows.
