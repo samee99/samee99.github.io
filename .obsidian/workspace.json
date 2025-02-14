@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/Problems with RAG.md",
+                "file": "blog/blogs/Problems with RAG 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problems with RAG"
+              "title": "Problems with RAG 1"
             }
           },
           {
@@ -247,8 +247,9 @@
   },
   "active": "cad90146a5d5e391",
   "lastOpenFiles": [
-    "blog/blogs/Neo.md",
     "blog/blogs/Problems with RAG.md",
+    "blog/blogs/Problems with RAG 1.md",
+    "blog/blogs/Neo.md",
     "index.md",
     "image-1-300x58.png",
     "README.md",
