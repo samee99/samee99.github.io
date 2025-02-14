@@ -13,9 +13,7 @@ The Solution:
 
 We built Queryloop out of frustration with the endless manual tuning required to turn RAG/LLM demos into production-ready apps. Our no-code platform automatically explores a wide range of configurations—adjusting chunk sizes, embedding models, rerankers, top‑k settings, chunking strategies, LLM parameters, and more—to optimize your RAG pipeline. 
 
-Queryloop features a No-Code LLM app building platform where you can connect built-in modules—retrieval and generation—to build optimal RAG apps without any pain. With the Retrieval Tool you can easily tweak parameters such as chunk sizes, embedding models, rerankers, and more to extract the best context from your data.
-    
-- Generation Tool: Compare different LLMs (fine-tuned or not), adjust temperature, experiment with prompt styles, and more.
+Queryloop features a No-Code LLM app building platform where you can connect built-in modules—retrieval and generation—to build optimal RAG apps without any pain. With the Retrieval Tool you can easily tweak parameters such as chunk sizes, embedding models, rerankers, top-K settings and more to extract the best context from your data. With the Generation Tool you can compare different LLMs (), adjust LLM parameters, experiment with prompt styles, and more.
     
 - Dashboard: Monitor each experiment’s accuracy, latency, and cost in real time, then deploy the best-performing configuration with one click.
     
