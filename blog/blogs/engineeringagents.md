@@ -8,7 +8,7 @@ You start with the question of what you want to build, hopefully based on what p
 Engineers get to work in building the solutions at component and system level. They define the component/system level architecture and the detailed design and start implementing. Once the design is ready, integration tests and verifications happen at the component and system level. After the performance of the system is validated, it is deployed in the field and maintained till the end of its lifetime. 
 
 **The problem**
-This process as detailed out is highly labor intensive and slow. Junior design engineers work at component level to execute on requirements that have been cascaded down to them by senior system engineers. This would typically involve creation of docume
+This process as detailed out is highly labor intensive and slow. Junior design engineers work at component level to execute on requirements that have been cascaded down to them by senior system engineers. This may involve a combination of writing documentation on the design and architecture as well as performing computer aided design/engineering/simulations to 
 
 **The solution**
 
