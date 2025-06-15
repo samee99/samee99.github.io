@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "ab8caf848b0af1f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/blogs/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "660ce3fd743dddf0",
             "type": "leaf",
             "state": {
@@ -104,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,8 +273,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "175dc5449e9cdc9a",
+  "active": "ab8caf848b0af1f1",
   "lastOpenFiles": [
+    "blog/blogs/Untitled.md",
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
     "blog/blogs/elephant.md",
