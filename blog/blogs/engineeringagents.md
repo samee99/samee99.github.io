@@ -18,7 +18,5 @@ This human labor is
 - varying in motivation 
 - varying in emotional and technical competence given the task 
 
-The human labor uses 
-
 **The solution**
-AI Agents Agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers with writing code and performing low level tasks. 
+AI Agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers with writing code and performing low level tasks. 
