@@ -19,4 +19,4 @@ This human labor is
 - varying in emotional and technical competence given the task 
 
 **The solution**
-Agents are already helping software engineers with 
+AI Agents Agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers with writing code and performing low level tasks. 
