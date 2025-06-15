@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/Untitled.md",
+                "file": "blog/blogs/engineeringagents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "engineeringagents"
             }
           },
           {
@@ -275,15 +275,15 @@
   },
   "active": "ab8caf848b0af1f1",
   "lastOpenFiles": [
-    "blog/blogs/Untitled.md",
+    "blog/blogs/technology.md",
+    "blog/blogs/engineeringagents.md",
+    "blog/blogs/bitterlessonagents.md",
     "blog/blogs/essays.md",
     "blog/blogs/goals.md",
     "blog/blogs/elephant.md",
     "blog/blogs/dl.md",
-    "blog/blogs/bitterlessonagents.md",
     "blog/blogs/writing.md",
     "blog/blogs/ub.md",
-    "blog/blogs/technology.md",
     "blog/blogs/ProblemsRAG2.md",
     "blog/blogs/ProblemsRAG1.md",
     "blog/blogs/Problems with RAG.md",
