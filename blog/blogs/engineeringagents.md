@@ -15,7 +15,9 @@ Engineering companies are typically organized in response to the system definiti
 This human labor is
 - expensive
 - slow (requires time to sleep and rest)
-- 
+- hard to replace 
+- varying in motivation 
+- varying in emotional 
 
 **The solution**
 
