@@ -10,7 +10,7 @@ Engineers get to work building the solutions at component and system level. They
 **The problem**
 This process is highly labor intensive and slow. Junior design engineers work at component level to execute on requirements that have been cascaded down to them by senior system engineers. They would typically perform a combination of writing documentation on the architecture as well as performing computer aided design/engineering/simulations to design the components. This is in addition to the meetings they would attend to verify with their stakeholders that they are on the right path. Similar processes are followed by engineers responsible for manufacturing the components and systems: creating tests needed to verify performance, executing them and documenting the results. Finally customer support engineers would typically be reading through the logs produced by the system once it is deployed, ensuring it is performing as it should. trying to find the root cause in case something goes wrong, while simultaneously thinking collectively about how to ensure that the problems don't occur again. 
 
-Engineering companies are organized in response to  
+Engineering companies are typically organized in response to the system definition and system testing and integration process, starting from research to development to manufacturing and customer support. 
 
 **The solution**
 
