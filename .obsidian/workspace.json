@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "175dc5449e9cdc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/blogs/goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "goals"
+            }
+          },
+          {
             "id": "660ce3fd743dddf0",
             "type": "leaf",
             "state": {
@@ -90,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,37 +259,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cad90146a5d5e391",
+  "active": "175dc5449e9cdc9a",
   "lastOpenFiles": [
-    "blog/blogs/ProblemsRAG1.md",
+    "blog/blogs/essays.md",
+    "blog/blogs/goals.md",
+    "blog/blogs/elephant.md",
+    "blog/blogs/dl.md",
+    "blog/blogs/bitterlessonagents.md",
+    "blog/blogs/writing.md",
+    "blog/blogs/ub.md",
+    "blog/blogs/technology.md",
     "blog/blogs/ProblemsRAG2.md",
+    "blog/blogs/ProblemsRAG1.md",
     "blog/blogs/Problems with RAG.md",
-    "blog/blogs/mm.md",
+    "blog/blogs/new_education.md",
     "blog/blogs/Neo.md",
+    "blog/blogs/mm.md",
+    "blog/blogs/ml-types.md",
+    "blog/blogs/ml.md",
     "index.md",
     "image-1-300x58.png",
     "README.md",
     "index_backup.md",
     "blog/blog.md",
-    "blog/blogs/technology.md",
-    "blog/blogs/bitterlessonagents.md",
-    "blog/blogs/essays.md",
-    "blog/blogs/elephant.md",
-    "blog/blogs/dl.md",
     "blog/blogs/uploads/5e.png",
     "blog/blogs/uploads/5d.png",
     "blog/blogs/uploads/Pasted image 20240129115805.png",
     "blog/blogs/uploads/5c.png",
-    "blog/blogs/ml.md",
     "blog/blogs/uploads/5b.png",
     "blog/blogs/uploads/5a.png",
     "blogs/painting.md",
-    "blog/blogs/ub.md",
-    "blog/blogs/writing.md",
-    "blog/blogs/goals.md",
     "blog/blogs/mad-scientists.md",
-    "blog/blogs/ml-types.md",
-    "blog/blogs/new_education.md",
     "blog/blogs/uploads/3g.png",
     "blog/blogs/uploads/3g1.png",
     "blog/blogs/uploads/image-14.png",
