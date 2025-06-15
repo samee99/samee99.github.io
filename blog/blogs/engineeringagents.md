@@ -17,7 +17,6 @@ This human labor is
 - slow (requires time to sleep and rest)
 - hard to replace 
 - varying in motivation 
-- varying in emotional 
+- varying in emotional and technical competence given the task 
 
 **The solution**
-
