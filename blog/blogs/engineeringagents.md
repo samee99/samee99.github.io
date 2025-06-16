@@ -13,4 +13,4 @@ Engineering companies are typically organized in response to the system definiti
 The human labor is expensive, hard to replace and varying in motivation/competence. 
 
 **The solution**
-AI Agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers with writing code and performing low level tasks. 
+AI agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers write code faster. Agentic AI (LLM ru)
