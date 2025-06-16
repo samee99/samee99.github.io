@@ -11,12 +11,7 @@ This process is highly labor intensive and slow. Junior design engineers work at
 
 Engineering companies are typically organized in response to the system definition, implementation, testing and integration process, starting from research to development to manufacturing and customer support. Each of these organizations hire hundreds or thousands of engineers who are constantly working within their scope while ensuring that they communicate with their stakeholders so that the full system runs and operates as required.
 
-This human labor is
-- expensive
-- slow (requires time to sleep and rest)
-- hard to replace 
-- varying in motivation 
-- varying in emotional and technical competence given the task 
+The human labor is expensive, hard to replace and varying in motivation/competence. 
 
 **The solution**
 AI Agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers with writing code and performing low level tasks. 
