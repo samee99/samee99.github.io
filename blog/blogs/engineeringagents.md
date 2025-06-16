@@ -15,4 +15,6 @@ The human labor is expensive, hard to replace and varying in motivation/competen
 **The solution**
 AI agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers write code faster. Similarly, Agentic AI (LLM running in a loop with tool calls) can help design engineers write and revise requirement documents, perform simulations using CAD/CAE tools, validate the designed systems, and parse through logs to identify root cause errors when the systems are eventually deployed. 
 
-In addition, Agentic AI can identify when there is value in building surrogate models to replace the slow and expensive CAD/CAE tools and help with the initial Design of Experiments and activ learning loops required to 
+In addition, Agentic AI can identify when there is value in building surrogate models to replace the slow and expensive CAD/CAE tools and help with the initial Design of Experiments and activ learning methods required to optimally sample the space to find optimal designs efficiently. 
+
+The scope of agentic AI system in building engine
