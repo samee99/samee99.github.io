@@ -17,4 +17,4 @@ AI agents like Claude Code and coding assistants like Cursor/Github copilot are 
 
 In addition, Agentic AI can identify when there is value in building surrogate models to replace the slow and expensive CAD/CAE tools and help with the initial Design of Experiments and active learning methods required to optimally sample the space to find optimal designs efficiently. 
 
-While AI agents will eventually disrupt the current way of building and maintaining engineering systems, the process will 
+While AI agents will eventually disrupt the organizational structure of corporations currently building and maintaining engineering systems, the process will start with having intern level agents that complement human engineers as they execute tasks. 
