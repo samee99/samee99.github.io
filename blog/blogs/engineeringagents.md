@@ -12,10 +12,9 @@ The system is then deployed in the field and customer support engineers constant
 
 Along this journey, all the stakeholders in the organization regularly attend meetings and communicate with each other to verify with their stakeholders that they are on the right path and to make changes in case of changing requirements. 
 
-Engineering companies are typically organized in response to the system definition, implementation, testing and integration process, starting from research to development to manufacturing and customer support. Each of these organizations hire hundreds or thousands of engineers who are constantly working within their scope while ensuring that they communicate with their stakeholders so that the full system runs and operates as required.
+Engineering companies are typically organized in response to the system definition, implementation, testing and integration process, starting from research to development to manufacturing and customer support. Each of these organizations hire thousands of engineers who are constantly working within their scope while ensuring that they communicate with their stakeholders so that the full system runs and operates as required.
 
 **The problem**
-
 The process of designing physical engineering systems requires expensive, trained human labor. This human labor is expensive, hard to train, hard to replace and varying in motivation/competence. 
 
 
