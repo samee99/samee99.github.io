@@ -1,6 +1,6 @@
 **Agentic AI for Engineering: From Design to Maintenance**
 
-The process of building and maintaining engineering systems, from relatively simple ones like a to missions like the Apollo 11, has remained more or less the same over the last century. 
+The process of building and maintaining engineering systems, from relatively simple ones like a bicycle to missions like the Apollo 11, has remained more or less the same over the last century. 
 
 You start with the question of what you want to build, hopefully based on what people want. System engineers write down the requirements of the system in terms of performance and design. These then get cascaded down into component level performance and design requirements. 
 
