@@ -30,4 +30,5 @@ While AI agents could eventually disrupt the organizational structure of corpora
 Organizations that successfully integrate Agentic AI in their process of engineering design and operations will change the pace at which they can build products and can simultaneously benefit from tighter learning loops in their product generation process. 
 
 **Where to start?**
-Copilots for 
+Copilots for CAD tools. 
+Copilots for customer support engineers. 
