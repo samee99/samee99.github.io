@@ -19,7 +19,7 @@ The process of designing physical engineering systems requires human labor that 
 
 **The solution**
 
-AI agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers write code faster. AI has the potential to similarly act as a copilot for engineers building physical hardware. Similarly, Agentic AI (LLM running in a loop with tool calls) can help design engineers write and revise requirement documents, perform simulations using CAD/CAE tools, validate the designed systems, and parse through logs to identify root cause errors when the systems are eventually deployed. 
+AI agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers write code faster. AI agents can similarly act as a copilot for engineers building physical hardware. Across the full lifecycle of engineering system design and maintenance. design engineers write and revise requirement documents, perform simulations using CAD/CAE tools, validate the designed systems, and parse through logs to identify root cause errors when the systems are eventually deployed. 
 
 In addition, Agentic AI can identify when there is value in building surrogate models to replace the slow and expensive CAD/CAE tools and help with the initial Design of Experiments and active learning methods required to optimally sample the space to find optimal designs efficiently. 
 
