@@ -4,7 +4,7 @@ The process of building and maintaining engineering systems, from relatively sim
 
 You start with the question of what you want to build, hopefully based on what people want. System engineers write down the requirements of the system in terms of performance and design. These then get cascaded down into component level performance and design requirements. 
 
-Engineers get to work building the solutions at component and system level. They define the architecture, the detailed design and start implementing. Once the design is ready, integration tests and verifications happen at the component and system level. After the performance of the system is validated, it is deployed in the field and maintained till the end of its lifetime. 
+Engineers get to work building the solutions at component and system level. They define the architecture, the detailed design and start implementing. Once the design is ready, the components and systems are manufactured and  integration tests, verifications happen at the component and system level. After the performance of the system is validated, it is deployed in the field and maintained till the end of its lifetime. 
 
 **The problem**
 
