@@ -1,6 +1,6 @@
 **Agentic AI for Engineering: From Design to Maintenance**
 
-The process of building and maintaining engineering systems, from relatively simple ones like the first car engine to missions like the apollo 11, has remained more or less the same over the last century. 
+The process of building and maintaining engineering systems, from relatively simple ones like the first car engine to missions like the Apollo 11, has remained more or less the same over the last century. 
 
 You start with the question of what you want to build, hopefully based on what people want. System engineers write down the requirements of the system in terms of performance and design. These then get cascaded down into component level performance and design requirements. 
 
@@ -13,9 +13,9 @@ Junior design engineers work at component level to execute on requirements that 
 The process of designing physical engineering systems requires expensive, trained human labor. This human labor is expensive, hard to train, hard to replace and varying in motivation/competence. 
 
 Engineering companies are typically organized in response to the system definition, implementation, testing and integration process, starting from research to development to manufacturing and customer support. Each of these organizations hire hundreds or thousands of engineers who are constantly working within their scope while ensuring that they communicate with their stakeholders so that the full system runs and operates as required.
-The human labor is expensive, hard to replace and varying in motivation/competence. 
 
 **The solution**
+
 AI agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers write code faster. Similarly, Agentic AI (LLM running in a loop with tool calls) can help design engineers write and revise requirement documents, perform simulations using CAD/CAE tools, validate the designed systems, and parse through logs to identify root cause errors when the systems are eventually deployed. 
 
 In addition, Agentic AI can identify when there is value in building surrogate models to replace the slow and expensive CAD/CAE tools and help with the initial Design of Experiments and active learning methods required to optimally sample the space to find optimal designs efficiently. 
