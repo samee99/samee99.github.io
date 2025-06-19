@@ -20,8 +20,9 @@ The process of designing physical engineering systems requires human labor that 
 **The solution**
 AI agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers write code faster. AI agents can similarly act as copilots for engineers across the full lifecycle of physical engineering system design and maintenance. Here are a few examples of how: 
 
-1. Documentation usecase: AI Agents can help engineers write and revise requirement documents. These agents will likely requiring agentic RAG (Retrieva)
-2. perform simulations using CAD/CAE tools, validate the designed systems, and parse through logs to identify root cause errors when the systems are eventually deployed. 
+1. Documentation usecase: AI Agents can help engineers write and revise requirement documents. These agents will likely requiring agentic RAG (Retrieval Augmented Generation) solutions to surface the write content for the engineer. 
+2. Help perform simulations using CAD/CAE tools
+3. Parse through logs to identify root cause errors when the systems are eventually deployed. Again this involve RAG or Graph
 
 In addition, Agentic AI can identify when there is value in building surrogate models to replace the slow and expensive CAD/CAE tools and help with the initial Design of Experiments and active learning methods required to optimally sample the space to find optimal designs efficiently. 
 
