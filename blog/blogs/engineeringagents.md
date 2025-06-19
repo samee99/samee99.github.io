@@ -17,7 +17,6 @@ Engineering companies are typically organized in response to the system definiti
 **The problem**
 The process of designing physical engineering systems requires human labor that is expensive, hard to train, hard to replace and varying in motivation/competence. The pace at which an engineering organization builds these systems is gated by human labor. The learning cycle of design, implementation, validation and maintenance is therefore also limited by human labor. 
 
-
 **The solution**
 
 AI agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers write code faster. Similarly, Agentic AI (LLM running in a loop with tool calls) can help design engineers write and revise requirement documents, perform simulations using CAD/CAE tools, validate the designed systems, and parse through logs to identify root cause errors when the systems are eventually deployed. 
