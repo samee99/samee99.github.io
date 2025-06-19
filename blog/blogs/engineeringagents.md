@@ -1,6 +1,6 @@
 **Agentic AI for Engineering: From Design to Maintenance**
 
-**How engineering organizations build engineering systems today**
+**How organizations build and maintain engineering systems today**
 
 The process of building and maintaining engineering systems, from relatively simple ones like a bicycle to missions like the Apollo 11, has remained more or less the same over the last century. 
 
@@ -24,4 +24,6 @@ AI agents like Claude Code and coding assistants like Cursor/Github copilot are 
 2. In the implementation phase, AI agents can help perform simulations using CAD/CAE tools by searching through tool documentation and surfacing relevant APIs with the right configurations. 
 3. In the maintenance phase, AI agents can parse through logs to identify root cause errors when the systems are deployed. Again this involves agentic RAG or GraphRAG solutions to assist customer support engineers to handle system performance issues. 
 
-While AI agents could eventually disrupt the organizational structure of corporations currently building and maintaining engineering systems, the process will still start with having intern level agents that complement human engineers as they execute low tasks. 
+While AI agents could eventually disrupt the organizational structure of corporations currently building and maintaining engineering systems, the process will still start with having intern level agents that complement human engineers as they execute low level tasks. 
+
+**Why thid si
