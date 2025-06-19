@@ -15,7 +15,7 @@ Along this journey, all the stakeholders in the organization regularly attend me
 Engineering companies are typically organized in response to the system definition, implementation, testing and integration process, starting from research to development to manufacturing and customer support. Each of these organizations hire thousands of engineers who are constantly working within their scope while ensuring that they communicate with their stakeholders so that the full system runs and operates as required.
 
 **The problem**
-The process of designing physical engineering systems requires human labor that is expensive, hard to train, hard to replace and varying in motivation/competence. 
+The process of designing physical engineering systems requires human labor that is expensive, hard to train, hard to replace and varying in motivation/competence. The pace at which any engineering organization builds these engineering systems is gated by the human labor. 
 
 
 **The solution**
