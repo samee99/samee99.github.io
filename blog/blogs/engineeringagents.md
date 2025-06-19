@@ -6,7 +6,7 @@ You start with the question of what you want to build, hopefully based on what p
 
 Engineers get to work building the solutions at component and system level. Junior design engineers work at component level to execute on requirements that have been cascaded down to them by senior system engineers. The junior engineers define the architecture, the detailed design and start perform computer aided design/engineering/simulations to design the components. Similar processes are followed by engineers responsible for manufacturing the components and systems: creating tests needed to verify performance, executing them and documenting the results. The system is then deployed in production and customer support engineers typically read through the logs produced by the system once it is deployed, ensuring it performs as it should, finding the root cause in case something goes wrong, while simultaneously thinking about what to change so that the problems don't occur again. 
 
-Along this journey, all the stakeholders in the organization regularly attend meetings and communi to verify with their stakeholders that they are on the right path. 
+Along this journey, all the stakeholders in the organization regularly attend meetings and communicate with each other to verify with their stakeholders that they are on the right path and to make changes in case of changing requirements. 
 
 They define the architecture, the detailed design and start implementing. Once the design is ready, the components and systems are manufactured and  integration tests, verifications happen at the component and system level. After the performance of the system is validated, it is deployed in the field and maintained till the end of its lifetime. 
 
