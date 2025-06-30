@@ -1,34 +1,63 @@
 **Agentic AI for Engineering: From Design to Maintenance**
 
-**How organizations build and maintain engineering systems today**
+**Organizations building and maintaining engineering systems are bottlenecked by human speed**
+The process of building and maintaining physical engineering systems, from bicycles to Apollo 11, has remained more or less the same over the last century. Designing these systems requires human labor that is expensive, hard to train/replace and varying in motivation/competence. The learning cycle of designing, implementing, validating and maintaining these systems is also limited by human labor. 
 
-The process of building and maintaining engineering systems, from relatively simple ones like a bicycle to missions like the Apollo 11, has remained more or less the same over the last century. 
+**So how does this process play out today?** 
+You start with the question of what you want to build. System engineers write down the system-level performance and design requirements. Junior engineers, working at the decomposed component level, define the architecture within their scope, and perform Computer Aided Design/Engineering (CAD/CAE) simulations to design the components. Manufacturing teams validate that designs are manufacturable and build them in collaboration with suppliers. The system is then deployed in the field and customer support engineers review the system logs, perform maintenance, identify the root cause in case of issues, and ensure the system performs as it should. 
 
-You start with the question of what you want to build, hopefully based on what people want. System engineers write down the requirements of the system in terms of performance and design. These then get cascaded down into component level performance and design requirements. 
+Engineering companies are typically organized to mirror this process from research to design to manufacturing and support. Depending on system complexity, thousands of engineers are constantly working within their scope while ensuring they communicate across functions so the system runs as required.
 
-Engineers get to work building the solutions at component and system level. Junior design engineers work at component level to execute on requirements that have been cascaded down to them. The junior engineers define the architecture, the detailed design and start perform computer aided design/engineering/simulations to design the components. Similar processes are followed by engineers responsible for manufacturing the components and systems: creating tests needed to verify performance, executing them and documenting the results. 
+**The opportunity: AI Agents across the lifecycle** 
 
-The system is then deployed in the field and customer support engineers constantly review the logs produced by the system once it is deployed, ensuring it performs as it should, finding the root cause in case of issues, while simultaneously thinking about what to change so that the problems don't occur again. This process continues until the system reaches the end of its lifetime. 
+AI agents like Claude Code/Gemini CLI/OpenAI Codex and coding assistants like Cursor/Github copilot are already accelerating software development. But the opportunity in physical engineering is even greater. 
 
-Along this journey, all the stakeholders in the organization regularly attend meetings and communicate with each other to verify with their stakeholders that they are on the right path and to make changes in case of changing requirements. 
+  
 
-Engineering companies are typically organized in response to the system definition, implementation, testing and integration process, starting from research to development to manufacturing and customer support. Each of these organizations hire thousands of engineers who are constantly working within their scope while ensuring that they communicate with their stakeholders so that the full system runs and operates as required.
+Why? Because current engineering workflows are bottlenecked by CAD tool complexity, fragmented documents and tribal knowledge. AI agents can act as copilots to unblock engineers across the lifecycle of physical engineering systems. Here are some obvious examples: 
 
-**The problem**
-The process of designing physical engineering systems requires human labor that is expensive, hard to train, hard to replace and varying in motivation/competence. The pace at which an engineering organization builds these systems is gated by human labor. The learning cycle of design, implementation, validation and maintenance is therefore also limited by human labor. 
+  
 
-**The solution**
-AI agents like Claude Code and coding assistants like Cursor/Github copilot are helping software engineers write code faster. AI agents can similarly act as copilots for engineers across the full lifecycle of physical engineering system design and maintenance. Here are a few examples of how: 
+1. In the requirements phase, AI agents can help engineers write and revise requirement documents, based on established ways of working. 
 
-1. In the design phase, AI Agents can help engineers write and revise requirement documents. These agents will likely requiring agentic RAG (Retrieval Augmented Generation) solutions to surface the write content for the engineer. 
-2. In the implementation phase, AI agents can help perform simulations using CAD/CAE tools by searching through tool documentation and surfacing relevant APIs with the right configurations. 
-3. In the maintenance phase, AI agents can parse through logs to identify root cause errors when the systems are deployed. Again this involves agentic RAG or GraphRAG solutions to assist customer support engineers to handle system performance issues. 
+2. In the design & implementation phase, AI agents can search CAD/CAE tool documentation, retrieve relevant configurations, and eventually augment expensive simulation workflows with surrogate models (AI enabled digital twins).  
 
-While AI agents could eventually disrupt the organizational structure of corporations currently building and maintaining engineering systems, the process will still start with having intern level agents that complement human engineers as they execute low level tasks. 
+3. In the manufacturing phase, AI agents can help generate step-by-step instructions for specific tasks on the factory floor. 
+
+4. In the maintenance phase, AI agents can parse system logs, correlate with past failures, and suggest diagnostics to help identify and fix root cause errors. 
+
+  
+
+Much of engineering time isn’t lost in invention, but in finding and using the right tool, test, config, or document. That’s exactly where AI agents will shine. They will start contributing by removing information and search bottlenecks where engineering time is most often wasted. 
+
+  
+
+**Start Small: Intern-Level AI Agents First**
+
+Agentic AI for physical engineering won’t begin by disrupting org charts. It will still start with having intern level copilots that complement human engineers on low level tasks like finding a test script or summarizing a log file. As the AI agents become better at assisting with low level tasks and earn the confidence of human engineers, they will get pushed up the value chain and be trusted to operate more autonomously. 
+
+  
+
+**How else will things change for engineering organizations?** 
+
+AI will also disrupt generic operations of engineering organizations, such as IT, legal, and HR. But these functions are not unique to engineering organizations building physical systems. Hyperscalers (e.g. Amazon, Google, Microsoft) and startups in verticals (e.g. Harvey in legal) are already well equipped to attack these operational use cases.
+
+  
+
+The real opportunity lies in engineering-native workflows, CAD/CAE, procurement, test benches, logs. This is where general purpose copilots will fall short and purpose-built AI agents for engineering will be needed. 
+
+  
 
 **Why this disruption matters**
-Organizations that successfully integrate Agentic AI in their process of engineering design and operations will change the pace at which they can build products and can simultaneously benefit from tighter learning loops in their product generation process. 
 
-**Where to start?**
-Copilots for CAD tools. 
-Copilots for customer support engineers. 
+Organizations that successfully integrate Agentic AI in their process of engineering design and operations will change the pace at which they can learn and build products. Faster iteration loops mean tighter integration between design, manufacturing, deployment, and field feedback. Engineering organizations armed with AI agents will outcompete legacy competitors, compounding product value over time. 
+
+  
+
+**Where to start: Customer Support**
+
+Complexity increases as you move upstream from customer support, to manufacturing, to design and eventually to research. The earlier phases are more ambiguous and open-ended, while later stages like customer support are narrower in scope. 
+
+  
+
+That’s why we may want to begin at the end, i.e. customer support, which is a high friction, but immediate value use case. Today, root cause identification is manual, engineers lose hours digging through past issues. The customer support problem for engineering systems has a clear scope, the feedback loops are fast, and the success criteria is clear. AI agents can assist immediately, prove value and then climb up the lifecycle.
