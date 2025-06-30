@@ -24,10 +24,12 @@ Why? Because current engineering workflows are bottlenecked by CAD tool complexi
 Much of engineering time isn’t lost in invention, but in finding and using the right tool, test, config, or document. That’s exactly where AI agents will shine. They will start contributing by removing information and search bottlenecks where engineering time is most often wasted. 
 
 
-**Start Small: Intern-Level AI Agents First** - Agentic AI for physical engineering won’t begin by disrupting org charts. It will still start with having intern level copilots that complement human engineers on low level tasks like finding a test script or summarizing a log file. As the AI agents become better at assisting with low level tasks and earn the confidence of human engineers, they will get pushed up the value chain and be trusted to operate more autonomously. 
+**Start Small: Intern-Level AI Agents First** - 
+Agentic AI for physical engineering won’t begin by disrupting org charts. It will still start with having intern level copilots that complement human engineers on low level tasks like finding a test script or summarizing a log file. As the AI agents become better at assisting with low level tasks and earn the confidence of human engineers, they will get pushed up the value chain and be trusted to operate more autonomously. 
 
 
-**How else will things change for engineering organizations?** AI will also disrupt generic operations of engineering organizations, such as IT, legal, and HR. But these functions are not unique to engineering organizations building physical systems. Hyperscalers (e.g. Amazon, Google, Microsoft) and startups in verticals (e.g. Harvey in legal) are already well equipped to attack these operational use cases.
+**How else will things change for engineering organizations?** 
+AI will also disrupt generic operations of engineering organizations, such as IT, legal, and HR. But these functions are not unique to engineering organizations building physical systems. Hyperscalers (e.g. Amazon, Google, Microsoft) and startups in verticals (e.g. Harvey in legal) are already well equipped to attack these operational use cases.
 
 The real opportunity lies in engineering-native workflows, CAD/CAE, procurement, test benches, logs. This is where general purpose copilots will fall short and purpose-built AI agents for engineering will be needed. 
 
