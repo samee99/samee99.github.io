@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/engineeringagents.md",
+                "file": "blog/blogs/dl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "engineeringagents"
+              "title": "dl"
             }
           },
           {
@@ -275,18 +275,18 @@
   },
   "active": "ab8caf848b0af1f1",
   "lastOpenFiles": [
-    "blog/blogs/technology.md",
-    "blog/blogs/engineeringagents.md",
-    "blog/blogs/bitterlessonagents.md",
-    "blog/blogs/essays.md",
-    "blog/blogs/goals.md",
     "blog/blogs/elephant.md",
-    "blog/blogs/dl.md",
-    "blog/blogs/writing.md",
-    "blog/blogs/ub.md",
+    "blog/blogs/engineeringagents.md",
+    "blog/blogs/essays.md",
+    "blog/blogs/technology.md",
     "blog/blogs/ProblemsRAG2.md",
     "blog/blogs/ProblemsRAG1.md",
     "blog/blogs/Problems with RAG.md",
+    "blog/blogs/bitterlessonagents.md",
+    "blog/blogs/goals.md",
+    "blog/blogs/dl.md",
+    "blog/blogs/writing.md",
+    "blog/blogs/ub.md",
     "blog/blogs/new_education.md",
     "blog/blogs/Neo.md",
     "blog/blogs/mm.md",

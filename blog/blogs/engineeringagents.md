@@ -1,5 +1,7 @@
 **Agentic AI for Engineering: From Design to Maintenance**
 
+*June 2025*
+
 **Organizations building and maintaining engineering systems are bottlenecked by human speed**
 The process of building and maintaining physical engineering systems, from bicycles to Apollo 11, has remained more or less the same over the last century. Designing these systems requires human labor that is expensive, hard to train/replace and varying in motivation/competence. The learning cycle of designing, implementing, validating and maintaining these systems is also limited by human labor. 
 
@@ -34,3 +36,5 @@ Organizations that successfully integrate Agentic AI in their process of enginee
 Complexity increases as you move upstream from customer support, to manufacturing, to design and eventually to research. The earlier phases are more ambiguous and open-ended, while later stages like customer support are narrower in scope. 
 
 That’s why we may want to begin at the end, i.e. customer support, which is a high friction, but immediate value use case. Today, root cause identification is manual, engineers lose hours digging through past issues. The customer support problem for engineering systems has a clear scope, the feedback loops are fast, and the success criteria is clear. AI agents can assist immediately, prove value and then climb up the lifecycle.
+
+*Take me [home](https://sameeurrehman.com/)* 
