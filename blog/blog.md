@@ -7,4 +7,4 @@
 * [Why the fuss about AI and deep learning?](blogs/dl.md)
 * [The Universe and You - Children's book](blogs/ub.md)
 
-*Take me [home](https://sameeurrehman.com/)* 
+*Take me [home](https://sameeurrehman.com/)*  
