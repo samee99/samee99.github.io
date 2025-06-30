@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/dl.md",
+                "file": "blog/blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dl"
+              "title": "blog"
             }
           },
           {
@@ -275,20 +275,22 @@
   },
   "active": "ab8caf848b0af1f1",
   "lastOpenFiles": [
-    "blog/blogs/elephant.md",
+    "blog/blogs/Neo.md",
+    "blog/blog.md",
     "blog/blogs/engineeringagents.md",
+    "blog/blogs/mad-scientists.md",
+    "blog/blogs/goals.md",
     "blog/blogs/essays.md",
+    "blog/blogs/elephant.md",
+    "blog/blogs/dl.md",
+    "blog/blogs/bitterlessonagents.md",
     "blog/blogs/technology.md",
     "blog/blogs/ProblemsRAG2.md",
     "blog/blogs/ProblemsRAG1.md",
     "blog/blogs/Problems with RAG.md",
-    "blog/blogs/bitterlessonagents.md",
-    "blog/blogs/goals.md",
-    "blog/blogs/dl.md",
     "blog/blogs/writing.md",
     "blog/blogs/ub.md",
     "blog/blogs/new_education.md",
-    "blog/blogs/Neo.md",
     "blog/blogs/mm.md",
     "blog/blogs/ml-types.md",
     "blog/blogs/ml.md",
@@ -296,7 +298,6 @@
     "image-1-300x58.png",
     "README.md",
     "index_backup.md",
-    "blog/blog.md",
     "blog/blogs/uploads/5e.png",
     "blog/blogs/uploads/5d.png",
     "blog/blogs/uploads/Pasted image 20240129115805.png",
@@ -304,7 +305,6 @@
     "blog/blogs/uploads/5b.png",
     "blog/blogs/uploads/5a.png",
     "blogs/painting.md",
-    "blog/blogs/mad-scientists.md",
     "blog/blogs/uploads/3g.png",
     "blog/blogs/uploads/3g1.png",
     "blog/blogs/uploads/image-14.png",
