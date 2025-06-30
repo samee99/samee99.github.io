@@ -1,4 +1,4 @@
-* [Building an AI ](blogs/Neo.md)
+* [Agentic AI for Engineering: From Design to Maintenance](blogs/engineeringagents.md)
 * [Building an AI engineer with agents](blogs/Neo.md)  
 * [The bitter lesson of AI agent optimization](blogs/bitterlessonagents.md)  
 * [What is technology?](blogs/technology.md)  
