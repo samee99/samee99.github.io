@@ -7,6 +7,7 @@ The process of building and maintaining physical engineering systems, from bicyc
 
 
 **So how does this process play out today?** 
+
 You start with the question of what you want to build. System engineers write down the system-level performance and design requirements. Junior engineers, working at the decomposed component level, define the architecture within their scope, and perform Computer Aided Design/Engineering (CAD/CAE) simulations to design the components. Manufacturing teams validate that designs are manufacturable and build them in collaboration with suppliers. The system is then deployed in the field and customer support engineers review the system logs, perform maintenance, identify the root cause in case of issues, and ensure the system performs as it should. 
 
 Engineering companies are typically organized to mirror this process from research to design to manufacturing and support. Depending on system complexity, thousands of engineers are constantly working within their scope while ensuring they communicate across functions so the system runs as required.
