@@ -2,7 +2,7 @@
 
 *June 2025*
 
-**Organizations building and maintaining engineering systems are bottlenecked by human speed**
+**Organizations building and maintaining engineering systems are bottlenecked by human speed** - 
 The process of building and maintaining physical engineering systems, from bicycles to Apollo 11, has remained more or less the same over the last century. Designing these systems requires human labor that is expensive, hard to train/replace and varying in motivation/competence. The learning cycle of designing, implementing, validating and maintaining these systems is also limited by human labor. 
 
 
