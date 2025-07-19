@@ -1,4 +1,4 @@
-**Agentic AI for Engineering: From Design to Maintenance**
+**Agentic AI for Physical Engineering Systems: From Design to Maintenance**
 
 *June 2025*
 
