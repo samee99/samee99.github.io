@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/ProblemsRAG1.md",
+                "file": "blog/blogs/Problems with RAG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ProblemsRAG1"
+              "title": "Problems with RAG"
             }
           },
           {
@@ -290,8 +290,10 @@
   },
   "active": "7d4abf7c9654e46b",
   "lastOpenFiles": [
-    "blog/blogs/technology.md",
     "blog/blogs/ProblemsRAG1.md",
+    "blog/blogs/ProblemsRAG2.md",
+    "README.md",
+    "blog/blogs/technology.md",
     "blog/blogs/ub.md",
     "blog/blogs/writing.md",
     "blog/blog.md",
@@ -308,10 +310,8 @@
     "blog/blogs/elephant.md",
     "blog/blogs/dl.md",
     "blog/blogs/bitterlessonagents.md",
-    "blog/blogs/ProblemsRAG2.md",
     "index.md",
     "image-1-300x58.png",
-    "README.md",
     "index_backup.md",
     "blog/blogs/uploads/5e.png",
     "blog/blogs/uploads/5d.png",
