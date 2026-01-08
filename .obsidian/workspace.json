@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/blogs/Problems with RAG.md",
+                "file": "blog/blogs/ub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problems with RAG"
+              "title": "ub"
             }
           },
           {
@@ -290,25 +290,25 @@
   },
   "active": "7d4abf7c9654e46b",
   "lastOpenFiles": [
-    "blog/blogs/ProblemsRAG1.md",
-    "blog/blogs/ProblemsRAG2.md",
-    "blog/blogs/technology.md",
     "blog/blogs/writing.md",
+    "blog/blog.md",
     "blog/blogs/ub.md",
+    "blog/blogs/technology.md",
     "blog/blogs/Problems with RAG.md",
     "blog/blogs/new_education.md",
-    "blog/blogs/mad-scientists.md",
-    "blog/blog.md",
     "blog/blogs/Neo.md",
-    "blog/blogs/engineeringagents.md",
-    "blog/blogs/goals.md",
-    "blog/blogs/essays.md",
-    "blog/blogs/elephant.md",
-    "blog/blogs/dl.md",
-    "blog/blogs/bitterlessonagents.md",
     "blog/blogs/mm.md",
     "blog/blogs/ml-types.md",
     "blog/blogs/ml.md",
+    "blog/blogs/mad-scientists.md",
+    "blog/blogs/goals.md",
+    "blog/blogs/essays.md",
+    "blog/blogs/engineeringagents.md",
+    "blog/blogs/elephant.md",
+    "blog/blogs/dl.md",
+    "blog/blogs/bitterlessonagents.md",
+    "blog/blogs/ProblemsRAG1.md",
+    "blog/blogs/ProblemsRAG2.md",
     "index.md",
     "image-1-300x58.png",
     "README.md",
