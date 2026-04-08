@@ -11,14 +11,13 @@
             "id": "9628c683fb5c69c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "blog/blogs/Neo.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Neo"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           },
           {
@@ -131,8 +130,7 @@
               "title": "elephant"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,8 +286,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d4abf7c9654e46b",
+  "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
+    "2026-04-08.md",
+    "Untitled.base",
+    "blog/blogs/Neo.md",
+    "blog/blogs/new_education.md",
     "blog/blogs/Problems with RAG.md",
     "blog/blogs/ProblemsRAG1.md",
     "blog/blogs/technology.md",
@@ -298,8 +300,6 @@
     "blog/blogs/ub.md",
     "blog/blogs/writing.md",
     "blog/blog.md",
-    "blog/blogs/new_education.md",
-    "blog/blogs/Neo.md",
     "blog/blogs/mm.md",
     "blog/blogs/ml-types.md",
     "blog/blogs/ml.md",
