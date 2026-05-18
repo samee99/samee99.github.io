@@ -11,13 +11,14 @@
             "id": "9628c683fb5c69c7",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -288,8 +289,8 @@
   },
   "active": "9628c683fb5c69c7",
   "lastOpenFiles": [
-    "2026-04-08.md",
     "Untitled.base",
+    "2026-04-08.md",
     "blog/blogs/Neo.md",
     "blog/blogs/new_education.md",
     "blog/blogs/Problems with RAG.md",
